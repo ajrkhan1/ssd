@@ -32,9 +32,9 @@ function Header() {
                   <div class="col-lg-7">
                      <div class="top-right">
                         <div class="top-right-login">
-                           <a href="login-register.html">SLII®. POWERING INSPIRED LEADERS™</a>
-                           <a href="login-register.html">CONTACT US</a>
-                           <a href="login-register.html">BLANCHARD COMMUNITY</a>
+                           <a href="#">SLII®. POWERING INSPIRED LEADERS™</a>
+                           <a href="#">CONTACT US</a>
+                           <a href="#">BLANCHARD COMMUNITY</a>
                         </div>                       
                      </div>
                   </div>
