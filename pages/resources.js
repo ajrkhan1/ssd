@@ -66,9 +66,9 @@ export default function ThanYouLP() {
                             </div>
                             <div className="col-sm-6">
                                 <div className="innerbedkms">
-                                    <h1>Explore Our Leadership Development Resources</h1>
+                                    <h1>Explore our Leadership Development Resources</h1>
                                     <p>
-                                        Valuable articles, videos, and tools to address your leadership and management challenges.
+                                    Valuable articles, videos, and tools to address the challenges of your leadership and management.
                                     </p>
                                 </div>
                             </div>
@@ -90,9 +90,9 @@ export default function ThanYouLP() {
                         </div>
 
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Turning New Hires into Top Performers…Quickly</h2>
+                            <h2 className="sectionh">Quickly Turn New Hires into Top Performers</h2>
                             <p className="headingp">
-                                Fallout from the pandemic has spurred a mass job exodus and a hiring spree. Workplaces are being flooded with new hires. And people are looking at their options. How leaders respond to the influx of new talent will help determine whether new hires leave or stay, coast or contribute, struggle or flourish.
+                            The aftermath of the pandemic has sparked a hiring boom and a widespread exodus from jobs. New hires are overrunning workplaces. And individuals are considering their options. It will depend on how leaders handle the inflow of new talent, whether new workers depart or remain, contribute or coast, struggle or thrive.
                             </p>
                             <a href='#' className='kbbtn kbbtn--orange mtt-20'>Read eBook</a>
                         </div>
@@ -190,9 +190,9 @@ export default function ThanYouLP() {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-sm-12 text-center">
-                            <h2 className="sectionh">Find our latest insights on crucial <br></br>leadership topics</h2>
+                            <h2 className="sectionh">Find Our Latest Insights on Critical <br></br>Leadership Topics</h2>
                             <p className="headingp pbb-10">
-                            Explore articles, research, eBooks, webinars and more on the topics that today’s leadership experts are talking about the most.
+                            Explore articles, research, eBooks, webinars and more on the topics today's leadership experts talk about most.
                             </p>                           
                         </div>
                     </div>

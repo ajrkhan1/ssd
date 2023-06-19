@@ -7,39 +7,53 @@ function Footer() {
       document.getElementById("submitbuttonform").value = "Submitting form...."
       const xhttp = new XMLHttpRequest();
       xhttp.onload = function () {
-          console.log(this.responseText);
+         console.log(this.responseText);
       }
       xhttp.open("Post", 'https://ajrkhan.xyz/blanchardinternational/wp-json/contact-form-7/v1/contact-forms/8/feedback');
       xhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded;");
       xhttp.onreadystatechange = function () {
-          if (xhttp.readyState == 4) {
-              if (xhttp.status == 200) {
-                  document.getElementById("showlabel").innerHTML = "Thank you for submitting your details.";
+         if (xhttp.readyState == 4) {
+            if (xhttp.status == 200) {
+               document.getElementById("showlabel").innerHTML = "Thank you for submitting your details.";
 
-                  document.getElementById("showlabel").style.display = "block";
-                  window.setTimeout(function() {
-                     window.location.href = "/thank-you-lp"
-                  }, 3000);
+               document.getElementById("showlabel").style.display = "block";
+               window.setTimeout(function () {
+                  window.location.href = "/thank-you-lp"
+               }, 3000);
 
-              } else {
-                  alert('There was a problem with the request.');
-              }
-          }
+            } else {
+               alert('There was a problem with the request.');
+            }
+         }
       };
       xhttp.send("your-email=" + event.target.fmail.value)
 
-  }
+   }
 
-    return (
-        <footer className="footer-area footer-bg2">
-         <div className="footer-top pt-100 pb-70">
+   return (
+      <footer className="footer-area footer-bg2">
+         <div className="footer-top ptt-70">
             <div className="container">
-               <div className="row">
+               <div className='row'>
+                  <div className='col-sm-12'>
+                     <div className='innercallt'>
+                        <div className='flogoc'>
+                           <a href=''><img src="/assets/img/kbnew/blanchard_logo_footer.svg" alt="Images" /></a>
+                        </div>
+                        <div className='calltoaa'>
+                           <h3>Ready to get started? Talk to us today.</h3>
+                           <a href='#' className='kbbtn kbbtn--orange  mtt-10'>Get Started</a>
+                        </div>
+                     </div>
+                  </div>
+               
+               </div>
+               <div className="row mmiddlec">
                   <div className="col-lg-3 col-md-6">
                      <div className="footer-widget footer-widget-color1">
                         <div className="footer-logo">
                            <Link href="/"><a>
-                           <img src="/assets/img/whitelogo.png" alt="Images"/>
+                              <img src="/assets/img/whitelogo.png" alt="Images" />
                            </a>
                            </Link>
                         </div>
@@ -51,27 +65,27 @@ function Footer() {
                            <ul className="social-footer-link">
                               <li>
                                  <a href="https://www.facebook.com/blanchardresearchandtrainingindia" target="_blank">
-                                 <i className='bx bxl-facebook'></i>
+                                    <i className='bx bxl-facebook'></i>
                                  </a>
                               </li>
                               <li>
                                  <a href="https://www.linkedin.com/company/blanchard-research-and-training-india/" target="_blank">
-                                 <i className='bx bxl-linkedin'></i>
+                                    <i className='bx bxl-linkedin'></i>
                                  </a>
                               </li>
                               <li>
                                  <a href="https://www.youtube.com/c/BlanchardinternationalIndia" target="_blank">
-                                 <i className='bx bxl-youtube'></i>
+                                    <i className='bx bxl-youtube'></i>
                                  </a>
                               </li>
                               <li>
                                  <a href="https://twitter.com/blanchard_india" target="_blank">
-                                 <i className='bx bxl-twitter'></i>
+                                    <i className='bx bxl-twitter'></i>
                                  </a>
                               </li>
                               <li>
                                  <a href="https://www.instagram.com/blanchard_research_india/" target="_blank">
-                                 <i className='bx bxl-instagram'></i>
+                                    <i className='bx bxl-instagram'></i>
                                  </a>
                               </li>
                            </ul>
@@ -84,32 +98,32 @@ function Footer() {
                         <ul className="footer-list">
                            <li>
                               <Link href="/get-started" target="_blank">
-                              Contact Us
+                                 Contact Us
                               </Link>
                            </li>
                            <li>
                               <Link href="/get-started" target="_blank">
-                              Request a Speaker
+                                 Request a Speaker
                               </Link>
                            </li>
                            <li>
                               <Link href="/terms-and-conditions" target="_blank">
-                              Terms And Conditions
+                                 Terms And Conditions
                               </Link>
                            </li>
                            <li>
                               <Link href="/cancellation-and-refund-policy" target="_blank">
-                              Cancellation and Refund Policy
+                                 Cancellation and Refund Policy
                               </Link>
                            </li>
                            <li>
                               <Link href="/books" target="_blank">
-                              Books
+                                 Books
                               </Link>
                            </li>
                            <li>
                               <Link href="/blanchard-privacy-policy" target="_blank">
-                              Privacy Policy
+                                 Privacy Policy
                               </Link>
                            </li>
                         </ul>
@@ -121,37 +135,37 @@ function Footer() {
                         <ul className="footer-list">
                            <li>
                               <Link href="/products-services/slii-experience" target="_blank">
-                              The SLII Experience™
+                                 The SLII Experience™
                               </Link>
                            </li>
                            <li>
                               <Link href="/products-services/blanchard-management-essentials" target="_blank">
-                              Blanchard Management Essentials
+                                 Blanchard Management Essentials
                               </Link>
                            </li>
                            <li>
                               <Link href="/products-services/self-leadership" target="_blank">
-                              Self Leadership
+                                 Self Leadership
                               </Link>
                            </li>
                            <li>
                               <Link href="/products-services/coaching-essentials" target="_blank">
-                              Coaching Essentials
+                                 Coaching Essentials
                               </Link>
                            </li>
                            <li>
                               <Link href="/products-services/building-trust" target="_blank">
-                              Building Trust
+                                 Building Trust
                               </Link>
                            </li>
                            <li>
                               <Link href="/products-services/leading-people-through-change" target="_blank">
-                              Leading People Through Change
+                                 Leading People Through Change
                               </Link>
                            </li>
-						   <li>
+                           <li>
                               <Link href="/products-services/team-leadership" target="_blank">
-                              Team Leadership
+                                 Team Leadership
                               </Link>
                            </li>
                         </ul>
@@ -177,13 +191,13 @@ function Footer() {
                            </li>
                         </ul>
                         <form id="footerformreset" className="newsletter-form" onSubmit={registerUser}>
-                           <input type="email" className="form-control" placeholder="Email Address" name="fmail" required autocomplete="off"/>
+                           <input type="email" className="form-control" placeholder="Email Address" name="fmail" required autocomplete="off" />
                            <button type="submit" className="submit-btn btn-bg1">
-                           Subscribe
+                              Subscribe
                            </button>
                            <p id="showlabel" style={{ display: "none" }}></p>
                         </form>
-                        
+
                      </div>
                   </div>
                </div>
@@ -193,13 +207,13 @@ function Footer() {
             <div className="copy-right-area-two">
                <div className="copy-right-text">
                   <p>
-                    © 2022 Blanchardinternational India . All Rights Reserved.
+                     © 2022 Blanchardinternational India . All Rights Reserved.
                   </p>
                </div>
             </div>
          </div>
       </footer>
-    )
+   )
 }
 
 export default Footer

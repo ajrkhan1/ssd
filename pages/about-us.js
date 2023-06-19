@@ -66,9 +66,9 @@ export default function ThanYouLP() {
                             </div>
                             <div className="col-sm-6">
                                 <div className="innerbedkms">
-                                    <h1>Blanchard Starts at the Heart of Leadership to Turn Potential Into Performance</h1>
+                                    <h1>To Transform Potential into Performance, Blanchard Starts at the Core of Leadership</h1>
                                     <p>
-                                        Blanchard starts at the heart of leadership, helping leaders view every exchange as an opportunity to foster trust and deepen relationships. We originate dynamic, human-powered learning experiences that enable leaders at all levels to turn potential into performance. These inspired leaders become the ultimate agents of progress and transformation for their people, work, and organizations.
+                                    To help leaders see every interaction as a chance to build relationships and promote trust, Blanchard starts at the core of leadership. We provide engaging, human-powered learning opportunities that help executives operate at their highest potential. These motivated leaders become the most effective catalysts for development and change within their teams, businesses, and organizations.
                                     </p>
                                 </div>
                             </div>
@@ -83,14 +83,14 @@ export default function ThanYouLP() {
                         <div className="col-sm-6">
                             <h2 className="sectionh">Why Blanchard</h2>
                             <p className="headingp">
-                                We maximize individual achievement and organizational performance—enabling measurable progress and true transformation.
+                            By maximizing both individual and organizational performance, we enable quantifiable development and genuine transformation.
                             </p>
                             <ul className="ptt-20">
-                                <li>Relevant, resonant, and research-backed content</li>
-                                <li>Simple and powerful models that work—and the data to prove it</li>
-                                <li>Learning experiences that create connections and outcomes</li>
-                                <li>Coaching that maximizes achievement</li>
-                                <li>Measurement strategies that show results</li>
+                                <li>Research-backed, pertinent, and resonant content.</li>
+                                <li>Simple, effective models with evidence to support them.</li>
+                                <li>Learning activities that provide connections and results.</li>
+                                <li>Coaching that increases performance.</li>
+                                <li>Measuring techniques that provide outcomes.</li>
                             </ul>
 
                         </div>
@@ -113,7 +113,7 @@ export default function ThanYouLP() {
                             <hr className=""></hr>
                             <h2 className='sectionh ptt-50'>Our Mission</h2>
                             <p className='textbox fontc24 pbb-40'>
-                                Blanchard’s leadership experts, proven content, and dynamic learning <br></br>experiences maximize individual achievement and organizational performance.
+                            The proven curriculum, dynamic learning opportunities, and leadership experts <br></br>at Blanchard maximize both employee and company success.
                             </p>
                             <hr></hr>
 
@@ -124,7 +124,7 @@ export default function ThanYouLP() {
                             <div className='reinner'>
                                 <h4>Be True</h4>
                                 <p>
-                                    From business decisions to daily interactions, we remain true to our values. Grounded in transparency and directness, we strive to consistently do what’s right by our clients and our people.
+                                We uphold our beliefs in all our decisions, including corporate ones and daily encounters. With an emphasis on openness and honesty, we work tirelessly to put the needs of our customers and employees first continually.
                                 </p>
                             </div>
                         </div>
@@ -133,7 +133,7 @@ export default function ThanYouLP() {
                             <div className='reinner'>
                                 <h4>Scale Kindness</h4>
                                 <p>
-                                    First, do no harm. We serve others with compassion, love, and grace. We act as though the world is watching, always stopping to ask, “Is it fair, balanced, and right?”
+                                Do no harm. With grace, love, and compassion, we serve others. We always pause to consider "Is it fair, balanced, and right?" as though the entire world is on the watch.
                                 </p>
                             </div>
                         </div>
@@ -142,16 +142,16 @@ export default function ThanYouLP() {
                             <div className='reinner'>
                                 <h4>Transform Together</h4>
                                 <p>
-                                    Transformation is not realized by one individual. Heart and mind-aligned leaders inspire teams to reach new heights of achievement together.
+                                One person cannot achieve transformation. Teams are motivated to achieve new levels of success by heart and mind-aligned leaders.
                                 </p>
                             </div>
                         </div>
 
                         <div className='col-sm-3'>
                             <div className='reinner'>
-                                <h4>Relentless Pursuit</h4>
+                                <h4>Unwavering Pursuit</h4>
                                 <p>
-                                    True leadership is a persistent learning quest. We are a constant resource for those navigating this journey, inspiring people to continuously redefine their personal bests.
+                                Authentic leadership entails a constant search for knowledge. We encourage people to constantly redefine their personal bests as a constant resource for those navigating this journey.
                                 </p>
                             </div>
                         </div>
@@ -171,10 +171,10 @@ export default function ThanYouLP() {
                         <div className='col-sm-6'>
                             <div>
                                 <h2>
-                                    Developing tomorrow’s leaders, today
+                                Building Tomorrow Leaders, Today
                                 </h2>
                                 <p className="pf16w">
-                                    Drs. Ken and Marjorie Blanchard founded The Ken Blanchard Companies in 1979 with three simple goals—to make a difference in people’s lives, drive human worth and effectiveness in the workplace, and help each organization we work with become the provider, employer, and investment of choice.
+                                The Ken Blanchard Companies were established in 1979 by Drs. Ken and Marjorie Blanchard with three straightforward objectives: to improve people's lives, promote workplace effectiveness and human value, and assist each organization we engage with in being the provider, employer, and investment of choice.
                                 </p>
                             </div>
                         </div>
@@ -200,9 +200,9 @@ export default function ThanYouLP() {
                         </div>
 
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Our people</h2>
+                            <h2 className="sectionh">Our People</h2>
                             <p className="headingp text-justify pbb-10">
-                                Delivering innovative leadership development solutions to the world’s leading companies and individuals takes a team of dedicated learning and development professionals with diverse skill sets. We’ve intentionally built a company that attracts leadership development and learning professionals who conduct research and deliver thought leadership that shapes the way we develop our people.
+                            It takes a team of committed learning and development specialists with various skill sets to deliver cutting-edge leadership development solutions to the world's top businesses and individuals. We have created a business that draws learning and leadership development experts who carry out research and provide thought leadership that influences how we grow our employees.
                             </p>
                             <div className="twobtninone">
                                 <a href='#' className='kbbtn kbbtn--orange mtt-20'>Our People</a>
@@ -241,9 +241,9 @@ export default function ThanYouLP() {
                     <div className="row align-items-center">
                         <div className="col-sm-2"></div>
                         <div className="col-sm-8 text-center">
-                            <h2 className="sectionh">Awards & Recognition</h2>
+                            <h2 className="sectionh">Award-winning Programs</h2>
                             <p className="headingp pbb-10 fontc20">
-                                We’re grateful that our industry has recognized the excellence of our solutions and people, and the way in which we put our values into action to create a dynamic workplace.
+                            With offices all around the world, the Blanchard team can provide you customized leadership development training and courses that cover all continents and cultures.
                             </p>
                         </div>
 

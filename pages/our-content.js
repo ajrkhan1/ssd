@@ -26,9 +26,9 @@ export default function ThanYouLP() {
                             </div>
                             <div className="col-sm-6">
                                 <div className="innerbedkms">
-                                    <h1>Proven Content That Unlocks Your People’s Leadership Potential</h1>
+                                    <h1>Unlock Your People’s Leadership Potential with Proven Content</h1>
                                     <p>
-                                        Blanchard was founded by researchers, authors, and teachers focused on giving leaders the resources and training they need to succeed. We continue to research our core ideas through academic, client, and market research to maintain the reliability and validity of our teachings. Blanchard continues to be a trusted partner by focusing exclusively on enhancing our management training.
+                                    Founded by researchers, authors, and teachers, Blanchard focuses on providing leaders with the resources and training they need to succeed. We continue to research our core concepts through academic, client, and market research to maintain the credibility and effectiveness of our teaching. Blanchard remains a trusted partner, fully focused on improving our management training.
                                     </p>
                                 </div>
                             </div>
@@ -41,16 +41,16 @@ export default function ThanYouLP() {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
-                            <h2 className="sectionh">An uncommon approach to leadership development</h2>
+                            <h2 className="sectionh">An Uncommon Approach to Leadership Development</h2>
                             <p className="headingp">
-                                For over four decades, the world’s leading companies have entrusted Blanchard with developing their most valuable success factor—their people. We offer:
+                            For more than forty years, the world's leading companies have trusted Blanchard to develop their most valuable success factor - their people.
                             </p>
                             <ul className="ptt-20">
-                                <li>Field-tested leadership training programs that have inspired millions of individuals</li>
-                                <li>Practical content that is easy to remember and apply in the moment of need</li>
-                                <li>Proven learning experiences tuned to maximize participant engagement</li>
-                                <li>Learning materials and digital assets that are inclusive of and accessible to diverse employee populations</li>
-                                <li>Content and learning experiences that help people develop both the hard and soft skills required to lead people in the modern workplace</li>
+                                <li>Field-Tested Leadership Training Program Inspires Millions.</li>
+                                <li>Practical content, easy to remember, timely application.</li>
+                                <li>Proven, customized learning experiences that maximize participant engagement</li>
+                                <li>Learning materials and digital assets are inclusive and accessible to diverse employee groups</li>
+                                <li>Learning content and experiences that help people develop the hard and soft skills needed to lead people in the modern workplace</li>
                             </ul>
                             <a href='#' className='kbbtn kbbtn--orange mtt-20'>View All Leadership Programs</a>
                         </div>
@@ -73,18 +73,18 @@ export default function ThanYouLP() {
                 <div className="container-fluid">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Addressing leadership challenges</h2>
+                            <h2 className="sectionh">Overcoming Obstacles in Leadership</h2>
                             <p className="headingp">
-                                Effective leaders must learn a whole new skillset to adapt to changing market conditions, meet the evolving needs of their staff, and steer into change and innovation. At Blanchard, we’re always testing and refining our content and gathering learner feedback to ensure our proven leadership frameworks deliver the results leaders and managers need to succeed. We can help your organization overcome today's leadership challenges.
+                            Influential leaders must acquire new abilities to adapt to shifting market conditions, satisfy their team's changing demands, and steer toward change and innovation. To ensure that our tried-and-true leadership frameworks give the outcomes leaders and managers need to succeed, Blanchard is constantly testing, improving, and obtaining learner feedback. We can assist your company in overcoming the leadership problems of today.
                             </p>
                             <ul className="ptt-20">
-                                <li>Leadership Capabilities</li>
-                                <li>Change & Agility</li>
-                                <li>Diversity & Inclusion</li>
-                                <li>Engagement & Retention</li>
-                                <li>Personal Effectiveness</li>
-                                <li>Organizational Performance</li>
-                                <li>Teaming & Collaboration</li>
+                                <li>Capabilities for leadership</li>
+                                <li>Agility & Change</li>
+                                <li>Inclusion & Diversity</li>
+                                <li>Retention and Participation</li>
+                                <li>Individual Effectiveness</li>
+                                <li>Performance in the Workplace</li>
+                                <li>Teamwork and Cooperation</li>
                             </ul>
                             <a href='#' className='kbbtn kbbtn--orange mtt-20'>View Challenges</a>
                         </div>
@@ -113,9 +113,9 @@ export default function ThanYouLP() {
                         </div>
 
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Learning modalities that fit your needs</h2>
+                            <h2 className="sectionh">Learning Methods That Are Appropriate For You</h2>
                             <p className="headingp text-justify pbb-10">
-                                Organizations prefer different learning modalities to engage their learners, and we have them all. Blanchard's content modalities help organizations meet leaders where they are by offering a range of delivery methods that cater to different learning styles, preferences, and needs. Our delivery methods include in-person workshops, online and virtual courses, assessments, coaching, and reinforcement tools. We help you provide your entire workforce with the opportunity to approach their leadership development learning journey in the way that works best for your organization, whether it’s face-to-face peer interaction or online self-paced learning.
+                            We have all the different learning modalities organizations want to use to engage their trainees. Blanchard's content modalities assist organizations in meeting leaders where they are by providing a selection of distribution options tailored to various learning styles, preferences, and needs. In-person workshops, online and virtual courses, assessments, coaching, and reinforcement tools are just a few of our delivery options. We assist you in providing your workforce the freedom to embark on their leadership development learning journey in the format that best suits your business, whether face-to-face peer interaction or online self-paced learning.
                             </p>
                             <div className="twobtninone">
                                 <a href='#' className='kbbtn kbbtn--orange mtt-20'>View Modalities</a>
@@ -136,10 +136,10 @@ export default function ThanYouLP() {
                         <div className='col-sm-6'>
                             <div>
                                 <h2>
-                                    Servant leaders fuel the future of work
+                                Servant Leader Drives the Future of Work
                                 </h2>
                                 <p className="pbb-20">
-                                    Blanchard has embraced servant leadership as a central framework for all our work. We believe a leader’s job is to serve their people and their organization and that good leaders help their people succeed. These beliefs are the golden threads that connect all of Blanchard’s core content and link the company’s programs into a complete leadership system. Servant leadership is the beating heart of Blanchard.
+                                Blanchard has adopted servant leadership as the foundation for all of our work. Leaders must serve their followers and their organization, and influential leaders enable their followers to succeed. These guiding principles tie together Blanchard's essential information and unite the company's initiatives into a coherent leadership framework. The core of Blanchard's philosophy is servant leadership.
                                 </p>
                             </div>
 
@@ -150,7 +150,7 @@ export default function ThanYouLP() {
                                         <div className="blueboxservant">
                                             <h3>98%</h3>
                                             <p>
-                                                of participants felt they learned new and valuable information.
+                                            of participants felt they learned new and valuable information.
                                             </p>
                                         </div>
                                     </div>
@@ -179,46 +179,46 @@ export default function ThanYouLP() {
                     <div className='row'>
                         <div className="col-sm-1"></div>
                         <div className='col-sm-10 text-center pbb-40'>
-                            <h2 className='sectionh ptt-50'>The Blanchard Advantage</h2>
+                            <h2 className='sectionh ptt-50'>How Blanchard Benefits</h2>
                             <p className='textbox'>
-                                We start with the best leadership development ideas from research and industry experts, then apply our decades of experience to distill the essential concepts and behaviors and form them into amazing learning experiences.
+                            We begin with the top research-based and industry-recognized ideas for leadership development. Then, we use our decades of experience to whittle down the key ideas and behaviors into great learning experiences.
                             </p>
-                            <h3>How our content inspires business transformation</h3>
+                            <h3>How Our Content Motivates Business Change</h3>
                         </div>
                         <div className="col-sm-1"></div>
 
                         <div className='col-sm-3'>
                             <div className='reinner'>
-                                <h4>Evidence-based Content</h4>
+                                <h4>Proof-based Content</h4>
                                 <p>
-                                Our training programs are grounded in decades of theory and research and validated through real-world application.
+                                Our training programs are based on years of theory and research and have proven effective in the real world.
                                 </p>
                             </div>
                         </div>
 
                         <div className='col-sm-3'>
                             <div className='reinner'>
-                                <h4>Distilled to its Essence</h4>
+                                <h4>Distilled to the core</h4>
                                 <p>
-                                We refine our teachings to their absolute essence, then refine them even more to create key concepts that people can remember and apply when they need them most.
+                                Our teachings are honed to their very essence, and then we hone them much further to provide essential ideas that individuals can recall and use when they need them most.
                                 </p>
                             </div>
                         </div>
 
                         <div className='col-sm-3'>
                             <div className='reinner'>
-                                <h4>Complete Leadership System</h4>
+                                <h4>Fully developed leadership system</h4>
                                 <p>
-                                We designed our leadership content and training as a complete interoperable system that teaches the fundamental mindset and skillset of modern leaders.
+                                We created our leadership training and content as a fully functional, interoperable system that imparts contemporary leaders' basic mentality and skill set.
                                 </p>
                             </div>
                         </div>
 
                         <div className='col-sm-3'>
                             <div className='reinner'>
-                                <h4>Proven Results</h4>
+                                <h4>Reliable Results</h4>
                                 <p>
-                                Thousands of organizations worldwide have successfully used Blanchard training programs to develop millions of effective, compassionate leaders.
+                                Millions of competent, kind leaders have been produced by thousands of organizations worldwide using Blanchard training programs.
                                 </p>
                             </div>
                         </div>
@@ -238,15 +238,15 @@ export default function ThanYouLP() {
                   <div className='col-sm-6'>
                      <div>
                         <h2>
-                        Invest in your next generation of leaders
+                        Invest in the Leaders of Tomorrow
                         </h2>
                         <p className="pf16w">
-                        At Blanchard, we believe that everyone deserves to uncover their hidden potential. We collaborate with the world’s most successful companies to develop their people’s leadership and management skills to meet their most pressing business needs. Our award-winning programs create commonly needed leadership and interpersonal capabilities. Our customized learning journeys are tailored to each company’s unique culture and goals to develop their next generation of leaders.
+                        Everybody has the right, at Blanchard, to realize their full potential. To help the most prosperous businesses in the world fulfill their most urgent business needs, we work together to help people there strengthen their leadership and management skills. Our distinguished programs develop interpersonal and leadership skills that are frequently required. Our tailored learning experiences are created with each company's culture and leadership development objectives in mind.
                         </p>
                         <p className="pf16w">
-                        Are you ready to start your organization’s journey toward an empowered, self-aware workforce that will become a long-term advantage your competitors can’t replicate?
+                        Are you prepared to go on the path that will lead your business to a self-aware, empowered workforce that will give you a long-term advantage over your competitors?
                         </p>
-                        <a href='#' className='kbbtn kbbtn--orange  mtt-10'>Talk to Us</a>
+                        <a href='#' className='kbbtn kbbtn--orange'>Talk to Us</a>
                      </div>
                   </div>
                </div>

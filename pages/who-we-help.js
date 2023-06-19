@@ -26,9 +26,9 @@ export default function ThanYouLP() {
                             </div>
                             <div className="col-sm-6">
                                 <div className="innerbedkms">
-                                    <h1>Achieve Your Organization’s Goals With Human-Centered Learning Experiences</h1>
+                                    <h1>Human-Centered Learning Experiences to Achieve Organizational Goals</h1>
                                     <p>
-                                    Everyone deserves to reach their full potential—in life, and at work. At Blanchard, we partner with organizations of all sizes and across all industries to transform their people. Through our proven training programs and award-winning content, we give people the skills they need to reach their goals today and in the future.
+                                    In life and at work, everyone has the right to realize their full potential. At Blanchard, we collaborate with businesses of all sizes and sectors to transform their workforces. We provide people with the skills they need to achieve their goals now and in the future through our tested training programs and accolade-winning material.
                                     </p>
                                 </div>
                             </div>
@@ -47,9 +47,9 @@ export default function ThanYouLP() {
                         </div>
 
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Solutions for organizations of all sizes</h2>
+                            <h2 className="sectionh">A Wide Range of Business Solutions</h2>
                             <p className="headingp">
-                            From Fortune 100 companies to small family businesses and everything in between, we provide leadership and management development solutions to help your organization thrive in today’s business environment. We meet you where you are, uncover where you want to go, and co-create a learning journey to help your leaders take your organization there.
+                            We offer leadership and management development solutions to assist your organization to succeed in the current business environment, from Fortune 100 firms to small family businesses. We meet you where you are, find out where you want to go, and jointly construct a learning path to assist your leaders in leading your organization there.
                             </p>
                         </div>                        
                     </div>
@@ -67,10 +67,10 @@ export default function ThanYouLP() {
                   <div className='col-sm-6'>
                      <div>
                         <h2>
-                        Unlocking human potential, one leader at a time
+                        One Leader at a Time, Unlocking Human Potential
                         </h2>
                         <p className="pbb-20">
-                        Our engaging resources and interactive programs support leaders at every stage of their careers, from aspiring managers to the C-suite.
+                        From ambitious managers to the C-suite, our dynamic programs and engrossing tools empower leaders at every step of their careers.
                         </p>
                      
                         <ul>
@@ -96,9 +96,9 @@ export default function ThanYouLP() {
                         </div>
 
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Expert training for and by learning professionals</h2>
+                            <h2 className="sectionh">Expert Training For and By Learning Professionals</h2>
                             <p className="headingp text-justify pbb-10">
-                            Blanchard’s train-the-trainer programs are designed and delivered by industry experts who’ve been in your shoes. They apply their real-world experience as they show you how to facilitate and present our proven leadership development methodologies to help others grow professionally. We’ve designed programs specifically for coaches and training professionals, tailored to your applications, where you can learn as part of a peer cohort working toward similar goals.
+                            Blanchard's train-the-trainer courses are designed and taught by industry experts who have been in your shoes. They draw on their real-world experience while showing you how to facilitate and demonstrate our proven leadership development methodology to help others grow professionally. We design programs specifically for coaches and trainers tailored to your application, where you learn as part of a group of peers working towards the same goal.
                             </p>                          
                             <div className="twobtninone">
                             <a href='#' className='kbbtn kbbtn--orange mtt-20'>Coaching Professionals</a>
@@ -113,9 +113,9 @@ export default function ThanYouLP() {
             <div className="container pbb-50">
                <div className='row'>
                   <div className='col-sm-12 text-center pbb-40'>
-                     <h2 className='sectionh ptt-50'>Invest In Your Leadership Potential</h2>
+                     <h2 className='sectionh ptt-50'>Invest in Your Leadership Potential</h2>
                      <p className='headingp'>
-                     Leadership development isn’t something you have to wait to be invited to do. At Blanchard, we have accessible leadership development programs for students, individuals, and team leaders. Our programs focus on the specific challenges people have during these career and life stages, and provide learners with simple yet powerful resources and skills to be successful. So don’t wait for someone else to decide to invest in your leadership potential—find out how to start your leadership development journey today.
+                     Leadership development is not something you have to wait to be invited to participate. Blanchard offers leadership development programs for students, individual and team leaders. Our programs focus on the specific challenges people face during these careers and life stages and equip students with simple yet powerful resources and skills for success. So don't wait until someone else decides to invest in your leadership potential - learn how to start your leadership development journey today.
                      </p>                   
                   </div>
 
