@@ -51,12 +51,7 @@ function Footer() {
                <div className="row mmiddlec">
                   <div className="col-lg-3 col-md-6">
                      <div className="footer-widget footer-widget-color1">
-                        <div className="footer-logo">
-                           <Link href="/"><a>
-                              <img src="/assets/img/whitelogo.png" alt="Images" />
-                           </a>
-                           </Link>
-                        </div>
+                     <h3>ABOUT US</h3>
                         <p>
                            Blanchard Research and Training LLP is the leading training provider in South Asia, with expertise in leadership development across hierarchies.
                         </p>
@@ -207,7 +202,7 @@ function Footer() {
             <div className="copy-right-area-two">
                <div className="copy-right-text">
                   <p>
-                     © 2022 Blanchardinternational India . All Rights Reserved.
+                     © 2023 Blanchardinternational India . All Rights Reserved.
                   </p>
                </div>
             </div>
