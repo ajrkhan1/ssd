@@ -149,7 +149,7 @@ function Nav() {
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a href="#">Leadership Development Programs</a></li>
+                                                                    <li><a className="headlist" href="#">Leadership Development Programs</a></li>
                                                                     <li><a href="#">Learning Journeys</a></li>
                                                                     <li><a href="#">Digital & Virtual Learning Experiences</a></li>
                                                                     <li><a href="#">Propel by Blanchard</a></li>
@@ -161,7 +161,7 @@ function Nav() {
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a href="#">Coaching</a></li>
+                                                                    <li><a className="headlist" href="#">Coaching</a></li>
                                                                     <li><a href="#">Facilitation</a></li>
                                                                     <li><a href="#">Measurement & Impact</a></li>
                                                                     <li><a href="#">Assessments</a></li>
@@ -172,7 +172,7 @@ function Nav() {
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a href="#">Curated Learning Journeys</a></li>
+                                                                    <li><a className="headlist" href="#">Curated Learning Journeys</a></li>
                                                                     <li><a href="#">Customized Learning Experiences</a></li>
                                                                     <li><a href="#">Custom Coaching Solutions</a></li>
                                                                     <li><a href="#">Executive Development Experiences</a></li>
@@ -208,7 +208,7 @@ function Nav() {
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a href="#">Leaders At All Levels</a></li>
+                                                                    <li><a className="headlist" href="#">Leaders At All Levels</a></li>
                                                                     <li><a href="#">Emerging Leaders</a></li>
                                                                     <li><a href="#">New Managers</a></li>
                                                                     <li><a href="#">Experienced Leaders</a></li>
@@ -218,14 +218,14 @@ function Nav() {
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a href="#">Organizations</a></li>
+                                                                    <li><a className="headlist" href="#">Organizations</a></li>
                                                                     <li><a href="#">Training Professionals</a></li>
                                                                     <li><a href="#">Coaching Professionals</a></li>
                                                                 </ul>
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a href="#">Teams</a></li>
+                                                                    <li><a className="headlist" href="#">Teams</a></li>
                                                                     <li><a href="#">Individuals</a></li>
                                                                     <li><a href="#">Students</a></li>
                                                                 </ul>
@@ -261,7 +261,7 @@ function Nav() {
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a href="#">Leadership Development Programs</a></li>
+                                                                    <li><a className="headlist" href="#">Leadership Development Programs</a></li>
                                                                     <li><a href="#">Learning Journeys</a></li>
                                                                     <li><a href="#">Digital & Virtual Learning Experiences</a></li>
                                                                     <li><a href="#">Propel by Blanchard</a></li>
@@ -273,7 +273,7 @@ function Nav() {
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a href="#">Coaching</a></li>
+                                                                    <li><a className="headlist" href="#">Coaching</a></li>
                                                                     <li><a href="#">Facilitation</a></li>
                                                                     <li><a href="#">Measurement & Impact</a></li>
                                                                     <li><a href="#">Assessments</a></li>
@@ -284,7 +284,7 @@ function Nav() {
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a href="#">Curated Learning Journeys</a></li>
+                                                                    <li><a className="headlist" href="#">Curated Learning Journeys</a></li>
                                                                     <li><a href="#">Customized Learning Experiences</a></li>
                                                                     <li><a href="#">Custom Coaching Solutions</a></li>
                                                                     <li><a href="#">Executive Development Experiences</a></li>
@@ -322,35 +322,26 @@ function Nav() {
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a href="#">Leadership Development Programs</a></li>
-                                                                    <li><a href="#">Learning Journeys</a></li>
-                                                                    <li><a href="#">Digital & Virtual Learning Experiences</a></li>
-                                                                    <li><a href="#">Propel by Blanchard</a></li>
-                                                                    <li><a href="#">Keynotes</a></li>
-                                                                    <li><a href="#">Content Licensing</a></li>
-                                                                    <li><a href="#">Public Courses</a></li>
-                                                                    <li><a href="#">Training for Trainers</a></li>
+                                                                    <li><a className="headlist" href="#">Articles and Media</a></li>
+                                                                    <li><a className="headlist" href="/books">Best-selling Books</a></li>
+                                                                    <li><a className="headlist" href="/blog">Blogs</a></li>
+                                                                    <li><a className="headlist" href="#">Client Success Stories</a></li>
                                                                 </ul>
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a href="#">Coaching</a></li>
-                                                                    <li><a href="#">Facilitation</a></li>
-                                                                    <li><a href="#">Measurement & Impact</a></li>
-                                                                    <li><a href="#">Assessments</a></li>
-                                                                    <li><a href="#">Badging</a></li>
-                                                                    <li><a href="#">Moderation & Community Management</a></li>
-                                                                    <li><a href="#">Reinforcement & Sustainment</a></li>
+                                                                    <li><a className="headlist" target="_blank" href="https://blanchardcommunity.com/">Blanchard Community</a></li>
+                                                                    <li><a className="headlist" href="/ebooks">eBooks</a></li>
+                                                                    <li><a className="headlist" href="#">Ignite Newsletter</a></li>
+                                                                    <li><a className="headlist" href="/podcast">Podcasts</a></li>
                                                                 </ul>
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a href="#">Curated Learning Journeys</a></li>
-                                                                    <li><a href="#">Customized Learning Experiences</a></li>
-                                                                    <li><a href="#">Custom Coaching Solutions</a></li>
-                                                                    <li><a href="#">Executive Development Experiences</a></li>
-                                                                    <li><a href="#">Content Integration</a></li>
-                                                                    <li><a href="#">Talent Strategy</a></li>
+                                                                    <li><a className="headlist" href="#">Research & Insights</a></li>
+                                                                    <li><a className="headlist" href="#">On-Demand Webinars</a></li>
+                                                                    <li><a className="headlist" href="#">Upcoming Webinars</a></li>
+                                                                    <li><a className="headlist" href="#">Videos</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -382,35 +373,31 @@ function Nav() {
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a href="#">Leadership Development Programs</a></li>
-                                                                    <li><a href="#">Learning Journeys</a></li>
-                                                                    <li><a href="#">Digital & Virtual Learning Experiences</a></li>
-                                                                    <li><a href="#">Propel by Blanchard</a></li>
-                                                                    <li><a href="#">Keynotes</a></li>
-                                                                    <li><a href="#">Content Licensing</a></li>
-                                                                    <li><a href="#">Public Courses</a></li>
-                                                                    <li><a href="#">Training for Trainers</a></li>
+                                                                    <li><a className="headlist" href="#">Who We Are</a></li>
+                                                                    <li><a href="#">Leadership Team</a></li>
+                                                                    <li><a href="#">Meet Our Experts</a></li>
+                                                                    <li><a href="#">Innovation Lab</a></li>
+                                                                    <li><a href="#">Awards & Recognition</a></li>
+                                                                    <li><a className="headlist" href="#">Blanchard Culture</a></li>
+                                                                    <li><a href="#">Careers</a></li>
                                                                 </ul>
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a href="#">Coaching</a></li>
-                                                                    <li><a href="#">Facilitation</a></li>
-                                                                    <li><a href="#">Measurement & Impact</a></li>
-                                                                    <li><a href="#">Assessments</a></li>
-                                                                    <li><a href="#">Badging</a></li>
-                                                                    <li><a href="#">Moderation & Community Management</a></li>
-                                                                    <li><a href="#">Reinforcement & Sustainment</a></li>
+                                                                    <li><a className="headlist" href="#">Our Commitments</a></li>
+                                                                    <li><a href="#">Vision, Mission & Values</a></li>
+                                                                    <li><a href="#">Blanchard Institute</a></li>
+                                                                    <li><a href="#">Social Responsibility</a></li>
+                                                                    <li><a href="#">Diversity, Equity, & Inclusion</a></li>
                                                                 </ul>
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a href="#">Curated Learning Journeys</a></li>
-                                                                    <li><a href="#">Customized Learning Experiences</a></li>
-                                                                    <li><a href="#">Custom Coaching Solutions</a></li>
-                                                                    <li><a href="#">Executive Development Experiences</a></li>
-                                                                    <li><a href="#">Content Integration</a></li>
-                                                                    <li><a href="#">Talent Strategy</a></li>
+                                                                    <li><a className="headlist" href="#">Who We Partner With</a></li>
+                                                                    <li><a href="#">Authorized Channel Partners</a></li>
+                                                                    <li><a href="#">Content Experts</a></li>
+                                                                    <li><a href="#">Technology Partners</a></li>
+                                                                    <li><a className="headlist" href="#">Global Locations</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>

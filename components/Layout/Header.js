@@ -33,8 +33,8 @@ function Header() {
                      <div class="top-right">
                         <div class="top-right-login">
                            <a href="#">SLII®. POWERING INSPIRED LEADERS™</a>
-                           <a href="#">CONTACT US</a>
-                           <a href="#">BLANCHARD COMMUNITY</a>
+                           <a href="/get-started">CONTACT US</a>
+                           <a target='_blank' href="https://blanchardcommunity.com/">BLANCHARD COMMUNITY</a>
                         </div>                       
                      </div>
                   </div>

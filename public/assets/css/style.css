@@ -1361,7 +1361,7 @@ img {
     -webkit-transition: 0.7s;
     transition: 0.7s;
     font-weight: 500;
-    font-size: 15px !important;
+    font-size: 15px;
 }
 
 .main-nav nav .navbar-nav .nav-item .dropdown-menu li a.active {

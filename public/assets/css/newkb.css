@@ -52,6 +52,35 @@
     color: #003146 !important;
 }
 
+
+.colorthemebg{
+    background-color: #003146 !important;
+}
+
+.colortheme2bg{
+    background-color: #F5F5F5 !important;
+}
+.contanerbgc{
+    background-color: #fff;
+}
+
+.border-top-left-radius-70{
+    border-top-left-radius: 70px;
+}
+
+.border-top-right-radius-70{
+    border-top-right-radius: 70px;
+}
+
+.border-bottom-left-radius-70{
+    border-bottom-left-radius: 70px;
+}
+
+.border-bottom-right-radius-70{
+    border-bottom-right-radius: 70px;
+}
+
+
 .colorblack{
     color: #000 !important;
 }
@@ -122,6 +151,7 @@
     width: 45%;
     max-width: 945px;
 }
+
 .poss{
     position: relative;
     z-index: 99999;
@@ -187,6 +217,57 @@ border-color: currentColor;
 }
 
 
+.bredkums2{
+    background-color: #003146;
+    position: relative;
+    z-index: 3;
+}
+.bredkums2 ul li{
+    float: left;
+    color: #fff;
+    list-style: none;
+    font-size: 16px;
+}
+
+.bredkums2 ul li a{
+    color: #fff;
+    font-weight: 700;
+}
+
+.bredkums2 ul li a span{
+    color: #fff;
+    font-weight: 400;
+}
+
+.bredkums2 .brdlifirst{
+
+        position: relative;
+        display: inline-block;
+        padding-right: 30px;  
+}
+
+.bredkums2 .brdlifirst::after{
+content: "";
+border-style: solid;
+border-width: 0.2em 0.2em 0 0;
+height: 0.5em;
+width: 0.5em;
+position: absolute;
+margin: auto;
+top: 0;
+bottom: 0;
+right: 10px;
+transform: rotate(45deg);
+border-color: currentColor;    
+}
+.innerbedkms h3{
+    font-size: 36px;
+    font-weight: 500;
+    color: #fff;
+    line-height: 66px;
+}
+
+
 
 
 .bodlet{
@@ -194,7 +275,7 @@ border-color: currentColor;
 }
 .biginnerm li a{
     color: #000 !important;
-    padding: 9px 14px;
+    padding: 9px 14px !important;
     font-size: 16px !important;
     line-height: 18px;
 }
@@ -203,6 +284,20 @@ border-color: currentColor;
     background: #F5F5F5;
     border-radius: 48px !important;    
 }
+
+
+.biginnerm li .headlist{
+        color: #008065 !important;
+        padding: 9px 14px !important;
+        font-size: 18px !important;
+        line-height: 19px;
+        font-weight: 700 !important;
+}
+
+.biginnerm li .headlist:hover{
+    color: #000 !important;
+}
+
 
 .kbisblanchard {
     background-color: #9ED8B3;
