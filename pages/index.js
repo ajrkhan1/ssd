@@ -243,11 +243,13 @@ fbq('track', 'PageView');
                      <div className='leadershipinner'>
                         <a href='#' className='leadershpa'>
                            <img src="/assets/img/kbnew/icon/Team-Leaders-and-managers.svg" alt="Images" />
-                           <h4>Team Leaders and <br></br>Managers</h4>
-                           <p>
-                              Whether you are just starting your leadership journey or want to hone your leadership skills, Blanchard can help you become an Inspired Leader.
-                           </p>
-                           <a href='#' className='kbbtn kbbtn--orange mtt-25'>Learn More</a>
+                           <div className='onestoppboxx'>
+                              <h4>Team Leaders and <br></br>Managers</h4>
+                              <p>
+                                 Whether you are just starting your leadership journey or want to hone your leadership skills, Blanchard can help you become an Inspired Leader.
+                              </p>
+                           </div>
+                           <a href='#' className='kbbtn kbbtn--orange'>Learn More</a>
                         </a>
                      </div>
                   </div>
@@ -256,10 +258,12 @@ fbq('track', 'PageView');
                      <div className='leadershipinner'>
                         <a href='#' className='leadershpa'>
                            <img src="/assets/img/kbnew/icon/L-D-professionals.svg" alt="Images" />
-                           <h4>Learning and Development Professionals</h4>
-                           <p>
-                              Looking to make a transformative impact on your organization and people? Our team of experts is constantly working to deliver dynamic yet time-tested solutions and learning experiences.
-                           </p>
+                           <div className='onestoppboxx'>
+                              <h4>Learning and Development Professionals</h4>
+                              <p>
+                                 Looking to make a transformative impact on your organization and people? Our team of experts is constantly working to deliver dynamic yet time-tested solutions and learning experiences.
+                              </p>
+                           </div>
                            <a href='#' className='kbbtn kbbtn--orange'>Learn More</a>
                         </a>
                      </div>
@@ -269,10 +273,12 @@ fbq('track', 'PageView');
                      <div className='leadershipinner'>
                         <a href='#' className='leadershpa'>
                            <img src="/assets/img/kbnew/icon/Training-and-coaching-professionals.svg" alt="Images" />
-                           <h4>Training and Coaching Professionals</h4>
-                           <p>
-                              From a robust community of expert practitioners to a market-leading partner program, we passionately support you in delivering Blanchard content and courses that inspire learners and realize results.
-                           </p>
+                           <div className='onestoppboxx'>
+                              <h4>Training and Coaching Professionals</h4>
+                              <p>
+                                 From a robust community of expert practitioners to a market-leading partner program, we passionately support you in delivering Blanchard content and courses that inspire learners and realize results.
+                              </p>
+                           </div>
                            <a href='#' className='kbbtn kbbtn--orange'>Learn More</a>
                         </a>
                      </div>
@@ -363,10 +369,10 @@ fbq('track', 'PageView');
                                  </div>
                               </div>
                               <div className='slboxbottom'>
-                              <div className="slboxheight">
-                                 <span className='sltype'>Program</span>
-                                 <h3>SLII® Powering Inspired Leaders™</h3>
-                                 <p>Only situational leaders can motivate their workers to rise to the challenge.</p>
+                                 <div className="slboxheight">
+                                    <span className='sltype'>Program</span>
+                                    <h3>SLII® Powering Inspired Leaders™</h3>
+                                    <p>Only situational leaders can motivate their workers to rise to the challenge.</p>
                                  </div>
                                  <a href='#' className='kbbtn kbbtn--orange mtt-0'>Learn More</a>
                               </div>
@@ -381,10 +387,10 @@ fbq('track', 'PageView');
                                  </div>
                               </div>
                               <div className='slboxbottom'>
-                              <div className="slboxheight">
-                                 <span className='sltype'>Program</span>
-                                 <h3>Coaching Essentials®</h3>
-                                 <p>Essential coaching abilities for managers and leaders</p>
+                                 <div className="slboxheight">
+                                    <span className='sltype'>Program</span>
+                                    <h3>Coaching Essentials®</h3>
+                                    <p>Essential coaching abilities for managers and leaders</p>
                                  </div>
                                  <a href='#' className='kbbtn kbbtn--orange mtt-0'>Learn More</a>
                               </div>
@@ -399,10 +405,10 @@ fbq('track', 'PageView');
                                  </div>
                               </div>
                               <div className='slboxbottom'>
-                              <div className="slboxheight">
-                                 <span className='sltype'>Webinar</span>
-                                 <h3 className='colortheme'>Essential Motivators™</h3>
-                                 <p className='colorblack'>Enhance collaboration by knowing yourself and others</p>
+                                 <div className="slboxheight">
+                                    <span className='sltype'>Webinar</span>
+                                    <h3 className='colortheme'>Essential Motivators™</h3>
+                                    <p className='colorblack'>Enhance collaboration by knowing yourself and others</p>
                                  </div>
                                  <a href='#' className='kbbtn kbbtn--orange mtt-0'>Learn More</a>
                               </div>
