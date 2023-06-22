@@ -210,10 +210,10 @@ fbq('track', 'PageView');
                   <div className='col-sm-6'>
                      <div>
                         <h2>
-                        Meet Your Most Pressing Leadership Challenges via Innovative Learning Journeys
+                           Meet Your Most Pressing Leadership Challenges via Innovative Learning Journeys
                         </h2>
                         <p>
-                        We empower businesses for the workplace of the future by meeting you and your students where they are today and where they need to be in the future.
+                           We empower businesses for the workplace of the future by meeting you and your students where they are today and where they need to be in the future.
                         </p>
                         <h4>
                            <strong>Our biggest challenges are in:</strong>
@@ -224,7 +224,7 @@ fbq('track', 'PageView');
                            <li><a href='#'>Diversity & Inclusion <i class="bx bx-right-arrow-alt"></i></a></li>
                            <li><a href='#'>Engagement & Retention <i class="bx bx-right-arrow-alt"></i></a></li>
                            <li><a href='#'>Organizational Performance <i class="bx bx-right-arrow-alt"></i></a></li>
-                           <li><a href='#'>Personal Effectiveness <i class="bx bx-right-arrow-alt"></i></a></li>                           
+                           <li><a href='#'>Personal Effectiveness <i class="bx bx-right-arrow-alt"></i></a></li>
                         </ul>
                      </div>
                   </div>
@@ -245,7 +245,7 @@ fbq('track', 'PageView');
                            <img src="/assets/img/kbnew/icon/Team-Leaders-and-managers.svg" alt="Images" />
                            <h4>Team Leaders and <br></br>Managers</h4>
                            <p>
-                           Whether you are just starting your leadership journey or want to hone your leadership skills, Blanchard can help you become an Inspired Leader.
+                              Whether you are just starting your leadership journey or want to hone your leadership skills, Blanchard can help you become an Inspired Leader.
                            </p>
                            <a href='#' className='kbbtn kbbtn--orange mtt-25'>Learn More</a>
                         </a>
@@ -258,7 +258,7 @@ fbq('track', 'PageView');
                            <img src="/assets/img/kbnew/icon/L-D-professionals.svg" alt="Images" />
                            <h4>Learning and Development Professionals</h4>
                            <p>
-                           Looking to make a transformative impact on your organization and people? Our team of experts is constantly working to deliver dynamic yet time-tested solutions and learning experiences.
+                              Looking to make a transformative impact on your organization and people? Our team of experts is constantly working to deliver dynamic yet time-tested solutions and learning experiences.
                            </p>
                            <a href='#' className='kbbtn kbbtn--orange'>Learn More</a>
                         </a>
@@ -271,7 +271,7 @@ fbq('track', 'PageView');
                            <img src="/assets/img/kbnew/icon/Training-and-coaching-professionals.svg" alt="Images" />
                            <h4>Training and Coaching Professionals</h4>
                            <p>
-                           From a robust community of expert practitioners to a market-leading partner program, we passionately support you in delivering Blanchard content and courses that inspire learners and realize results.
+                              From a robust community of expert practitioners to a market-leading partner program, we passionately support you in delivering Blanchard content and courses that inspire learners and realize results.
                            </p>
                            <a href='#' className='kbbtn kbbtn--orange'>Learn More</a>
                         </a>
@@ -288,7 +288,7 @@ fbq('track', 'PageView');
                   <div className='col-sm-12 text-center'>
                      <h2 className='sectionh'>Enabling Future-ready <br></br>Transformation</h2>
                      <p className='headingp pbb-50'>
-                     Whether you are looking to provide guidance and support to new managers or to help your experienced leaders <br></br>create a more engaged and productive culture, we can help your organization reach its goals.
+                        Whether you are looking to provide guidance and support to new managers or to help your experienced leaders <br></br>create a more engaged and productive culture, we can help your organization reach its goals.
                      </p>
                   </div>
 
@@ -296,7 +296,7 @@ fbq('track', 'PageView');
                      <div className='enablingbox greenboxc'>
                         <h4>Coaching</h4>
                         <p>
-                        Personalized, one-on-one, and team leadership coaching to help your executives, managers, and individual learners develop their leadership skills. <a href='#'>Learn More</a>
+                           Personalized, one-on-one, and team leadership coaching to help your executives, managers, and individual learners develop their leadership skills. <a href='#'>Learn More</a>
                         </p>
                      </div>
                   </div>
@@ -305,7 +305,7 @@ fbq('track', 'PageView');
                      <div className='enablingbox darkblueboxc'>
                         <h4>Leadership Programs</h4>
                         <p>
-                        Build your leadership bench strength, create self-motivated individuals, improve employee engagement, or lead a change initiative. <a href='#'>Learn More</a>
+                           Build your leadership bench strength, create self-motivated individuals, improve employee engagement, or lead a change initiative. <a href='#'>Learn More</a>
                         </p>
                      </div>
                   </div>
@@ -314,7 +314,7 @@ fbq('track', 'PageView');
                      <div className='enablingbox blueboxc'>
                         <h4>Customized Learning Experiences</h4>
                         <p>
-                        We will partner with you, dive into your needs, and create a solution that unlocks your people’s leadership potential. <a href='#'>Learn More</a>
+                           We will partner with you, dive into your needs, and create a solution that unlocks your people’s leadership potential. <a href='#'>Learn More</a>
                         </p>
                      </div>
                   </div>
@@ -323,7 +323,7 @@ fbq('track', 'PageView');
                      <div className='enablingbox darkgeenboxc'>
                         <h4>Public Courses</h4>
                         <p>
-                        Leadership development and training courses help worldwide throughout the year, whenever and wherever it works best for you. <a href='#'>Learn More</a>
+                           Leadership development and training courses help worldwide throughout the year, whenever and wherever it works best for you. <a href='#'>Learn More</a>
                         </p>
                      </div>
                   </div>
@@ -363,10 +363,13 @@ fbq('track', 'PageView');
                                  </div>
                               </div>
                               <div className='slboxbottom'>
+                              <div className="slboxheight">
                                  <span className='sltype'>Program</span>
                                  <h3>SLII® Powering Inspired Leaders™</h3>
                                  <p>Only situational leaders can motivate their workers to rise to the challenge.</p>
-                                 <a href='#' className='kbbtn kbbtn--orange mtt-0'>Learn More</a></div>
+                                 </div>
+                                 <a href='#' className='kbbtn kbbtn--orange mtt-0'>Learn More</a>
+                              </div>
                            </div>
                         </div>
 
@@ -378,10 +381,13 @@ fbq('track', 'PageView');
                                  </div>
                               </div>
                               <div className='slboxbottom'>
+                              <div className="slboxheight">
                                  <span className='sltype'>Program</span>
                                  <h3>Coaching Essentials®</h3>
                                  <p>Essential coaching abilities for managers and leaders</p>
-                                 <a href='#' className='kbbtn kbbtn--orange mtt-0'>Learn More</a></div>
+                                 </div>
+                                 <a href='#' className='kbbtn kbbtn--orange mtt-0'>Learn More</a>
+                              </div>
                            </div>
                         </div>
 
@@ -393,10 +399,13 @@ fbq('track', 'PageView');
                                  </div>
                               </div>
                               <div className='slboxbottom'>
+                              <div className="slboxheight">
                                  <span className='sltype'>Webinar</span>
                                  <h3 className='colortheme'>Essential Motivators™</h3>
                                  <p className='colorblack'>Enhance collaboration by knowing yourself and others</p>
-                                 <a href='#' className='kbbtn kbbtn--orange mtt-0'>Learn More</a></div>
+                                 </div>
+                                 <a href='#' className='kbbtn kbbtn--orange mtt-0'>Learn More</a>
+                              </div>
                            </div>
                         </div>
                      </Slider>
@@ -525,7 +534,7 @@ fbq('track', 'PageView');
                   </div>
 
                   <div className='col-sm-12 text-center'>
-                  <a href='#' className='kbbtn kbbtn--orange  mtt-10'>View All Resources</a>
+                     <a href='#' className='kbbtn kbbtn--orange  mtt-10'>View All Resources</a>
                   </div>
 
                </div>

@@ -126,18 +126,18 @@ function Nav() {
                                 <div className="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
                                     <ul className="navbar-nav m-auto">
                                         <li className="nav-item">
-                                            <Link href="what-we-do">
+                                            <Link href="/what-we-do">
                                                 <a className="nav-link active">What We Do <i className='bx bx-chevron-down'></i></a>
                                             </Link>
                                             <ul className="dropdown-menu">
                                                 <div className="row">
                                                     <div className="col-sm-3 bigmenu1">
                                                         <h4>Trending Now:</h4>
-                                                        <a href="#">Propel by Blanchard</a>
+                                                        <a href="/what-we-do/leadership-development/propel-by-blanchard">Propel by Blanchard</a>
                                                         <p>
                                                             Membership accelerates leadership and professional growth through live, facilitated courses, best-in-class online content, and collaborative experiences.
                                                         </p>
-                                                        <a href="#">Blanchard Design Studio</a>
+                                                        <a href="/what-we-do/custom-solutions">Blanchard Design Studio</a>
                                                         <p>Our solutions combine our award-winning content and methodologies with a collaborative design process.</p>
                                                     </div>
                                                     <div className="col-sm-9 bodlet">
@@ -192,11 +192,11 @@ function Nav() {
                                                 <div className="row">
                                                     <div className="col-sm-3 bigmenu1">
                                                         <h4>Trending Now:</h4>
-                                                        <a href="#">New Managers</a>
+                                                        <a href="/who-we-help/leaders-at-all-levels/new-managers">New Managers</a>
                                                         <p>
                                                         When you promote your high potential individual contributors into their first people manager role, you want to ensure they are successful.
                                                         </p>
-                                                        <a href="#">Senior Leaders</a>
+                                                        <a href="/who-we-help/leaders-at-all-levels/senior-leaders">Senior Leaders</a>
                                                         <p>These leaders are the key to creating an inclusive, high performance workplace culture that reflects the company’s values.</p>
                                                     </div>
                                                     <div className="col-sm-9 bodlet">
@@ -245,11 +245,11 @@ function Nav() {
                                                 <div className="row">
                                                     <div className="col-sm-3 bigmenu1">
                                                         <h4>Trending Now:</h4>
-                                                        <a href="#">Courageous Inclusion</a>
+                                                        <a href="/our-content/programs/courageous-inclusion">Courageous Inclusion</a>
                                                         <p>
                                                         The program teaches participants how to become more knowledgeable and active advocates of inclusion in their workplace.
                                                         </p>
-                                                        <a href="#">Essential Motivators Program</a>
+                                                        <a href="/our-content/programs/essential-motivators">Essential Motivators Program</a>
                                                         <p>Learners identify their pattern of core psychological needs, values, talents, and behaviors so they can better understand themselves and others.</p>
                                                     </div>
                                                     <div className="col-sm-9 bodlet">
@@ -299,12 +299,12 @@ function Nav() {
                                             </ul>
                                         </li>
                                         <li className="nav-item">
-                                            <a href="resources" className="nav-link">Resources<i className='bx bx-chevron-down'></i></a>
+                                            <a href="/resources" className="nav-link">Resources<i className='bx bx-chevron-down'></i></a>
                                             <ul className="dropdown-menu">
                                                 <div className="row">
                                                     <div className="col-sm-3 bigmenu1">
                                                         <h4>Trending Now:</h4>
-                                                        <a href="#">Blanchard Community</a>
+                                                        <a target="-blank" href="https://blanchardcommunity.com/">Blanchard Community</a>
                                                         <p>
                                                         Learn about the Blanchard Community and how to join.
                                                         </p>
@@ -358,7 +358,7 @@ function Nav() {
                                                 <div className="row">
                                                     <div className="col-sm-3 bigmenu1">
                                                         <h4>Trending Now:</h4>
-                                                        <a href="#">The Blanchard Institute</a>
+                                                        <a href="/about-us/our-commitments/blanchard-institute">The Blanchard Institute</a>
                                                         <p>
                                                         The Blanchard Institute is focused on leadership training for middle and high school age students to teach the mindset and skillset of a self leader.
                                                         </p>

@@ -35,6 +35,15 @@
     font-size: 30px;
 }
 
+.font2438{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 38px;
+}
+.lineh34{
+    line-height: 34px !important;
+}
+
 .borderedus0{
     border-radius: 0px !important;
 }
@@ -60,8 +69,17 @@
 .colortheme2bg{
     background-color: #F5F5F5 !important;
 }
+
+.colortheme3bg{
+    background-color: #008065 !important;
+}
+
+.colortheme4bg{
+    background-color: #005D7D !important;
+}
+
 .contanerbgc{
-    background-color: #fff;
+    background-color: #fff !important;
 }
 
 .border-top-left-radius-70{
@@ -82,6 +100,14 @@
 
 
 .colorblack{
+    color: #000 !important;
+}
+
+.hforh{
+    font-size: 1.125rem !important;
+    margin-bottom: 0px !important;
+    font-weight: 700 !important;
+    margin-top: 15px !important;
     color: #000 !important;
 }
 
@@ -770,14 +796,17 @@ border-color: currentColor;
 
 
 .forwhitec p{   
-    color: #fff;
-    margin-bottom: 40px;
+    color: #fff;    
     font-size: 16px;
     line-height: 24px;
 }
 
 .slxpd30{
     padding: 20px;
+}
+
+.slboxheight{
+    min-height: 250px;
 }
 
 
@@ -931,6 +960,7 @@ border-color: currentColor;
     margin-bottom: 0px;
     font-weight: 700;
     margin-top:15px;
+    color: #000;
 }
 
 .Supportinglearning img {
@@ -1272,4 +1302,158 @@ border-radius: 0px;
     margin: 46px 0 0px;
 }
 
+.AProfessional{
+    text-align: center;
+}
+.AProfessional img {
+    width: 90px;
+    filter: brightness(0) saturate(100%) invert(29%) sepia(69%) saturate(1723%) hue-rotate(143deg) brightness(94%) contrast(102%);
+    margin-bottom: 20px;
+}
 
+.AProfessional h3{
+    font-size: 1.625rem;
+    font-weight: 700;
+    font-family: "Barlow", sans-serif;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    display: block;
+    color: #000;
+}
+
+.AProfessional h3{
+    color: #000;
+    line-height: 20px;
+}
+
+.HowPropelBy h2{
+    font-size: 48px;
+    line-height: 50px;
+    color: #fff;
+    margin-bottom: 40px;
+}
+
+.HowPropelBy .howinner{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding: 15px 40px;
+}
+.HowPropelBy .howinner .mimg{
+    min-width: 60px;
+    width: 60px;
+    margin-right: 15px;
+}
+.HowPropelBy .howinner .mimg img{
+    height: 60px;
+    width: 100%;
+    filter: brightness(0) saturate(100%) invert(92%) sepia(18%) saturate(591%) hue-rotate(76deg) brightness(91%) contrast(85%);
+}
+
+.HowPropelBy .howinner .howtext h4{
+    font-size: 1.5rem;
+    font-weight: normal;
+    color: #fff;
+    font-weight: 500;
+}
+.HowPropelBy .howinner .howtext p{
+    color: #fff;
+}
+.DeliveryOptions h2{
+    font-size: 48px;
+    line-height: 50px;
+    color: #fff;
+    margin-bottom: 18px;
+}
+.DeliveryOptions .pcl{
+    font-size: 16px !important;
+    color: #fff !important;
+    font-weight: 400 !important;
+}
+
+.ourstabs .lefttab{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-wrap: nowrap;
+    margin: 0px;
+}
+.ourstabs .react-tabs__tab{
+    color: #fff;
+    display: flex;
+    width: 100%;
+    max-width: 20.625rem;
+    padding: 2rem;
+    margin: 0 0.5rem;
+    border-radius: 20px 20px 0 0;
+    background: #008065;
+}
+
+.ourstabs img{
+    max-height: 50px;
+    filter: brightness(0) saturate(100%) invert(99%) sepia(0%) saturate(7423%) hue-rotate(92deg) brightness(106%) contrast(100%);
+}
+.ourstabs .react-tabs__tab--selected::after{
+    display: none;
+}
+.ourstabs .react-tabs__tab--selected{
+    background: #F5F5F5;
+}
+.ourstabs .react-tabs__tab--selected img{
+    filter: brightness(0) saturate(100%) invert(29%) sepia(69%) saturate(1723%) hue-rotate(143deg) brightness(94%) contrast(102%);
+}
+.ourstabs .react-tabs__tab--selected span{
+    color: #003146 !important;
+}
+.ourstabs .react-tabs__tab span{
+    color: #fff;
+    font-size: 2.25rem;
+    margin-left: 1rem;
+    line-height: 45px;
+}
+
+.tabdetails{
+    border-radius: 30px;
+    padding: 30px;
+    display: none;
+}
+.tabdetails h3{
+    font-size: 2.5rem;
+    line-height: 3.0rem;
+    color: #003146;
+}
+
+.tabdetails p{
+    color: #003146;
+    font-weight: 500;
+    line-height: 23px;
+}
+.mbordee{
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+
+.mmcsh{
+    background-color: #fff;
+    border-radius: 40px;
+    padding: 2rem 0;
+    box-shadow: 0 0 6px 3px rgba(0, 0, 0, 0.1);
+}
+.mmcsh img{
+    height: 90px;
+    width: 100%;
+    filter: brightness(0) saturate(100%) invert(29%) sepia(69%) saturate(1723%) hue-rotate(143deg) brightness(94%) contrast(102%);
+}
+.mmcsh h4{
+    font-size: 24px;
+    font-weight: 600;
+    color: #005A46;
+    padding-top: 30px;
+}
+.borderrrrr{
+    border-right:2px solid #E0E0E0;
+}
