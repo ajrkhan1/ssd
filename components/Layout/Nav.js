@@ -194,7 +194,7 @@ function Nav() {
                                                         <h4>Trending Now:</h4>
                                                         <a href="/who-we-help/leaders-at-all-levels/new-managers">New Managers</a>
                                                         <p>
-                                                        When you promote your high potential individual contributors into their first people manager role, you want to ensure they are successful.
+                                                            When you promote your high potential individual contributors into their first people manager role, you want to ensure they are successful.
                                                         </p>
                                                         <a href="/who-we-help/leaders-at-all-levels/senior-leaders">Senior Leaders</a>
                                                         <p>These leaders are the key to creating an inclusive, high performance workplace culture that reflects the company’s values.</p>
@@ -247,7 +247,7 @@ function Nav() {
                                                         <h4>Trending Now:</h4>
                                                         <a href="/our-content/programs/courageous-inclusion">Courageous Inclusion</a>
                                                         <p>
-                                                        The program teaches participants how to become more knowledgeable and active advocates of inclusion in their workplace.
+                                                            The program teaches participants how to become more knowledgeable and active advocates of inclusion in their workplace.
                                                         </p>
                                                         <a href="/our-content/programs/essential-motivators">Essential Motivators Program</a>
                                                         <p>Learners identify their pattern of core psychological needs, values, talents, and behaviors so they can better understand themselves and others.</p>
@@ -261,25 +261,27 @@ function Nav() {
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a className="headlist" href="#">Leadership Development Programs</a></li>
-                                                                    <li><a href="#">Learning Journeys</a></li>
-                                                                    <li><a href="#">Digital & Virtual Learning Experiences</a></li>
-                                                                    <li><a href="#">Propel by Blanchard</a></li>
-                                                                    <li><a href="#">Keynotes</a></li>
-                                                                    <li><a href="#">Content Licensing</a></li>
-                                                                    <li><a href="#">Public Courses</a></li>
-                                                                    <li><a href="#">Training for Trainers</a></li>
+                                                                    <li><a className="headlist" href="#">Programs</a></li>
+                                                                    <li><a href="/our-content/programs/slii">SLII®—Powering Inspired Leaders™</a></li>
+                                                                    <li><a href="/our-content/programs/blanchard-management-essentials">Blanchard Management Essentials®</a></li>
+                                                                    <li><a href="/our-content/programs/building-trust">Building Trust</a></li>
+                                                                    <li><a href="#">Coaching Essentials®</a></li>
+                                                                    <li><a href="#">Conversational Capacity®</a></li>
+                                                                    <li><a href="#">Courageous Inclusion™</a></li>
+                                                                    <li><a href="#">Essential Motivators™</a></li>
                                                                 </ul>
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a className="headlist" href="#">Coaching</a></li>
-                                                                    <li><a href="#">Facilitation</a></li>
-                                                                    <li><a href="#">Measurement & Impact</a></li>
-                                                                    <li><a href="#">Assessments</a></li>
-                                                                    <li><a href="#">Badging</a></li>
-                                                                    <li><a href="#">Moderation & Community Management</a></li>
-                                                                    <li><a href="#">Reinforcement & Sustainment</a></li>
+                                                                    <li className="ptt-35"></li>
+                                                                    <li><a href="#">Leadership Point of View™</a></li>
+                                                                    <li><a href="#">Leading People through Change®</a></li>
+                                                                    <li><a href="#">Leading Virtually™</a></li>
+                                                                    <li><a href="#">Legendary Service®</a></li>
+                                                                    <li><a href="#">Self Leadership</a></li>
+                                                                    <li><a href="#">Servant Leadership Essentials™</a></li>
+                                                                    <li><a href="#">Team Leadership</a></li>
+                                                                    <li><a href="#">ContentLicensing</a></li>
                                                                 </ul>
                                                             </div>
                                                             <div className="col-sm-4">
@@ -306,11 +308,11 @@ function Nav() {
                                                         <h4>Trending Now:</h4>
                                                         <a target="-blank" href="https://blanchardcommunity.com/">Blanchard Community</a>
                                                         <p>
-                                                        Learn about the Blanchard Community and how to join.
+                                                            Learn about the Blanchard Community and how to join.
                                                         </p>
                                                         <a href="#">Upcoming Webinar</a>
                                                         <p>
-                                                        Join us June 20th at 7am PDT for our next webinar: Flexibly Matching Your Leadership Style to the Needs of Your People
+                                                            Join us June 20th at 7am PDT for our next webinar: Flexibly Matching Your Leadership Style to the Needs of Your People
                                                         </p>
                                                     </div>
                                                     <div className="col-sm-9 bodlet">
@@ -360,15 +362,15 @@ function Nav() {
                                                         <h4>Trending Now:</h4>
                                                         <a href="/about-us/our-commitments/blanchard-institute">The Blanchard Institute</a>
                                                         <p>
-                                                        The Blanchard Institute is focused on leadership training for middle and high school age students to teach the mindset and skillset of a self leader.
+                                                            The Blanchard Institute is focused on leadership training for middle and high school age students to teach the mindset and skillset of a self leader.
                                                         </p>
-                                                       
+
                                                     </div>
                                                     <div className="col-sm-9 bodlet">
                                                         <div className="row bigmenua">
                                                             <div className="col-sm-12">
                                                                 <h3>
-                                                                    <a className="mh3" href="#">About Us <i className="fa fa-angle-right"></i></a> 
+                                                                    <a className="mh3" href="#">About Us <i className="fa fa-angle-right"></i></a>
                                                                 </h3>
                                                             </div>
                                                             <div className="col-sm-4">
