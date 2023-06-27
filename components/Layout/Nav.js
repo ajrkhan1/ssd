@@ -265,18 +265,18 @@ function Nav() {
                                                                     <li><a href="/our-content/programs/slii">SLII®—Powering Inspired Leaders™</a></li>
                                                                     <li><a href="/our-content/programs/blanchard-management-essentials">Blanchard Management Essentials®</a></li>
                                                                     <li><a href="/our-content/programs/building-trust">Building Trust</a></li>
-                                                                    <li><a href="#">Coaching Essentials®</a></li>
-                                                                    <li><a href="#">Conversational Capacity®</a></li>
-                                                                    <li><a href="#">Courageous Inclusion™</a></li>
-                                                                    <li><a href="#">Essential Motivators™</a></li>
+                                                                    <li><a href="/our-content/programs/coaching-essentials">Coaching Essentials®</a></li>
+                                                                    <li><a href="/our-content/programs/conversational-capacity">Conversational Capacity®</a></li>
+                                                                    <li><a href="/our-content/programs/courageous-inclusion">Courageous Inclusion™</a></li>
+                                                                    <li><a href="/our-content/programs/essential-motivators">Essential Motivators™</a></li>
                                                                 </ul>
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
                                                                     <li className="ptt-35"></li>
-                                                                    <li><a href="#">Leadership Point of View™</a></li>
-                                                                    <li><a href="#">Leading People through Change®</a></li>
-                                                                    <li><a href="#">Leading Virtually™</a></li>
+                                                                    <li><a href="/our-content/programs/leadership-point-of-view">Leadership Point of View™</a></li>
+                                                                    <li><a href="/our-content/programs/leading-people-through-change">Leading People through Change®</a></li>
+                                                                    <li><a href="/our-content/programs/leading-virtually">Leading Virtually™</a></li>
                                                                     <li><a href="#">Legendary Service®</a></li>
                                                                     <li><a href="#">Self Leadership</a></li>
                                                                     <li><a href="#">Servant Leadership Essentials™</a></li>

@@ -78,13 +78,13 @@ export default function ThanYouLP() {
                     <div className="row align-items-center">
                         <div className="col-sm-6">
                             <h2 className="sectionh">
-                            Boost collaboration by better understanding what motivates yourself and others
+                            Improve collaboration by understanding what motivates you and others
                             </h2>
                             <p className="headingp">
-                            Friction and misunderstandings in work relationships are constant drains on efficiency and cause frustration and problems. When individuals better understand themselves, they can bring their best skills and talents to their work, and collaborate more impactfully and enjoyably with others.  
+                            The frustration and problems caused by friction and misunderstandings in work relationships drain efficiency. To collaborate more impactfully and enjoyably with others, individuals must better understand themselves to bring their best skills and talents to their work.
                             </p>
                             <p className="headingp">
-                            Essential Motivators™ provides a framework to help learners identify their core psychological needs, values, talents, and behaviors to better understand themselves and others, be more effective, and appreciate different perspectives. 
+                            Through Essential Motivators™, learners can identify their core psychological needs, values, talents, and behaviors to understand themselves and others better.
                             </p>
                             <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>Talk to an Expert</a>
                         </div>
@@ -107,18 +107,18 @@ export default function ThanYouLP() {
                         </div>
 
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Uncover core strengths and needs</h2>
+                            <h2 className="sectionh">Core strengths and needs are</h2>
                             <p className="headingp">
-                            <b>Essential Motivators</b> teaches an easy-to-apply system of four patterns—Air, Earth, Fire, and Water—that helps people become more comfortable with themselves and more collaborative and effective with others.
+                            With Essential Motivators, people become more comfortable with themselves and more collaborative and influential with others by applying four patterns - Air, Earth, Fire, and Water.
                             </p>
                             <p className="headingp">
-                            To identify their Essential Motivators pattern, learners are guided through a process of self-discovery. In this process, they: 
+                            Learners are guided through self-discovery to identify their Essential Motivators pattern. In this process, they:
                             </p>
                             <ul>
-                                <li>Discover their superpower—who they are at their core and their special skills</li>
-                                <li>Understand themselves at a deeper level and how their core needs influence them </li>
-                                <li>Learn to accept others for who they are and what they need </li>
-                                <li>Work more effectively with others, improve communication, and resolve conflict</li>
+                                <li>You can discover their superpower by discovering who they are at their core and what makes them unique</li>
+                                <li>Gain a deeper understanding of themselves and their core needs.</li>
+                                <li>Accept others for who they are and what they need</li>
+                                <li>Resolve conflicts, improve communication, and work more effectively with others</li>
                             </ul>
 
                         </div>
@@ -221,9 +221,9 @@ export default function ThanYouLP() {
                         </div>
 
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Understanding employee motivators equips you to meet their needs</h2>
-                            <p className="headingp text-justify pbb-10 font2438">
-                            When employees feel their needs have been met, they report a 30% higher capacity to focus, a nearly 50% higher level of engagement, and a 63% greater likelihood to stay at the company. 1
+                            <h2 className="sectionh">You can meet the needs of your employees by understanding their motivators</h2>
+                            <p className="themepbold pbb-10">
+                            It has been reported that employees who feel their needs have been met report a <b><span>30%</span></b> greater capacity for focus, a nearly <b><span>50%</span></b> higher level of engagement, and a 63% greater likelihood of staying at a company.
                             </p>
                         </div>
                         <div className="col-sm-12 ptt-60 pbb-20">
@@ -243,7 +243,7 @@ export default function ThanYouLP() {
                                 Understand Different Perspectives To Fuel Deeper Collaboration
                                 </h2>
                                 <p>
-                                The Essential Motivators framework was developed by author and expert Linda Berens, who has over forty years of experience in teaching people to recognize their strengths, transcend their weaknesses, and work together better.
+                                Linda Berens, who has over forty years of experience in teaching people to recognize their strengths, transcend their weaknesses, and work together more effectively, developed the Essential Motivators framework.
                                 </p>
                             </div>
                         </div>
@@ -252,9 +252,9 @@ export default function ThanYouLP() {
                         <div className="col-sm-3">
                             <div className="AProfessional pll-20 prr-20">
                                 <img className="" src="/assets/img/kbnew/icon/increase-effectiveness.svg" alt="Images" />
-                                <h3 className="lineh34">Increase Effectiveness</h3>
+                                <h3 className="lineh34">Enhance effectiveness</h3>
                                 <p>
-                                Organizational effectiveness rises as people learn how to recognize others' core needs and work more collaboratively and synergistically.
+                                Learning to identify others' core needs and working collaboratively and synergistically increases organizational effectiveness.
                                 </p>
                             </div>
                         </div>
@@ -262,9 +262,9 @@ export default function ThanYouLP() {
                         <div className="col-sm-3">
                             <div className="AProfessional pll-20 prr-20">
                                 <img className="" src="/assets/img/kbnew/icon/Improve-employee-engagement.svg" alt="Images" />
-                                <h3 className="lineh34">Improve Employee Engagement</h3>
+                                <h3 className="lineh34">Engage employees better</h3>
                                 <p>
-                                Helps people learn how their core needs influence their motivation, career satisfaction, communication, and problem-solving.
+                                Educate people about how their core needs affect motivation, career satisfaction, communication, and problem-solving.
                                 </p>
                             </div>
                         </div>
@@ -272,9 +272,9 @@ export default function ThanYouLP() {
                         <div className="col-sm-3">
                             <div className="AProfessional pll-20 prr-20">
                                 <img className="" src="/assets/img/kbnew/icon/boost-empathy.svg" alt="Images" />
-                                <h3 className="lineh34">Boost Empathy</h3>
+                                <h3 className="lineh34">Empathy Booster</h3>
                                 <p>
-                                Increases appreciation for diversity and inclusion as people shift perspectives and learn to accept others for who they are.
+                                Changes perspectives and allows people to accept others for who they are, which increases appreciation for diversity and inclusion.
                                 </p>
                             </div>
                         </div>
@@ -283,7 +283,7 @@ export default function ThanYouLP() {
                                 <img className="" src="/assets/img/kbnew/icon/Deepen-collaboration.svg" alt="Images" />
                                 <h3 className="lineh34">Deepen Collaboration</h3>
                                 <p>
-                                Strengthens relationships and understanding of each other’s perspectives, building empathy and trust. 
+                                Builds empathy and trust by strengthening relationships and understanding each other's perspectives.
                                 </p>
                             </div>
                         </div>
@@ -292,43 +292,15 @@ export default function ThanYouLP() {
                 </div>
             </section>
 
-            <section className='SuccessStory'>
-                <div className='container-fluid ptt-90 pbb-60'>
-                    <div className='row align-items-center'>
-                        <div className='col-sm-6'>
-                            <div>
-                                <h2>
-                                Client Success Story
-                                </h2>
-                                <h4>
-                                MANUFACTURING
-                                </h4>
-                                <h3>Cascades Worldwide upskilling frontline leaders</h3>
-
-                                <p>
-                                Learn how Cascades focused on learners’ needs to deliver leadership development and improve business results.
-                                </p>
-                                <a href='#' className='kbbtn kbbtn--orange  mtt-10'>Read Client Story</a>
-                            </div>
-                        </div>
-
-                        <div className='col-sm-6 pa0000'>
-                            <div className='pll-100'>
-                                <img src="/assets/img/kbnew/Cascades-spotlight.jpg" alt="Images" />
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </section>
+       
 
             <section className="ptt-90 ExploreCustom colortheme4bg">
                 <div className="container contanerbgc mbordee pbb-60 ptt-60">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Ready to Get Started?</h2>
+                            <h2 className="sectionh">Are you ready to get started?</h2>
                             <p className="headingp text-justify pbb-10">
-                            Essential Motivators is delivered as part of a Learning Journey or a self-directed online course. Contact us today to learn how we can help your leaders learn the skills they need to be more effective communicators.
+                            Contact us today to learn how we can help your leaders become more effective communicators through Essential Motivators.
                             </p>
                             <a href='/get-started' className='kbbtn kbbtn--orange  mtt-10'>Talk to an Expert</a>
                         </div>

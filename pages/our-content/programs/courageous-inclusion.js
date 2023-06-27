@@ -48,7 +48,7 @@ export default function ThanYouLP() {
     return (
         <>
             <Head>
-                <title>Leadership Training for Senior Leaders | Blanchard International</title>
+                <title>Courageous Inclusion | Blanchard International</title>
                 <meta name="description" content="Help your senior leaders continue to grow their management skills with leadership development training from Blanchard." />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
@@ -77,12 +77,12 @@ export default function ThanYouLP() {
                 <div className="container-fluid">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Creating a workplace where everyone feels seen, heard, and valued</h2>
+                            <h2 className="sectionh">Creating a workplace where everyone feels valued, heard, and seen</h2>
                             <p className="headingp">
-                                Blanchard believes everyone deserves a workplace environment where they truly can be themselves. But achieving true diversity, equity, and inclusion (DEI) isn’t easy. Leaders need a plan and the right skills to carry it out.
+                            Blanchard believes everyone deserves a workplace environment where they truly can be themselves. Leaders need a plan and the right skills to implement it to achieve true diversity, equity, and inclusion (DEI).
                             </p>
                             <p className="headingp">
-                                Based on the proven developmental continuum in Jennifer Brown's book, How to Be an Inclusive Leader, Courageous Inclusion™ cultivates a mindset that promotes diversity and inclusion. The course teaches participants how to become more knowledgeable and active advocates of inclusion in their workplace.
+                            As a result of Jennifer Brown's book, How to Be an Inclusive Leader, Courageous Inclusion™ cultivates an inclusive mindset. Through this course, participants will learn how to become more knowledgeable and active advocates of inclusion in the workplace.
                             </p>
                             <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>Talk to an Expert</a>
                         </div>
@@ -105,18 +105,24 @@ export default function ThanYouLP() {
                         </div>
 
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Build a road map to become a more inclusive workplace</h2>
+                            <h2 className="sectionh">Create a road map for becoming a more inclusive workplace</h2>
                             <p className="headingp">
-                                We understand how important it is to provide your people with a way to confidently and safely speak out and raise DEI issues. Blanchard’s Courageous Inclusion program can help.
+                            With Blanchard's Courageous Inclusion program, you can empower your people to speak out and raise DEI issues confidently and safely.
                             </p>
                             <p className="headingp">
-                                Courageous Inclusion will teach your people a mindset that promotes diversity and inclusion, then provides a proven process to help them become more knowledgeable and active proponents of inclusion in their workplace.
+                            With Courageous Inclusion, you will teach your people a mindset that promotes diversity and inclusion and provide a proven process to help them become more knowledgeable and active proponents of inclusion.
                             </p>
                             <p className="headingp">
-                                Your people will understand how to diagnose themselves on the developmental continuum and which actions to take to progress to higher inclusion levels.
+                            You will teach your people how to diagnose themselves on the developmental continuum and how to progress to higher inclusion levels.
                             </p>
                             <p className="headingp">
-                                This road map approach makes Courageous Inclusion uniquely powerful for increasing inclusivity in your culture and creating a workplace where everyone feels they belong.
+                            With Courageous Inclusion's road map approach, you can increase inclusivity within your organization and create a place where everyone feels welcomed.
+                            </p>
+                            <p className="headingp">
+                            The time has come to transform DEI from a business priority to a workplace reality
+                            </p>
+                            <p className="headingp">
+                            Diversity and inclusion are top priorities for 93% of leaders. Still, only 34% believe it is a strength in their workplace.
                             </p>
 
                         </div>
@@ -267,7 +273,7 @@ export default function ThanYouLP() {
                 <div className="container contanerbgc mbordee pbb-60 ptt-60">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Based on a Proven Development Path for Workplace Inclusivity</h2>
+                            <h2 className="sectionh">Incorporate Courageous Inclusion Into Your Culture</h2>
                             <p className="headingp text-justify pbb-10">
                                 We partnered with diversity and inclusion expert Jennifer Brown to create Courageous Inclusion™ based on the proven developmental continuum in her book, <em>How to Be an Inclusive Leader.</em>
                             </p>

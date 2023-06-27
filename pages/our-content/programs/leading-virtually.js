@@ -9,8 +9,8 @@ export default function ThanYouLP() {
     return (
         <>
             <Head>
-                <title>Building Trust | Blanchard International</title>
-                <meta name="description" content="Blanchard's Building Trust training program teaches managers how to build trust to increase engagement, creativity, and commitment."/>
+                <title>Leading Virtually | Blanchard International</title>
+                <meta name="description" content="Blanchard's Leading Virtually training program teaches people how to lead remote teams that thrive." />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
@@ -22,12 +22,12 @@ export default function ThanYouLP() {
                                 <li className="brdlifirst"><a href="/">HOME</a></li>
                                 <li className="brdlifirst"><a href="/our-content/programs">OUR CONTENT</a></li>
                                 <li className="brdlifirst"><a href="/our-content/programs">PROGRAMS</a></li>
-                                <li><a><span> BUILDING TRUST</span></a></li>
+                                <li><a><span>LEADING VIRTUALLY</span></a></li>
                             </ul>
                         </div>
                         <div className="col-sm-12">
                             <div className="innerbedkms text-center">
-                                <h1>Building Trust</h1>
+                                <h1>Leading Virtually™</h1>
                             </div>
                         </div>
                     </div>
@@ -39,16 +39,20 @@ export default function ThanYouLP() {
                     <div className="row align-items-center">
                         <div className="col-sm-6">
                             <h2 className="sectionh">
-                            Great Leadership Starts with a Workplace Culture Built on Trust
+                            Leadership is Equally Important for Remote Teams
                             </h2>
                             <p className="headingp">
-                            Trust is at the heart of every relationship, and it's essential in the workplace. The most significant factor affecting employee turnover is whether employees and their managers have developed a trusting relationship. Our trust-building program teaches managers to build trusting relationships to increase engagement, creativity, and commitment.
-                            </p>                           
+                            Increasingly, today's workforce works from home and other remote locations, with teams spread across countries and time zones. Due to time lags and technology interfaces, managers need help connecting with their people. It's the new normal, with several benefits and challenges.
+                            </p>
+                            <p className="headingp">
+                            Managing in this environment is much more challenging than working together in the same physical space. Understanding what your employees need and building rapport and trust over long distances can be difficult. Managers can increase the effectiveness and productivity of their remote staff by learning Leading Virtually™
+                            </p>
+                           
                             <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>Talk to an Expert</a>
                         </div>
                         <div className="col-sm-6">
                             <div className="mimg100 imgborder pll-90">
-                                <img className="" src="/assets/img/kbnew/BT-great-leadership-begins-with-a-workplace.jpg" alt="Images" />
+                                <img className="" src="/assets/img/kbnew/LV-Remote-teams-deserve-inspiring.jpg" alt="Images" />
                             </div>
                         </div>
                     </div>
@@ -60,20 +64,20 @@ export default function ThanYouLP() {
                     <div className="row align-items-center">
                         <div className="col-sm-6">
                             <div className="mimg100 imgborder prr-90">
-                                <img className="" src="/assets/img/kbnew/BT-model-understand-and-develop.jpg" alt="Images" />
+                                <img className="" src="/assets/img/kbnew/LPTC-model-leading-through-change-requires.jpg" alt="Images" />
                             </div>
                         </div>
 
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Understanding and Developing the Elements of Trust</h2>
+                            <h2 className="sectionh">To drive commitment at all levels, open communication is necessary</h2>
                             <p className="headingp text-justify">
-                            We know the importance of trust in all relationships. Our Building Trust program can help your leaders and team members understand how to build trust in the workplace and repair it when it breaks.
+                                We know how to get you from where you are to where you need to be during organizational change.
                             </p>
                             <p className="headingp  text-justify">
-                            Based on 30 years of research, our trust experts have developed a simple yet effective trust model that provides a common language and framework to focus on specific behaviors that help build trust.
+                                Leaders learn to identify employees' predictable questions and resolve their concerns to increase employee buy-in and commitment to change initiatives.
                             </p>
                             <p className="headingp  text-justify">
-                            Through a Building Trust program, individuals can understand the impact of their actions on building or eroding trust and identify areas that need attention to build and maintain relationships.
+                                In addition to our 30 years of change leadership consulting experience, the course builds upon academic research that finds people are less resistant to change when they can share their concerns and receive appropriate leadership.
                             </p>
                         </div>
 
@@ -90,12 +94,9 @@ export default function ThanYouLP() {
                     <div className="row align-items-center">
                         <div className="col-sm-1"></div>
                         <div className="col-sm-10 text-center pbb-40">
-                            <h2>Delivery options to suit your needs</h2>
+                            <h2>Delivery Options to Meet Your Needs</h2>
                             <p className="pcl">
-                            We can deliver Building Trust in-person, as a virtual session, as part of a learning journey, or as a self-guided or moderated online version, so your managers can learn how to build or restore trust anytime, anywhere.
-                            </p>
-                            <p className="pcl">
-                                To ensure that your managers can learn the methodology wherever they are and whenever they have the time, SLII® can also be a component of a learning journey or taught in a self-directed online or moderated online version.
+                                Deliver Leading People Through Change in person, as virtual sessions, as part of a learning journey, or in a self-directed online version, so your leaders can learn how to lead change effectively wherever they are and whenever they have time.
                             </p>
                         </div>
 
@@ -122,10 +123,15 @@ export default function ThanYouLP() {
                                     <TabPanel className="tabdetails colortheme2bg">
                                         <div className="">
                                             <div className="tabinner">
-                                                <h3>Half-Day Instructor-led Course</h3>
+                                                <h3>1 Day Instructor-led Course</h3>
                                                 <p>
-                                                This is a half-day course with four hours of instructions. With hundreds of facilitators worldwide, we can deliver sessions for your organization or equip you to run them yourself. All designs include engaging participant materials, videos, and learning activities that teach participants the following key concepts: The Building Trust framework, how to develop an action plan to engage in more trustworthy behaviors, a three-step process for restoring trust, and how to plan and practice two trustworthy conversations.
-                                                </p>                                                
+                                                    Leading People Through Change can be delivered as a one-day course. This program teaches your leaders how to identify and address stages of concern that employees go through when asked to change and how to use the appropriate change strategy and corresponding behaviors to address that concern. This high-involvement approach decreases the feeling of being controlled and builds momentum for change.
+                                                </p>
+                                                <p><b>Prework: LAUNCH — </b>Engaging prework assignments, including an assessment, that explain key concepts</p>
+                                                <p><b>Day 1: FRAME —</b> Activities that introduce the Stages of Concern. Explore Information, Personal, and Implementation Concerns.</p>
+                                                <p><b>Day 1: BUILD —</b> Activities based on personal work challenges that develop new skills and introduce the components of a Gap Statement. Share and discuss the sample Gap Statement.</p>
+                                                <p><b>Day 1: STRENGTHEN —</b> Introduces the third leadership strategy: Strengthen. Discuss outcomes and conduct paired discussions about Strengthen leader actions.</p>
+                                                <p><b>Day 1: ENTRUST —</b> Introduces the fourth leadership strategy: Entrust. Describe and discuss outcomes.</p>
                                             </div>
                                         </div>
                                     </TabPanel>
@@ -135,20 +141,17 @@ export default function ThanYouLP() {
                                             <div className="tabinner">
                                                 <h3>Virtual Instructor-led Course</h3>
                                                 <p>
-                                                The Building Trust virtual course consists of prework assignments completed before the course, followed by two two-hour live virtual sessions. The virtual sessions offer learners an engaging experience that includes instruction, group activities, and opportunities to practice new skills.
+                                                    The Leading People Through Change course can be delivered as four 90- to 120-minute sessions to an intact team working on a specific change initiative, or in an open enrollment format to build change leadership capability across your organization.
                                                 </p>
                                                 <ul>
                                                     <li>
-                                                    Virtual session 1: The course introduces Low and High Trust Relationships, Trustworthy and Untrustworthy Behaviors, the Building Trust Model, Trust Behaviors Sort, and Diagnosing Trustworthiness.
+                                                        Virtual sessions 1 and 2 teach the skills and language to implement concerns and how to share/discuss the Gap Statement
                                                     </li>
                                                     <li>
-                                                    In between session 1 and 2, participants will have 30 minutes to complete and score the self-survey and create a personal development plan for increasing trust.
+                                                        In virtual sessions 3 and 4, participants conduct paired discussions about Strengthen Leadership Strategy and outcomes
                                                     </li>
                                                     <li>
-                                                    Virtual session 2: Participants learn how to restore trust and develop new skills by completing activities based on personal work challenges.
-                                                    </li>
-                                                    <li>
-                                                    Participants receive a set of online tools to aid in applying the content and using it with others through Blanchard Exchange Learner Portal.
+                                                        Participants receive a set of online tools to aid in sustaining the content and using it with others
                                                     </li>
                                                 </ul>
 
@@ -158,42 +161,33 @@ export default function ThanYouLP() {
                                     <TabPanel className="tabdetails colortheme2bg">
                                         <div className="">
                                             <div className="tabinner">
-                                                <h3>Online Overview</h3>
                                                 <p>
-                                                Building Trust Online takes your people through three modules that cover the essentials of how to build and maintain trusting relationships. The content is broken down into a variety of engaging videos, interactive exercises, case studies, and quizzes that range from one to five minutes each and can be completed in a total of 35-45 minutes.
+                                                    The Leading People Through Change curriculum offers a 35-minnute fully asynchronous Overview that allow learners to form new skills. Participants work their way through engaging activities, including videos, interactive exercises, case studies, and quizzes.
+                                                </p>
+                                                <h3>Online Overview Solution</h3>
+                                                <p>
+                                                    The Leading People Through Change Online Overview is a 35-minute course that teaches essential skills like identifying and addressing employees’ predictable questions and resolving their concerns to increase their buy-in and commitment. Practice opportunities follow content, ensuring participants learn the concepts.
                                                 </p>
                                                 <ul>
-                                                <li>
-                                                <b>Micro-activities:</b> Ranging from one to five minutes
-                                                </li>
-                                                <li>
-                                                <b>Interactive Exercises:</b> Fun, engaging activities include videos, games, stories, case studies, and online discussions
-                                                </li>
-                                                <li>
-                                                <b>On-Demand Support Tools:</b> Micro-activities for learning during moments of need or reinforcing skills
-                                                </li>
-                                                <li>
-                                                <b>Manager-Led Debrief:</b> Optional manager-led debrief allows for collaboration and discussion for a blended learning experience
-                                                </li>
+                                                    <li>
+                                                        Micro-activities: Organized into bite-sized pieces, ranging from one to five minutes
+                                                    </li>
+                                                    <li>
+                                                        Leadership Tendencies Tool: Allows participants to discover their natural strengths and opportunities for growth
+                                                    </li>
+                                                    <li>
+                                                    Interactive Exercises: Fun, engaging activities include videos, games, stories, case studies, and online discussions
+                                                    </li>
+                                                    <li>
+                                                    Manager-Led Debriefs: Optional manager-led debriefs for collaboration and discussion in a blended learning experience
+                                                    </li>
                                                 </ul>
 
 
                                                 <h3>Digital Assets</h3>
                                                 <p>
-                                                Managers can access a set of micro-activities, including videos, interactions, and worksheets, in moments of need to support ongoing learning, performance coaching, reinforcement, and custom learning journeys.
+                                                Set of micro-activities, including videos, interactions, and worksheets, that learners can access in moments of need to support ongoing learning, performance support, reinforcement, and custom learning journeys.
                                                 </p>
-                                                <h3>Building Trust VR Simulation</h3>
-                                                <p>
-                                                Building Trust VR Simulation is a two-module immersive experience that is fully asynchronous and allows learners to practice the skills of recognizing trust and restoring trust in a safe environment. Learners use the Simulation after completing the 35-minute Overview to reinforce and practice their skills.
-                                                </p>
-
-                                                <p>
-                                               <b> Module 1: Recognizing Trust —</b> In this module, learners help their virtual coworker Sherri diagnose which Element of Trust has been eroded on her team.
-                                                </p>
-                                                <p>
-                                                <b>Module 2: Restoring Trust —</b> Learners continue their conversation with Sherri and guide her on restoring trust with her team.
-                                                </p>
-                                                
                                             </div>
                                         </div>
                                     </TabPanel>
@@ -208,22 +202,18 @@ export default function ThanYouLP() {
                 <div className='container colortheme2bg ptt-90 pbb-20 borderedus0'>
                     <div className='row align-items-center'>
                         <div className='col-sm-6'>
-                        <div className="mimg100 imgborder prr-90">
-                                <img src="/assets/img/kbnew/BT-Trust-is-biggest-factor.jpg" alt="Images" />
+                            <div className="mimg100 imgborder prr-90">
+                                <img src="/assets/img/kbnew/LPTC-understanding-how-to-lead-your-organization.jpg" alt="Images" />
                             </div>
                         </div>
                         <div className='col-sm-6'>
                             <div>
                                 <h2>
-                                The Main Aspect Affecting Employee Performance is Trust.
+                                To succeed in the future, your organization must understand how to lead through change
                                 </h2>
                                 <p className="themepbold pbb-10">
-                                <b><span>18%</span></b> of respondents claim they don't trust their supervisor, and <b><span>49%</span></b> of employees say they've left a job because of a strained working relationship with their manager.<sup>1</sup>
+                                Change initiatives that fail or stall waste time and money, lower productivity and engagement, and increase employee turnover.
                                 </p>
-                                <p className="themepbold pbb-10">
-                                One of the main factors affecting employees' effectiveness at work, according to <b><span>45%</span></b> of them, is a lack of faith in their leadership.<sup>2</sup>
-                                </p>
-                                
                             </div>
                         </div>
                     </div>
@@ -235,7 +225,7 @@ export default function ThanYouLP() {
             <section className='colortheme2bg'>
                 <div className='container-fluid ptt-40 pbb-60 borderedus0'>
                     <div className='row align-items-center'>
-                    <div className="col-sm-12 ptt-5 pbb-50">
+                        <div className="col-sm-12 ptt-5 pbb-50">
                             <hr></hr>
                         </div>
 
@@ -243,59 +233,49 @@ export default function ThanYouLP() {
                         <div className='col-sm-8 pbb-70'>
                             <div className="text-center">
                                 <h2 className="sectionh">
-                                Establish A Foundation For Trust
+                                Learn How To Lead People Through Organizational Change
                                 </h2>
                                 <p>
-                                You have the basis for creating a successful organization when your team members and their leaders have mutual respect. This trust promotes more significant levels of teamwork, improved creativity and risk-taking, successful business strategy implementation, and enhanced dedication and loyalty to your organization.
+                                Keeping up with the competition involves making change a part of a company's corporate culture. To move the entire organization forward, leaders who know how to lead organizational change surface, address employees' concerns, and involve them throughout the process.
                                 </p>
                             </div>
                         </div>
                         <div className="col-sm-2"></div>
 
-                        <div className="col-sm-3">
+                        <div className="col-sm-4">
                             <div className="AProfessional pll-20 prr-20">
-                                <img className="" src="/assets/img/kbnew/icon/improve-performance.svg" alt="Images" />
-                                <h3 className="lineh34">Increased Efficiency</h3>
+                                <img className="" src="/assets/img/kbnew/icon/build-change-leadership-capability.svg" alt="Images" />
+                                <h3 className="lineh34">Boost buy-in and resilience</h3>
                                 <p>
-                                Employees are more dedicated and give more discretionary effort.
+                                The ability to uncover, diagnose, and address people's predictable concerns reduces resistance and increases commitment.
                                 </p>
                             </div>
                         </div>
 
-                        <div className="col-sm-3">
+                        <div className="col-sm-4">
                             <div className="AProfessional pll-20 prr-20">
-                                <img className="" src="/assets/img/kbnew/icon/retain-your-talent.svg" alt="Images" />
-                                <h3 className="lineh34">Hold on to Your Talent</h3>
+                                <img className="" src="/assets/img/kbnew/icon/get-results-faster.svg" alt="Images" />
+                                <h3 className="lineh34">Faster Results</h3>
                                 <p>
-                                Employee retention and recommendations of the business as a great place to work are more likely.
+                                Change initiatives that are led effectively are supported by employees and achieve results more quickly.
                                 </p>
                             </div>
                         </div>
 
-                        <div className="col-sm-3">
+                        <div className="col-sm-4">
                             <div className="AProfessional pll-20 prr-20">
-                                <img className="" src="/assets/img/kbnew/icon/drive-creativity-and-innovation.svg" alt="Images" />
-                                <h3 className="lineh34">Promote Innovation & Creativity</h3>
+                                <img className="" src="/assets/img/kbnew/icon/increase-buy-in-and-resilience.svg" alt="Images" />
+                                <h3 className="lineh34">Enhance your ability to lead change</h3>
                                 <p>
-                                Employees feel comfortable speaking more candidly and offering their finest suggestions.
+                                Successful companies champion the capacity to change as part of their culture and become more resilient and agile.
                                 </p>
                             </div>
                         </div>
-                        <div className="col-sm-3">
-                            <div className="AProfessional pll-20 prr-20">
-                                <img className="" src="/assets/img/kbnew/icon/create-collaboration.svg" alt="Images" />
-                                <h3 className="lineh34">Create Collaboration</h3>
-                                <p>
-                                Teams and coworkers support one another and cooperate to complete tasks.
-                                </p>
-                            </div>
-                        </div>
-
                     </div>
                 </div>
             </section>
 
-          
+
 
             <section className="ptt-90 ExploreCustom contanerbgc">
                 <div className="container contanerbgc mbordee pbb-60 ptt-60">
@@ -303,7 +283,7 @@ export default function ThanYouLP() {
                         <div className="col-sm-6">
                             <h2 className="sectionh">Ready to get started?</h2>
                             <p className="headingp text-justify pbb-10">
-                            Contact us today to find out how we can assist your leaders in acquiring the abilities necessary to manage and develop their workforce effectively.
+                                Contact us today to find out how we can assist your leaders in acquiring the abilities necessary to manage and develop their workforce effectively.
                             </p>
                             <a href='/get-started' className='kbbtn kbbtn--orange  mtt-10'>Talk to an Expert</a>
                         </div>

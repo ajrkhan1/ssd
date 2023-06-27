@@ -9,8 +9,8 @@ export default function ThanYouLP() {
     return (
         <>
             <Head>
-                <title>Building Trust | Blanchard International</title>
-                <meta name="description" content="Blanchard's Building Trust training program teaches managers how to build trust to increase engagement, creativity, and commitment."/>
+                <title>Leadership Point of View | Blanchard International</title>
+                <meta name="description" content="Blanchard's Leadership Point of View training program teaches people how to create a workplace where everyone feels seen, heard, and valued."/>
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
@@ -22,12 +22,12 @@ export default function ThanYouLP() {
                                 <li className="brdlifirst"><a href="/">HOME</a></li>
                                 <li className="brdlifirst"><a href="/our-content/programs">OUR CONTENT</a></li>
                                 <li className="brdlifirst"><a href="/our-content/programs">PROGRAMS</a></li>
-                                <li><a><span> BUILDING TRUST</span></a></li>
+                                <li><a><span> LEADERSHIP POINT OF VIEW</span></a></li>
                             </ul>
                         </div>
                         <div className="col-sm-12">
                             <div className="innerbedkms text-center">
-                                <h1>Building Trust</h1>
+                                <h1>Leadership Point of View™</h1>
                             </div>
                         </div>
                     </div>
@@ -48,7 +48,7 @@ export default function ThanYouLP() {
                         </div>
                         <div className="col-sm-6">
                             <div className="mimg100 imgborder pll-90">
-                                <img className="" src="/assets/img/kbnew/BT-great-leadership-begins-with-a-workplace.jpg" alt="Images" />
+                                <img className="" src="/assets/img/kbnew/LPOV-define-a-leadership-vision-that-inspires.jpg" alt="Images" />
                             </div>
                         </div>
                     </div>
