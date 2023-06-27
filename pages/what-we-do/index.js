@@ -26,9 +26,9 @@ export default function ThanYouLP() {
                             </div>
                             <div className="col-sm-6">
                                 <div className="innerbedkms">
-                                    <h1>Dynamic, Human-Powered Learning Experiences for the Future of Work</h1>
+                                    <h1>Human-powered, Dynamic Learning Experiences for the Future of Work</h1>
                                     <p>
-                                        Our simple yet transformative learning solutions are built to scale alongside organizational and individual needs and for the future of work. From dynamic learning journeys to online courses to custom services, we meet learners where they are and inspire them to be the ultimate agents of progress and transformation.
+                                    Our straightforward yet effective learning programs are designed to grow with both organizational and individual demands and the demands of the future workplace. Through dynamic learning journeys, online courses, and specialized services, we meet learners where they are and motivate them to be the ultimate agents of development and transformation.
                                     </p>
                                 </div>
                             </div>
@@ -41,9 +41,9 @@ export default function ThanYouLP() {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Giving leaders everywhere the support to reach their potential</h2>
+                            <h2 className="sectionh">Empowering Leaders Worldwide to Achieve Their Potential</h2>
                             <p className="headingp">
-                                Your people deserve to go to work each day and feel their contributions matter—that they are seen, heard, and valued. At Blanchard, we believe an inclusive and productive workplace hinges upon the relationships each individual has with their manager. Everything we do helps leaders increase their self-awareness and gain the skills they need to be an inspiring and empathetic leader who can help your organization unlock the potential of all of its people.
+                            Your employees deserve to feel that their efforts count and that they are seen, heard, and respected when they arrive at work each day. At Blanchard, we believe a diverse and influential workplace depends on the interactions between employees and their bosses. To become an inspiring and sympathetic leader who can help your organization realize its employees' full potential, leaders must enhance their self-awareness and acquire the necessary skills.
                             </p>
                         </div>
                         <div className="col-sm-6">
@@ -59,9 +59,9 @@ export default function ThanYouLP() {
                 <div className="container">
                     <div className="row">
                         <div className="col-sm-12 text-center pbb-40">
-                            <h2 className="sectionh">Empowering Leaders To Transform Organizations</h2>
+                            <h2 className="sectionh">Developing Leaders To Transform Organizations</h2>
                             <p className="headingp">
-                                When leaders better themselves as they better others, they become an unstoppable force for the greatest good.​ These inspired leaders build a culture that transcends challenges, maximizing individual achievement and organizational performance.
+                            Leaders become an unstoppable force for the greater good when they improve themselves as they improve others. These motivating leaders create a culture that overcomes obstacles to maximize individual success and business performance.​
                             </p>
                         </div>
 
@@ -118,38 +118,38 @@ export default function ThanYouLP() {
                 <div className="container-fluid">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Supporting learning retention</h2>
+                            <h2 className="sectionh">Supporting Learning Retention</h2>
                             <p className="headingp">
-                            Learning doesn’t happen in a vacuum. Your learners are juggling their everyday work and personal priorities, too. At Blanchard, we understand the importance of providing services that help keep learners engaged in their learning journeys and reinforce their ability to retain and apply program concepts in the course of their work. 
+                            Learning never takes place in a vacuum. Your learners are also balancing their daily obligations and personal priorities. At Blanchard, we recognize the value of offering services that support learners' ongoing learning and strengthen their capacity to remember and use program concepts during their work.
                             </p>
                             <h4>Facilitation</h4>
                             <p className="headingp">
-                            Ensures learning activities are engaging, creating a positive and effective learning experience.
+                            Makes sure the lessons are engaging so that learning is enjoyable and successful.
                             </p>
 
-                            <h4>Community Management and Moderation</h4>
+                            <h4>Management and Moderation of the Community</h4>
                             <p className="headingp">
-                            Fosters ongoing engagement and collaboration among learners, encouraging peer-to-peer knowledge-sharing.
+                            Encourages learners to continue working together and being engaged, fostering peer-to-peer knowledge sharing.
                             </p>
 
                             <h4>Assessments</h4>
                             <p className="headingp">
-                            Empowers learners to identify their strengths and areas for development.
+                            Learners are empowered to recognize their areas of strength and growth.
                             </p>
 
-                            <h4>Reinforcement and Sustainment</h4>
+                            <h4>Strengthening and Maintaining</h4>
                             <p className="headingp">
-                            Supports learners in applying learnings consistently over time, leading to lasting behavior change.
+                            Helps learners apply their knowledge consistently over time, which results in long-lasting behavior change.
                             </p>
 
-                            <h4>Measurement and Impact Analysis</h4>
+                            <h4>Analysis of Measurement and Impact</h4>
                             <p className="headingp">
-                            Provides valuable feedback to learners and organizations, demonstrating the effectiveness and ROI of the learning program.
+                            Demonstrates the learning program's success and return on investment (ROI) by giving learners and organizations helpful feedback.
                             </p>
 
                             <h4>Management and Badging</h4>
                             <p className="headingp">
-                            Validates that the learning program is effective, with a value that learners and stakeholders recognize.
+                            The learning program's effectiveness is validated by management and badges, which have a value that stakeholders and learners alike acknowledge.
                             </p>
                             <a href='#' className='kbbtn kbbtn--orange mtt-20'>More About Services</a>
                         </div>
@@ -179,7 +179,7 @@ export default function ThanYouLP() {
                         <div className="col-sm-6">
                             <h2 className="sectionh">Explore Custom Solutions</h2>
                             <p className="headingp text-justify pbb-10">
-                            It’s critical that leadership development is connected with your organization’s goals, culture, and other learning experiences. Our custom solutions created in Blanchard’s Design Studio will enable you to bring the power of our award-winning training to your people, within your unique company context, ensuring learners gain knowledge and skills that are directly relevant and applicable to their work.
+                            Leadership development must be linked to your firm's objectives, culture, and learning opportunities. The power of our award-winning training can be delivered to your employees through our specialized solutions developed in Blanchard's Design Studio, allowing you to meet the specific needs of your business while guaranteeing that learners obtain information and skills that are immediately useful for their jobs.
                             </p>
                             <h4>Curated Learning Journeys</h4>
                             <h4>Customized Learning Experiences</h4>
@@ -197,9 +197,9 @@ export default function ThanYouLP() {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Unleash your leadership potential—attend an upcoming event</h2>
+                            <h2 className="sectionh">Attend an Upcoming Event to Unleash Your True Leadership Potential</h2>
                             <p className="headingp text-justify pbb-10">
-                            At Blanchard, we take research-backed leadership concepts and break them down into simple, reproducible actions people can apply to address challenging everyday workplace situations. But don’t just take our word for it—sign up for an upcoming webinar today to see how we make leadership development accessible to leaders at all levels.
+                            At Blanchard, we take research-based leadership principles and break them into straightforward, repeatable steps that anybody can use to handle difficult everyday workplace circumstances. Sign up for an upcoming webinar today to learn how we make leadership development available to leaders of all levels.
                             </p>                            
                             <a href='#' className='kbbtn kbbtn--orange mtt-20'>View Upcoming Webinars</a>
                         </div>

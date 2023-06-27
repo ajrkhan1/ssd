@@ -127,7 +127,7 @@ fbq('track', 'PageView');
                <div className='row align-items-center'>
                   <div className='col-sm-7'>
                      <div className='left-ba'>
-                        <h1>The Heart of Human Achievement™</h1>
+                        <h1>The Heart of Human <br></br>Achievement™</h1>
                         <p>Developing Inspired Leaders through Engaging, Human-powered Learning Experiences</p>
                         <a href='/what-we-do' className='kbbtn kbbtn--orange'>Learn More</a>
                      </div>
@@ -299,7 +299,7 @@ fbq('track', 'PageView');
                   </div>
 
                   <div className='col-sm-6'>
-                     <div className='enablingbox greenboxc'>
+                     <div className='enablingbox greenboxc textccnn2'>
                         <h4>Coaching</h4>
                         <p>
                            Personalized, one-on-one, and team leadership coaching to help your executives, managers, and individual learners develop their leadership skills. <a href='#'>Learn More</a>
@@ -308,7 +308,7 @@ fbq('track', 'PageView');
                   </div>
 
                   <div className='col-sm-6'>
-                     <div className='enablingbox darkblueboxc'>
+                     <div className='enablingbox darkblueboxc textccnn2'>
                         <h4>Leadership Programs</h4>
                         <p>
                            Build your leadership bench strength, create self-motivated individuals, improve employee engagement, or lead a change initiative. <a href='#'>Learn More</a>
@@ -317,7 +317,7 @@ fbq('track', 'PageView');
                   </div>
 
                   <div className='col-sm-6'>
-                     <div className='enablingbox blueboxc'>
+                     <div className='enablingbox blueboxc textccnn2'>
                         <h4>Customized Learning Experiences</h4>
                         <p>
                            We will partner with you, dive into your needs, and create a solution that unlocks your people’s leadership potential. <a href='#'>Learn More</a>
@@ -326,7 +326,7 @@ fbq('track', 'PageView');
                   </div>
 
                   <div className='col-sm-6'>
-                     <div className='enablingbox darkgeenboxc'>
+                     <div className='enablingbox darkgeenboxc textccnn2'>
                         <h4>Public Courses</h4>
                         <p>
                            Leadership development and training courses help worldwide throughout the year, whenever and wherever it works best for you. <a href='#'>Learn More</a>

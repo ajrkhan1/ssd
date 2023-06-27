@@ -44,6 +44,14 @@
     line-height: 34px !important;
 }
 
+.themepbold{
+    font-size: 24px !important;
+    line-height: 32px !important;
+}
+.themepbold span{
+    color: rgba(0, 93, 125, 1);
+}
+
 .borderedus0{
     border-radius: 0px !important;
 }
@@ -1461,3 +1469,12 @@ border-radius: 0px;
 .onestoppboxx{
     min-height: 265px;
 }
+
+.textccnn{
+text-align: center;
+min-height: 230px;
+}
+
+.textccnn2{
+    min-height: 232px;
+    }
