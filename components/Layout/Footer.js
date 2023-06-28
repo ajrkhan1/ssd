@@ -38,7 +38,7 @@ function Footer() {
                   <div className='col-sm-12'>
                      <div className='innercallt'>
                         <div className='flogoc'>
-                           <a href=''><img src="/assets/img/kbnew/blanchard_logo_footer.svg" alt="Images" /></a>
+                           <a href=''><img src="/assets/img/kbnew/blanchard_logo_footer.png" alt="Images" /></a>
                         </div>
                         <div className='calltoaa'>
                            <h3>Ready to get started? Talk to us today.</h3>
