@@ -39,11 +39,14 @@ export default function ThanYouLP() {
                     <div className="row align-items-center">
                         <div className="col-sm-6">
                             <h2 className="sectionh">
-                            Great Leadership Starts with a Workplace Culture Built on Trust
+                            Create a leadership vision that inspires your team
                             </h2>
                             <p className="headingp">
-                            Trust is at the heart of every relationship, and it's essential in the workplace. The most significant factor affecting employee turnover is whether employees and their managers have developed a trusting relationship. Our trust-building program teaches managers to build trusting relationships to increase engagement, creativity, and commitment.
-                            </p>                           
+                            Under great pressure, today’s leaders balance relationships and results, making difficult decisions every day. Leadership values and principles help leaders to make tough trade-offs and lead their people with purpose and authenticity when they are clear about them. Leaders inspire trust, respect, and engagement when they share their values and motivators with their people.
+                            </p>
+                            <p className="headingp">
+                            Through Blanchard's Leadership Point of View™, leaders uncover their values, write leadership stories, and develop trusting relationships.
+                            </p>
                             <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>Talk to an Expert</a>
                         </div>
                         <div className="col-sm-6">
@@ -60,20 +63,17 @@ export default function ThanYouLP() {
                     <div className="row align-items-center">
                         <div className="col-sm-6">
                             <div className="mimg100 imgborder prr-90">
-                                <img className="" src="/assets/img/kbnew/BT-model-understand-and-develop.jpg" alt="Images" />
+                                <img className="" src="/assets/img/kbnew/LPOV-the-best-leaders-know-what-they-stand-for.jpg" alt="Images" />
                             </div>
                         </div>
 
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Understanding and Developing the Elements of Trust</h2>
+                            <h2 className="sectionh">Leaders who know what they stand for are able to share that with others.</h2>
                             <p className="headingp text-justify">
-                            We know the importance of trust in all relationships. Our Building Trust program can help your leaders and team members understand how to build trust in the workplace and repair it when it breaks.
+                            Leadership Point of View (LPOV™) takes leaders on a journey of self-discovery. In the process, they identify formative experiences that have shaped their leadership styles. They then collaborate with Blanchard coaches and learning partners to write a compelling narrative that transforms these pivotal events into a leadership story. In turn, leaders share their experiences with colleagues and colleagues.
                             </p>
                             <p className="headingp  text-justify">
-                            Based on 30 years of research, our trust experts have developed a simple yet effective trust model that provides a common language and framework to focus on specific behaviors that help build trust.
-                            </p>
-                            <p className="headingp  text-justify">
-                            Through a Building Trust program, individuals can understand the impact of their actions on building or eroding trust and identify areas that need attention to build and maintain relationships.
+                            Listeners gain a new perspective of their leader, a deeper understanding of their leader's motivations, and a renewed commitment to their work after sharing an LPOV.
                             </p>
                         </div>
 
@@ -90,12 +90,9 @@ export default function ThanYouLP() {
                     <div className="row align-items-center">
                         <div className="col-sm-1"></div>
                         <div className="col-sm-10 text-center pbb-40">
-                            <h2>Delivery options to suit your needs</h2>
+                            <h2>Delivery Options to Meet Your Needs</h2>
                             <p className="pcl">
-                            We can deliver Building Trust in-person, as a virtual session, as part of a learning journey, or as a self-guided or moderated online version, so your managers can learn how to build or restore trust anytime, anywhere.
-                            </p>
-                            <p className="pcl">
-                                To ensure that your managers can learn the methodology wherever they are and whenever they have the time, SLII® can also be a component of a learning journey or taught in a self-directed online or moderated online version.
+                            We can deliver Leadership Point of View in person, as virtual sessions, or as self-directed online learning with live moderated sessions, so your managers can discover their leadership point of view wherever they are and whenever they have time.
                             </p>
                         </div>
 
@@ -122,10 +119,23 @@ export default function ThanYouLP() {
                                     <TabPanel className="tabdetails colortheme2bg">
                                         <div className="">
                                             <div className="tabinner">
-                                                <h3>Half-Day Instructor-led Course</h3>
+                                                <h3>2 Half-Day Instructor-led Course</h3>
                                                 <p>
-                                                This is a half-day course with four hours of instructions. With hundreds of facilitators worldwide, we can deliver sessions for your organization or equip you to run them yourself. All designs include engaging participant materials, videos, and learning activities that teach participants the following key concepts: The Building Trust framework, how to develop an action plan to engage in more trustworthy behaviors, a three-step process for restoring trust, and how to plan and practice two trustworthy conversations.
-                                                </p>                                                
+                                                The Leadership Point of View in-person experience is two half-day sessions, ideally spaced two to five days apart, followed by a peer and facilitator coaching call. Use this delivery process to coach a group of leaders within an organization to create their own LPOV and get feedback from their facilitator and peers before sharing it with their manager and work group. 
+                                                </p>
+                                                
+                                                <p>
+                                                <b>Prework: LAUNCH —</b> Engaging prework assignments that explain key LPOV concepts in preparation for the cohort learning experience.
+                                                </p>
+                                                <p>
+                                                <b>Day 1: LEARN and PRACTICE —</b> Outlines the purpose and value of a Leadership Point of View. Participants experience an LPOV presentation from a senior leader. They then take steps to craft a LPOV through exploration of key people and events. Participants reflect on and identify their expectations for themselves and others, then work with a partner to determine ways to demonstrate each value in action through sharing of life stories with a learning partner.
+                                                </p>
+                                                <p>
+                                                <b>Day 2:  LEARN and PRACTICE —</b> Participants explore what has become clear by creating their LPOV. Participants share a draft presentation and receive feedback and peer coaching in triad groups. The day ends with tips for finalizing their written LPOV and sharing it with others. 
+                                                </p>
+                                                <p>
+                                                <b>Post Work: Triad Coaching Call —</b> Required follow-up call with, ideally, three peers and the LPOV facilitator/coach, conducted two to three weeks after the cohort sessions, which allows each participant an opportunity to practice their Leadership Point of View presentation and receive feedback from the peer group.
+                                                </p>
                                             </div>
                                         </div>
                                     </TabPanel>
@@ -135,22 +145,60 @@ export default function ThanYouLP() {
                                             <div className="tabinner">
                                                 <h3>Virtual Instructor-led Course</h3>
                                                 <p>
-                                                The Building Trust virtual course consists of prework assignments completed before the course, followed by two two-hour live virtual sessions. The virtual sessions offer learners an engaging experience that includes instruction, group activities, and opportunities to practice new skills.
+                                                The LPOV live virtual course is a facilitated learning experience of three 2-hour sessions followed by a peer and facilitator coaching call.
+                                                </p>
+                                                <p>
+                                                <b>Prework: LAUNCH —</b> Engaging prework assignments that explain key LPOV concepts
+                                                </p>
+                                                <p>
+                                                <b>Session 1:</b>
                                                 </p>
                                                 <ul>
                                                     <li>
-                                                    Virtual session 1: The course introduces Low and High Trust Relationships, Trustworthy and Untrustworthy Behaviors, the Building Trust Model, Trust Behaviors Sort, and Diagnosing Trustworthiness.
+                                                    <b>Leadership Point of View Presentation —</b> Outlines the purpose of LPOV. Allows participants to experience an LPOV presentation given by a senior leader.
                                                     </li>
                                                     <li>
-                                                    In between session 1 and 2, participants will have 30 minutes to complete and score the self-survey and create a personal development plan for increasing trust.
+                                                    <b>Key People and Events —</b> Provides an initial exploration of key people and events through sharing a life story timeline with a learning partner and outlining their story.
                                                     </li>
                                                     <li>
-                                                    Virtual session 2: Participants learn how to restore trust and develop new skills by completing activities based on personal work challenges.
-                                                    </li>
-                                                    <li>
-                                                    Participants receive a set of online tools to aid in applying the content and using it with others through Blanchard Exchange Learner Portal.
+                                                    <b>Values —</b> Guides participants in identifying values and descriptors. 
                                                     </li>
                                                 </ul>
+
+                                                <p>
+                                                <b>Session 2</b>
+                                                </p>
+                                                <ul>
+                                                    <li>
+                                                    <b>Key People and Events —</b> Allows participants to share their key people and events story and then receive feedback from a learning partner.
+                                                    </li>
+                                                    <li>
+                                                    <b>Values —</b> Recaps the work participants have done on their values. Makes the connection from key people and key events to leadership values.
+                                                    </li>
+                                                    <li>
+                                                    <b>Expectations for Self and Others —</b> Explores line-of-sight connections between key people and events, values, and expectations for self and others.
+                                                    </li>
+                                                    <li>
+                                                    <b>Leadership Point of View Presentation —</b> Provides an opportunity for participants to experience an LPOV presentation given by a senior leader.
+                                                    </li>
+                                                </ul>
+
+                                                <p>
+                                                <b>Session 3:</b> Share a draft presentation of their Leadership Point of View. Receive tips for finalizing their written Leadership Point of View.
+                                                </p>
+                                                <p>
+                                                <b>Post Work:</b> Triad Coaching Call 
+                                                </p>
+
+                                                <h3>
+                                                Individual Coaching Experience
+                                                </h3>
+                                                <p>
+                                                LPOV can be delivered as a one-on-one coaching process that includes an orientation meeting (in person or virtual) followed by a minimum of four one-on-one coaching sessions scheduled over three to six weeks. It coaches a senior-level manager, one-on-one, to create their LPOV in preparation for them to present it as a demonstration to a group of leaders from their organization attending a cohort learning experience.
+                                                </p>
+                                                <p>
+                                                This format is ideal for professionals in highly visible roles or who wish to set an example that colleagues can follow. 
+                                                </p>
 
                                             </div>
                                         </div>
@@ -158,42 +206,28 @@ export default function ThanYouLP() {
                                     <TabPanel className="tabdetails colortheme2bg">
                                         <div className="">
                                             <div className="tabinner">
-                                                <h3>Online Overview</h3>
                                                 <p>
-                                                Building Trust Online takes your people through three modules that cover the essentials of how to build and maintain trusting relationships. The content is broken down into a variety of engaging videos, interactive exercises, case studies, and quizzes that range from one to five minutes each and can be completed in a total of 35-45 minutes.
+                                                If you need more flexibility, our Learning Journey Experience is a six-week online learning journey with two live virtual sessions, individual learning activities, threaded discussions, personal reflection, and curated articles. Because the Learning Journey is a more scalable, lightweight solution that does not include coaching or peer and facilitator coaching calls, qualification is not required.
                                                 </p>
-                                                <ul>
-                                                <li>
-                                                <b>Micro-activities:</b> Ranging from one to five minutes
-                                                </li>
-                                                <li>
-                                                <b>Interactive Exercises:</b> Fun, engaging activities include videos, games, stories, case studies, and online discussions
-                                                </li>
-                                                <li>
-                                                <b>On-Demand Support Tools:</b> Micro-activities for learning during moments of need or reinforcing skills
-                                                </li>
-                                                <li>
-                                                <b>Manager-Led Debrief:</b> Optional manager-led debrief allows for collaboration and discussion for a blended learning experience
-                                                </li>
-                                                </ul>
-
-
-                                                <h3>Digital Assets</h3>
+                                                <h3>Learning Journey Experience</h3>
                                                 <p>
-                                                Managers can access a set of micro-activities, including videos, interactions, and worksheets, in moments of need to support ongoing learning, performance coaching, reinforcement, and custom learning journeys.
-                                                </p>
-                                                <h3>Building Trust VR Simulation</h3>
-                                                <p>
-                                                Building Trust VR Simulation is a two-module immersive experience that is fully asynchronous and allows learners to practice the skills of recognizing trust and restoring trust in a safe environment. Learners use the Simulation after completing the 35-minute Overview to reinforce and practice their skills.
-                                                </p>
-
-                                                <p>
-                                               <b> Module 1: Recognizing Trust —</b> In this module, learners help their virtual coworker Sherri diagnose which Element of Trust has been eroded on her team.
+                                                <b>Week 1: Getting Started —</b> Discover three components of an LPOV, discover the value of sharing an LPOV, and reflect on Key People and Events and how they shaped one’s values
                                                 </p>
                                                 <p>
-                                                <b>Module 2: Restoring Trust —</b> Learners continue their conversation with Sherri and guide her on restoring trust with her team.
+                                                <b>Week 2: Key People and Events —</b> Connect with a cohort in a live virtual session, reflect on and share Key People and Events, and explore and define Values
                                                 </p>
-                                                
+                                                <p>
+                                                <b>Week 3: Values —</b> Reflect on and write a draft of their Key People and Events story, reflect on and write a draft of their Values story, and continue to deepen their understanding of the value of this work
+                                                </p>
+                                                <p>
+                                                <b>Week 4: Expectations for Self and Others —</b> Clarify Expectations for Self and Others, develop a solid draft of their entire LPOV
+                                                </p>
+                                                <p>
+                                                <b>Week 5: Getting Feedback —</b> Connect with their cohort in a live virtual session to share and get feedback on their LPOV, provide others with feedback and coaching on their LPOVs, and identify next steps
+                                                </p>
+                                                <p>
+                                                <b>Week 6: Sharing with Others —</b> Refine and present your LPOV to your manager and team, and reflect on what you’ve accomplished and how you feel about crafting your Leadership Point of View
+                                                </p>                                           
                                             </div>
                                         </div>
                                     </TabPanel>
@@ -209,21 +243,17 @@ export default function ThanYouLP() {
                     <div className='row align-items-center'>
                         <div className='col-sm-6'>
                         <div className="mimg100 imgborder prr-90">
-                                <img src="/assets/img/kbnew/BT-Trust-is-biggest-factor.jpg" alt="Images" />
+                                <img src="/assets/img/kbnew/LPOV-people-want-to-connect-with-their-managers.jpg" alt="Images" />
                             </div>
                         </div>
                         <div className='col-sm-6'>
                             <div>
                                 <h2>
-                                The Main Aspect Affecting Employee Performance is Trust.
+                                People want to connect with their managers and understand what success looks like
                                 </h2>
                                 <p className="themepbold pbb-10">
-                                <b><span>18%</span></b> of respondents claim they don't trust their supervisor, and <b><span>49%</span></b> of employees say they've left a job because of a strained working relationship with their manager.<sup>1</sup>
+                                <b><span>45%</span></b> of workers say their immediate boss is the most stressful aspect of their jobs. And <b><span>50%</span></b> don't know what their supervisor expects of them.
                                 </p>
-                                <p className="themepbold pbb-10">
-                                One of the main factors affecting employees' effectiveness at work, according to <b><span>45%</span></b> of them, is a lack of faith in their leadership.<sup>2</sup>
-                                </p>
-                                
                             </div>
                         </div>
                     </div>
@@ -243,53 +273,45 @@ export default function ThanYouLP() {
                         <div className='col-sm-8 pbb-70'>
                             <div className="text-center">
                                 <h2 className="sectionh">
-                                Establish A Foundation For Trust
+                                Engage Your Workforce With Leaders Who Can Share Their Leadership Stories
                                 </h2>
                                 <p>
-                                You have the basis for creating a successful organization when your team members and their leaders have mutual respect. This trust promotes more significant levels of teamwork, improved creativity and risk-taking, successful business strategy implementation, and enhanced dedication and loyalty to your organization.
+                                Leading from a leadership perspective can help leaders become more authentic and inspiring, self-aware and honest, vulnerable and values-driven. In addition, people feel more connected and motivated to work when they understand their leader's motivations.
                                 </p>
                             </div>
                         </div>
                         <div className="col-sm-2"></div>
 
-                        <div className="col-sm-3">
+                        <div className="col-sm-4">
                             <div className="AProfessional pll-20 prr-20">
-                                <img className="" src="/assets/img/kbnew/icon/improve-performance.svg" alt="Images" />
-                                <h3 className="lineh34">Increased Efficiency</h3>
+                                <img className="" src="/assets/img/kbnew/icon/eliminate-misunderstandings.svg" alt="Images" />
+                                <h3 className="lineh34">Misunderstandings should be eliminated</h3>
                                 <p>
-                                Employees are more dedicated and give more discretionary effort.
+                                Improve understanding of the values and expectations of leaders.
                                 </p>
                             </div>
                         </div>
 
-                        <div className="col-sm-3">
+                        <div className="col-sm-4">
                             <div className="AProfessional pll-20 prr-20">
-                                <img className="" src="/assets/img/kbnew/icon/retain-your-talent.svg" alt="Images" />
-                                <h3 className="lineh34">Hold on to Your Talent</h3>
+                                <img className="" src="/assets/img/kbnew/icon/improves-relationships.svg" alt="Images" />
+                                <h3 className="lineh34">Relationships are improved</h3>
                                 <p>
-                                Employee retention and recommendations of the business as a great place to work are more likely.
+                                Make leaders more accessible and authentic.
                                 </p>
                             </div>
                         </div>
 
-                        <div className="col-sm-3">
+                        <div className="col-sm-4">
                             <div className="AProfessional pll-20 prr-20">
-                                <img className="" src="/assets/img/kbnew/icon/drive-creativity-and-innovation.svg" alt="Images" />
-                                <h3 className="lineh34">Promote Innovation & Creativity</h3>
+                                <img className="" src="/assets/img/kbnew/icon/foster-loyalty.svg" alt="Images" />
+                                <h3 className="lineh34">Foster Loyalty</h3>
                                 <p>
-                                Employees feel comfortable speaking more candidly and offering their finest suggestions.
+                                Develop leaders who are more effective, connected, and supportive.
                                 </p>
                             </div>
                         </div>
-                        <div className="col-sm-3">
-                            <div className="AProfessional pll-20 prr-20">
-                                <img className="" src="/assets/img/kbnew/icon/create-collaboration.svg" alt="Images" />
-                                <h3 className="lineh34">Create Collaboration</h3>
-                                <p>
-                                Teams and coworkers support one another and cooperate to complete tasks.
-                                </p>
-                            </div>
-                        </div>
+                      
 
                     </div>
                 </div>
@@ -301,9 +323,9 @@ export default function ThanYouLP() {
                 <div className="container contanerbgc mbordee pbb-60 ptt-60">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Ready to get started?</h2>
+                            <h2 className="sectionh">Are you ready to get started?</h2>
                             <p className="headingp text-justify pbb-10">
-                            Contact us today to find out how we can assist your leaders in acquiring the abilities necessary to manage and develop their workforce effectively.
+                            Contact us today to learn how we can help your leaders develop and share their leadership perspectives.
                             </p>
                             <a href='/get-started' className='kbbtn kbbtn--orange  mtt-10'>Talk to an Expert</a>
                         </div>

@@ -119,6 +119,13 @@
     color: #000 !important;
 }
 
+.ullistc li{
+    font-family: "Noto Sans", sans-serif;
+    line-height: 32px;
+    font-size: 1rem;
+    color: #000;
+}
+
 
 
 /* new menucss  */

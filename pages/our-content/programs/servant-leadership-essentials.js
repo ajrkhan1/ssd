@@ -9,8 +9,8 @@ export default function ThanYouLP() {
     return (
         <>
             <Head>
-                <title>Leading Virtually | Blanchard International</title>
-                <meta name="description" content="Blanchard's Leading Virtually training program teaches people how to lead remote teams that thrive." />
+                <title>Servant Leadership Essentials | Blanchard International</title>
+                <meta name="description" content="Blanchard's Servant Leadership course teaches leaders how to think differently about leadership’s purpose and bring out the best in their people." />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
@@ -22,12 +22,12 @@ export default function ThanYouLP() {
                                 <li className="brdlifirst"><a href="/">HOME</a></li>
                                 <li className="brdlifirst"><a href="/our-content/programs">OUR CONTENT</a></li>
                                 <li className="brdlifirst"><a href="/our-content/programs">PROGRAMS</a></li>
-                                <li><a><span>LEADING VIRTUALLY</span></a></li>
+                                <li><a><span>SERVANT LEADERSHIP ESSENTIALS</span></a></li>
                             </ul>
                         </div>
                         <div className="col-sm-12">
                             <div className="innerbedkms text-center">
-                                <h1>Leading Virtually™</h1>
+                                <h1>Servant Leadership Essentials™</h1>
                             </div>
                         </div>
                     </div>
@@ -39,20 +39,20 @@ export default function ThanYouLP() {
                     <div className="row align-items-center">
                         <div className="col-sm-6">
                             <h2 className="sectionh">
-                            Leadership is Equally Important for Remote Teams
+                            Building the next generation of servant leaders
                             </h2>
                             <p className="headingp">
-                            Increasingly, today's workforce works from home and other remote locations, with teams spread across countries and time zones. Due to time lags and technology interfaces, managers need help connecting with their people. It's the new normal, with several benefits and challenges.
+                            The best work relationships are partnerships. They require collaboration between the leader and their people regarding communication, working style, feedback, direction, and support. However, many leaders lose sight of their people’s needs and aspirations when they are focused on meeting the needs of their organization.
                             </p>
                             <p className="headingp">
-                            Managing in this environment is much more challenging than working together in the same physical space. Understanding what your employees need and building rapport and trust over long distances can be difficult. Managers can increase the effectiveness and productivity of their remote staff by learning Leading Virtually™
+                            Blanchard's Servant Leadership Essentials™ course teaches leaders how to build trust, listen, and give and receive feedback in a way that motivates and engages their people.
                             </p>
-                           
+
                             <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>Talk to an Expert</a>
                         </div>
                         <div className="col-sm-6">
                             <div className="mimg100 imgborder pll-90">
-                                <img className="" src="/assets/img/kbnew/LV-Remote-teams-deserve-inspiring.jpg" alt="Images" />
+                                <img className="" src="/assets/img/kbnew/SLE-building-the-next-generation.jpg" alt="Images" />
                             </div>
                         </div>
                     </div>
@@ -64,23 +64,14 @@ export default function ThanYouLP() {
                     <div className="row align-items-center">
                         <div className="col-sm-6">
                             <div className="mimg100 imgborder prr-90">
-                                <img className="" src="/assets/img/kbnew/LV-model-learn-the-formula.jpg" alt="Images" />
+                                <img className="" src="/assets/img/kbnew/SLE-model-leadership-that-inspires.jpg" alt="Images" />
                             </div>
                         </div>
 
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Learn the formula for engaged virtual workers</h2>
+                            <h2 className="sectionh">A leadership style that inspires today's workforce to achieve their full potential</h2>
                             <p className="headingp text-justify">
-                            This course provides learners a highly interactive experience that includes instruction, responses, reflection, group activities, and opportunities to practice new skills. The program focuses on three key practices proven to boost manager effectiveness in virtual teams, based on almost 20 years of assisting managers lead virtual teams.
-                            </p>
-                            <p className="headingp  text-justify">
-                            To Be Attentive and Mindful, managers must communicate intentionally with remote team members, structure conversations for maximum impact, and honor each other's work preferences.
-                            </p>
-                            <p className="headingp  text-justify">
-                            Using technology, leaders learn how to foster community by building trusting, supportive relationships that involve all their people and stay positive.
-                            </p>
-                            <p className="headingp  text-justify">
-                            Lastly, managers learn how to Accelerate Performance and Development by helping remote workers identify a career path and move forward.
+                            Servant leadership is an optimal way to lead, as it encourages higher levels of engagement and performance and bolsters people's fulfillment. Blanchard's Servant Leadership Essentials impart the skills leaders need to take charge of the process while cultivating a meaningful partnership with their team. This approach instills accountability in the performance of others. Leaders further learn how to direct activities, inject enthusiasm, and look toward the future.
                             </p>
                         </div>
 
@@ -99,18 +90,19 @@ export default function ThanYouLP() {
                         <div className="col-sm-10 text-center pbb-40">
                             <h2>Delivery Options to Meet Your Needs</h2>
                             <p className="pcl">
-                            We can deliver the Leading Virtually course as three virtual sessions so your managers can learn how to lead their remote teams more effectively wherever they are and whenever they have time.
+                            Servant Leadership can be delivered as virtual sessions and as part of a learning journey so your leaders can learn how to think differently about leadership’s purpose and bring out the best in their people.
                             </p>
                         </div>
 
                         <div className="col-sm-12">
                             <div className="ourstabs">
                                 <Tabs>
-                                    <TabList className="lefttab">                                       
+                                    <TabList className="lefttab">
+                                      
                                         <Tab>
                                             <img className="" src="/assets/img/kbnew/icon/Virtual.svg" alt="Images" />
                                             <span>Virtual</span>
-                                        </Tab>                                       
+                                        </Tab>
                                     </TabList>
 
                                     <TabPanel className="tabdetails colortheme2bg">
@@ -118,13 +110,13 @@ export default function ThanYouLP() {
                                             <div className="tabinner">
                                                 <h3>Virtual Instructor-led Course</h3>
                                                 <p>
-                                                Leading Virtually is a virtual instructor-led course that unfolds over three two-hour sessions. The virtual sessions offer learners a highly engaging experience that includes instruction, responses, reflection, group activities, and opportunities to practice new skills in a safe setting. The program also allows learners to share stories and best practices in their transition to managing others virtually.
+                                                Blanchard’s Servant Leadership Essentials is delivered through two 2-hour live-virtual sessions and can be built into learning journeys.
                                                 </p>
-                                                <p><b>Prework: LAUNCH — </b>Engaging prework assignments, including an assessment, that explain key Leading Virtually concepts</p>
-                                                <p><b>Session 1: LEARN —</b> Be Attentive and Mindful: Teaches leaders how to interact with remote workers and understand what’s harder about managing virtually.</p>
-                                                <p><b>Session 2: PRACTICE —</b> Foster Community: Allows participants to focus on the subtleties that make all the difference when leading remote teams.</p>
-                                                <p><b>Session 3: PRACTICE —</b> Accelerate Performance and Development: Participants learn to balance soft and hard issues, people, and performance.</p>
-                                                <p><b>Post Work: APPLY —</b> Reinforce course learnings with online tools available to master the content and use it with others.</p>
+                                               <ul>
+                                                <li>This course can be delivered on its own or included in learning journeys.</li>
+                                                <li>Leaders will learn how to build trust, give and receive feedback, and listen to learn.</li>
+                                                <li>Participants receive a set of micro-activities, including videos, interactions, and worksheets, that they can access in moments of need to support ongoing learning, performance support, reinforcement, and custom learning journeys.</li>
+                                               </ul>
                                             </div>
                                         </div>
                                     </TabPanel>
@@ -141,17 +133,30 @@ export default function ThanYouLP() {
                     <div className='row align-items-center'>
                         <div className='col-sm-6'>
                             <div className="mimg100 imgborder prr-90">
-                                <img src="/assets/img/kbnew/LV-cultivate-the-potential-of-your.jpg" alt="Images" />
+                                <img src="/assets/img/kbnew/SLE-servant-leadership-helps-your-people.jpg" alt="Images" />
                             </div>
                         </div>
                         <div className='col-sm-6'>
                             <div>
                                 <h2>
-                                Make your remote teams more productive
+                                Your people and your business-will thrive under servant leadership
                                 </h2>
                                 <p className="themepbold pbb-10">
-                                On average, remote workers are <b><span>20%</span></b> more productive and half as likely to seek another job as their conventional counterparts
+                                Employees quit for a variety of reasons.
                                 </p>
+
+                                <p className="themepbold pbb-10">
+                                It is estimated that <b><span>54%</span></b> of employees do not feel valued by their employers.
+                                </p>
+                                <p className="themepbold pbb-10">
+                                Managers don't feel valued by <b><span>52%</span></b> of employees.
+                                </p>
+                                <p className="themepbold pbb-10">
+                                In the workplace, <b><span>51%</span></b> of employees don't feel like they belong.
+                                </p>
+                                
+                                
+
                             </div>
                         </div>
                     </div>
@@ -171,41 +176,50 @@ export default function ThanYouLP() {
                         <div className='col-sm-8 pbb-70'>
                             <div className="text-center">
                                 <h2 className="sectionh">
-                                Leading successful virtual and hybrid teams requires unique leadership skills
+                                Develop a servant leadership mindset and skillset
                                 </h2>
                                 <p>
-                                Employees who work remotely will be more satisfied, engaged, and productive when their leaders practice being attentive and mindful, foster community, and accelerate performance and development.
+                                The most effective leaders recognize that leadership is not about them and that the success of their people fuels their success. Servant leaders continually try to find out what their people need to succeed. They want to make a difference in the lives of their people and, in the process, benefit the organization. Team members perform better when they believe their leader has their best interests at heart.
                                 </p>
                             </div>
                         </div>
                         <div className="col-sm-2"></div>
 
-                        <div className="col-sm-4">
+                        <div className="col-sm-3">
                             <div className="AProfessional pll-20 prr-20">
-                                <img className="" src="/assets/img/kbnew/icon/boost-connection.svg" alt="Images" />
-                                <h3 className="lineh34">Strengthen your connection</h3>
+                                <img className="" src="/assets/img/kbnew/icon/Accelerate-Learning-Development.svg" alt="Images" />
+                                <h3 className="lineh34">Enhance learning and development</h3>
                                 <p>
-                                Strong virtual leaders can boost their team connections through more intentional and structured communication.
+                                Leaders who serve their team members learn how to support and help them grow.
                                 </p>
                             </div>
                         </div>
 
-                        <div className="col-sm-4">
+                        <div className="col-sm-3">
                             <div className="AProfessional pll-20 prr-20">
-                                <img className="" src="/assets/img/kbnew/icon/Improve-employee-engagement.svg" alt="Images" />
-                                <h3 className="lineh34">Engage employees more effectively</h3>
+                                <img className="" src="/assets/img/kbnew/icon/boost-engagement-and-employee-referrals.svg" alt="Images" />
+                                <h3 className="lineh34">Increase employee engagement and referrals</h3>
                                 <p>
-                                By fostering collaboration, creating a team culture, and building community, great leaders connect remote team members to the larger organization.
+                                As a result, employees are more likely to stay and endorse the company as a great employer.
                                 </p>
                             </div>
                         </div>
 
-                        <div className="col-sm-4">
+                        <div className="col-sm-3">
                             <div className="AProfessional pll-20 prr-20">
-                                <img className="" src="/assets/img/kbnew/icon/increase-autonomy-and-empowerment.svg" alt="Images" />
-                                <h3 className="lineh34">Empower & Increase Autonomy</h3>
+                                <img className="" src="/assets/img/kbnew/icon/improve-collaboration.svg" alt="Images" />
+                                <h3 className="lineh34">Improve Collaboration</h3>
                                 <p>
-                                To achieve their goals and results consistently, effective virtual leaders increase their people's resourcefulness and autonomy.
+                                To achieve the extraordinary, servant leaders support, motivate, and empower their team members.
+                                </p>
+                            </div>
+                        </div>
+                        <div className="col-sm-3">
+                            <div className="AProfessional pll-20 prr-20">
+                                <img className="" src="/assets/img/kbnew/icon/increase-goal-attainment-and-innovation.svg" alt="Images" />
+                                <h3 className="lineh34">Improve goal attainment and innovation</h3>
+                                <p>
+                                People can develop innovative solutions to challenges with the help of servant leaders.
                                 </p>
                             </div>
                         </div>
@@ -221,7 +235,7 @@ export default function ThanYouLP() {
                         <div className="col-sm-6">
                             <h2 className="sectionh">Are you ready to get started?</h2>
                             <p className="headingp text-justify pbb-10">
-                            Contact us today to learn how we can help your leaders learn the skills they need to lead successful remote teams.
+                            Learn how we can help your leaders become more effective communicators by contacting us today.
                             </p>
                             <a href='/get-started' className='kbbtn kbbtn--orange  mtt-10'>Talk to an Expert</a>
                         </div>

@@ -277,11 +277,10 @@ function Nav() {
                                                                     <li><a href="/our-content/programs/leadership-point-of-view">Leadership Point of View™</a></li>
                                                                     <li><a href="/our-content/programs/leading-people-through-change">Leading People through Change®</a></li>
                                                                     <li><a href="/our-content/programs/leading-virtually">Leading Virtually™</a></li>
-                                                                    <li><a href="#">Legendary Service®</a></li>
-                                                                    <li><a href="#">Self Leadership</a></li>
+                                                                    <li><a href="/our-content/programs/legendary-service">Legendary Service®</a></li>
+                                                                    <li><a href="/our-content/programs/self-leadership">Self Leadership</a></li>
                                                                     <li><a href="#">Servant Leadership Essentials™</a></li>
-                                                                    <li><a href="#">Team Leadership</a></li>
-                                                                    <li><a href="#">ContentLicensing</a></li>
+                                                                    <li><a href="/our-content/programs/team-leadership">Team Leadership</a></li>
                                                                 </ul>
                                                             </div>
                                                             <div className="col-sm-4">
