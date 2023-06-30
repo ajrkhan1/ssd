@@ -208,7 +208,7 @@ function Nav() {
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a className="headlist" href="#">Leaders At All Levels</a></li>
+                                                                    <li><a className="headlist" href="/who-we-help/leaders-at-all-levels">Leaders At All Levels</a></li>
                                                                     <li><a href="#">Emerging Leaders</a></li>
                                                                     <li><a href="#">New Managers</a></li>
                                                                     <li><a href="#">Experienced Leaders</a></li>
@@ -279,7 +279,7 @@ function Nav() {
                                                                     <li><a href="/our-content/programs/leading-virtually">Leading Virtually™</a></li>
                                                                     <li><a href="/our-content/programs/legendary-service">Legendary Service®</a></li>
                                                                     <li><a href="/our-content/programs/self-leadership">Self Leadership</a></li>
-                                                                    <li><a href="#">Servant Leadership Essentials™</a></li>
+                                                                    <li><a href="/our-content/programs/servant-leadership-essentials">Servant Leadership Essentials™</a></li>
                                                                     <li><a href="/our-content/programs/team-leadership">Team Leadership</a></li>
                                                                 </ul>
                                                             </div>
