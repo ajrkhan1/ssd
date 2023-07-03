@@ -88,8 +88,8 @@ export default function ThanYouLP() {
                 </div>
             </section>
 
-            <section className='Innovativelearning'>
-            <div className='container-fluid ptt-90 pbb-60'>
+            <section className='Innovativelearning contanerbgc'>
+            <div className='container-fluid ptt-90 pbb-60 colortheme2bg'>
                <div className='row'>
                   <div className='col-sm-6 pa0000'>
                      <div className='prr-90'>
