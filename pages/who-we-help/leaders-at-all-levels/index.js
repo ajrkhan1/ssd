@@ -96,7 +96,7 @@ export default function ThanYouLP() {
                         <img src="/assets/img/kbnew/Solutions-to-grow-leadership.jpg" alt="Images" />
                      </div>
                   </div>
-                  <div className='col-sm-6'>
+                  <div className='col-sm-6'>   
                      <div>
                         <h2>
                         Leadership development solutions for all levels
