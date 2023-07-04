@@ -81,22 +81,22 @@ export default function ThanYouLP() {
                         <div className='col-sm-6'>
                             <div>
                                 <h2>
-                                    Set new managers up for success
+                                Ensure the success of new managers
                                 </h2>
                                 <p className="pbb-0">
-                                    When you promote your high potential individual contributors into their first people manager role, you want to ensure they are successful. It’s critical that you support those who are new to managing people with the necessary leadership tools and training, right from the start.
+                                You want to ensure their success when promoting high-potential individual contributors into their first people manager role. You must support those just starting to manage people with the necessary training and leadership tools from the start.
                                 </p>
                                 <h4 className="hforh">Build early momentum</h4>
                                 <p className="pbb-0">
-                                    Give new managers the confidence and skills they need to lead productive teams.
+                                Provide new managers with the confidence and skills to lead productive teams.
                                 </p>
-                                <h4 className="hforh">Engage employees</h4>
+                                <h4 className="hforh">Engage your employees</h4>
                                 <p className="pbb-0">
-                                    Making the shift from being an individual contributor requires learning how to balance managing execution with engaging employees.
+                                To shift from being an individual contributor, you must learn how to balance execution with employee engagement.
                                 </p>
-                                <h4 className="hforh">Develop communication skills</h4>
+                                <h4 className="hforh">Communicate effectively</h4>
                                 <p className="pbb-0">
-                                    Clearly communicating organizational goals and how the team’s work supports them is critical for new manager success.
+                                Clear communication of organizational goals and how the team's work supports them is essential for new managers to succeed.
                                 </p>
                             </div>
                         </div>
@@ -111,18 +111,18 @@ export default function ThanYouLP() {
                         <div className="col-sm-6">
                             <h2 className="sectionh">Empower first-time managers with decades of training experience</h2>
                             <p className="headingp">
-                                It’s not surprising that 49% of new managers don’t feel prepared to succeed, since 60% don’t receive the right training for their new role. At Blanchard, our approach to leadership training for new managers builds on the time-tested principles from the best-selling book, The New One Minute Manager®(Opens in a new window), and introduces the mindset, core conversations, and communication skills first-time managers need to achieve success quickly, including how to:
+                            Not surprisingly, 49% of new managers don't feel ready to succeed, as 60% have not received adequate training for their new roles. Excerpted from the bestselling book The New One Minute Manager®, describes the mindset, key conversations, and communication skills entry-level managers need to succeed quickly, including how to:
                             </p>
                             <ul className="ptt-20">
                                 <li>Move direct reports forward on goals</li>
                                 <li>Provide timely, constructive, balanced, and actionable feedback</li>
                                 <li>Conduct one-on-ones</li>
-                                <li>Drive accountability for progress against objectives and results</li>
-                                <li>Perform regular progress reviews of goals</li>
-                                <li>Communicate clearly, making meaning for others through transparent dialogue and active listening</li>
-                                <li>Provide resources and empowering direct reports to deliver on responsibilities</li>
-                                <li>Guide, coach, and train team members on the job</li>
-                                <li>Advocate for resources to help the team achieve its goals</li>
+                                <li>Ensure accountability for results and progress</li>
+                                <li>Review goals regularly</li>
+                                <li>Transparent dialogue and active listening are key to communicating clearly and making meaning for others</li>
+                                <li>Providing resources and empowering direct reports to deliver responsibilities</li>
+                                <li>Provide guidance, coaching, and training to team members</li>
+                                <li>Support the team's goals by advocating for resources</li>
                             </ul>
                             
                         </div>
@@ -221,16 +221,16 @@ export default function ThanYouLP() {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Give new managers a foundation for leadership success</h2>
+                            <h2 className="sectionh">Establish a foundation for success for new managers</h2>
                             <p className="headingp text-justify pbb-10">
-                            Blanchard understands that even the best-performing individual contributors can have difficulty making the transition into the role of people manager. Work with us to develop learning journeys for your new people managers that promote adopting new skills that will set them—and their teams—up for success. Together, we will develop a training strategy that links learning goals and objectives to your operational imperatives, allowing individual contributors to understand the “what’s in it for me” and the importance to the organization.
+                            Blanchard recognizes that even the most successful individual contributors could struggle when taking on the duty of people manager. Join us in creating learning paths for your new people managers to help build their skills and get their teams geared up for success. Together, we will formulate a training program that links learning goals and objectives with your operational priorities, aiding individual contributors to comprehend the personal benefits and the significance it holds for the organization.
                             </p>                            
                             <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>Talk to an Expert</a>
                         </div>
                         
                         <div className="col-sm-6">
                             <div className="mimg100 imgborder pll-90">
-                                <img className="" src="/assets/img/kbnew/Unleash-your-leadership2.jpg" alt="Images" />
+                                <img className="" src="/assets/img/kbnew/Give-New-Managers-a-Foundation.jpg" alt="Images" />
                             </div>
                         </div>
                     </div>

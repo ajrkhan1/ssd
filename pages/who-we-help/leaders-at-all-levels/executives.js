@@ -45,8 +45,8 @@ export default function ThanYouLP() {
     return (
         <>
             <Head>
-                <title>Leadership Training for Senior Leaders | Blanchard International</title>
-                <meta name="description" content="Help your senior leaders continue to grow their management skills with leadership development training from Blanchard." />
+                <title>Leadership Training for Executives | Blanchard International</title>
+                <meta name="description" content="Help your executives continue to grow their management skills with leadership development training from Blanchard." />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
@@ -58,12 +58,12 @@ export default function ThanYouLP() {
                                 <li className="brdlifirst"><a href="/">HOME</a></li>
                                 <li className="brdlifirst"><a href="/who-we-help">WHO WE HELP</a></li>
                                 <li className="brdlifirst"><a href="/leaders-at-all-levels">LEADERS AT ALL LEVELS</a></li>
-                                <li><a><span>SENIOR LEADERS</span></a></li>
+                                <li><a><span>EXECUTIVES</span></a></li>
                             </ul>
                         </div>
                         <div className="col-sm-12">
                             <div className="innerbedkms text-center">
-                                <h1>Senior Leaders</h1>
+                                <h1>Executives</h1>
                             </div>
                         </div>
                     </div>
@@ -75,28 +75,28 @@ export default function ThanYouLP() {
                     <div className='row align-items-center'>
                         <div className='col-sm-6 pa0000'>
                             <div className='prr-90'>
-                                <img src="/assets/img/kbnew/Prepare-Your-Next-Generation-of-Executive.jpg" alt="Images" />
+                                <img src="/assets/img/kbnew/Inspired-Executives-Empower-Long-Term.jpg" alt="Images" />
                             </div>
                         </div>
                         <div className='col-sm-6'>
                             <div>
                                 <h2>
-                                Develop the next generation of executive leaders
+                                Inspired executives empower long-term success
                                 </h2>
                                 <p className="pbb-0">
-                                Your company's senior leaders are the bridge between the executive team's vision and the managers who manage the company's day-to-day operations. They are responsible for turning broad goals into actionable objectives for their departments and operating units.
+                                Today’s executive must combine business acumen, inclusive leadership, and management skills that inspire everyone to do their best while aligning the company's purpose, culture, and strategic imperatives.
                                 </p>
-                                <h4 className="hforh">Engage with the company's vision</h4>
+                                <h4 className="hforh">Think strategically</h4>
                                 <p className="pbb-0">
-                                These leaders communicate the connection between their work and the company's long-term vision through their leadership POVs and personal stories.
+                                Develop a long-term strategy to build organizational resilience and achieve long-term success by analyzing and evaluating the company's opportunities and challenges.
                                 </p>
-                                <h4 className="hforh">Motivate your team</h4>
+                                <h4 className="hforh">Authentic leadership</h4>
                                 <p className="pbb-0">
-                                Great senior leaders inspire and engage their teams by communicating effectively, encouraging high performance and accountability, and fostering an inclusive work environment.
+                                Be self-aware, lead with integrity, communicate openly, and build trust with their team.
                                 </p>
-                                <h4 className="hforh">Become a customer-centric organization</h4>
+                                <h4 className="hforh">Developing future leaders</h4>
                                 <p className="pbb-0">
-                                As advocates for exceptional internal and external customer service, senior leaders set the example for accountability, innovation, and soliciting feedback to anticipate customer needs.
+                                Develop the competencies and skills that future leaders will need to succeed by identifying and nurturing the next generation of leaders.
                                 </p>
                             </div>
                         </div>
@@ -109,22 +109,24 @@ export default function ThanYouLP() {
                 <div className="container-fluid">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Senior leaders operationalize the organization’s vision and values</h2>
+                            <h2 className="sectionh">Inspired executives unlock untapped potential</h2>
                             <p className="headingp">
-                            Senior leaders transform the company’s vision into departmental and division goals, fostering cross-organizational collaboration, leading change initiatives, and inspiring innovation. These leaders are fundamental for constructing a comprehensive, successful atmosphere corresponding to the company's ideals. According to Blanchard, it is beneficial for senior leaders to acquire training underpinned by data and to have the capacity to discuss issues and exchange top practices with other executive-level peers. In this job capacity, senior leaders need to be able:
+                            Blanchard suggests that top executives should prioritize employee well-being and cultivate an environment of empowerment and collaboration. They lead by example, serve as mentors, and strive to develop employees' untapped potential. Building on past success and focusing on excellence, these leaders find unique ways to contribute to organizational growth. Executives can benefit from a deliberate executive development journey that focuses on developing the following skills:
                             </p>
                             <ul className="ptt-20">
-                                <li>Establish and implement appropriate work structures and processes to accomplish goals</li>
-                                <li>Apply cross-disciplinary knowledge to issues and opportunities</li>
-                                <li>Establish effective working relationships with people from other functions to achieve common goals</li>
-                                <li>Establish a culture of adjustment and realignment to create a nimble organization</li>
-                                <li>Engage diverse teams to solve business challenges by advancing diversity and inclusion</li>
-                                <li>Investigate and adopt best practices from within and outside the organization</li>
+                                <li>Develop a culture of self-leadership</li>
+                                <li>Establish and mobilize a long-term talent pipeline</li>
+                                <li>Drive innovation and transformation to position the company for success</li>
+                                <li>Ensure initiatives and priorities are aligned with strategic business goals</li>
+                                <li>Promote alignment of key stakeholders across functions</li>
+                                <li>Get things done by establishing, communicating, and reinforcing shared values and norms</li>
+                                <li>Develop a culture of idea generation</li>
+                                <li>Provide opportunities for organizational experimentation and innovation</li>
                             </ul>                            
                         </div>
                         <div className="col-sm-6 pa0000">
                             <div className="mimg100 pll-90">
-                                <img className="" src="/assets/img/kbnew/Senior-leaders-operationalize.jpg" alt="Images" />
+                                <img className="" src="/assets/img/kbnew/Inspired-executives-unlock-untapped-potential.jpg" alt="Images" />
                             </div>
                         </div>
                     </div>
@@ -139,7 +141,7 @@ export default function ThanYouLP() {
                         <div className='col-sm-12'>
                             <div className='row'>
                                 <div className='col-sm-8'>
-                                    <h2 className='pbb-50'>Senior Leader Programs</h2>
+                                    <h2 className='pbb-50'>Executive Programs</h2>
                                 </div>
                                 <div className='col-sm-4 viewall'>
                                     <a href='#'>Explore Additional Solutions <i class="bx bx-right-arrow-alt"></i></a>
@@ -217,16 +219,16 @@ export default function ThanYouLP() {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Invest in experienced managers to ensure your success</h2>
+                            <h2 className="sectionh">Develop executives who can prepare your organization for the next generation of success</h2>
                             <p className="headingp text-justify pbb-10">
-                            Your organization's leaders are senior leaders, providing vision, coaching, and tested processes and frameworks to ensure high-performance teams. They must, however, gather, learn from, and adapt proven strategies from your organization and beyond to achieve this. Learn how Blanchard can create customized leadership and team-building programs for senior leaders to enhance the creativity, execution, and productivity of your organization.
+                            Transformational executives are drivers of success, always focused on their team's well-being. They foster collaboration and innovation by investing in employee growth and promoting transparency. Most importantly, they seek to identify and nurture the new wave of leaders to pave the way for a successful future. Discover how Blanchard can work with your business to build an effective executive relationship training plan that lays the foundation for long-term prosperity.
                             </p>                            
                             <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>Talk to an Expert</a>
                         </div>
                         
                         <div className="col-sm-6">
                             <div className="mimg100 imgborder pll-90">
-                                <img className="" src="/assets/img/kbnew/Make-Experienced-Managers-the-Foundation.jpg" alt="Images" />
+                                <img className="" src="/assets/img/kbnew/Empower-Executives-to-Prepare.jpg" alt="Images" />
                             </div>
                         </div>
                     </div>

@@ -45,8 +45,8 @@ export default function ThanYouLP() {
     return (
         <>
             <Head>
-                <title>Leadership Training for Senior Leaders | Blanchard International</title>
-                <meta name="description" content="Help your senior leaders continue to grow their management skills with leadership development training from Blanchard." />
+                <title>Leadership Training for Emerging Leaders | Blanchard International</title>
+                <meta name="description" content="Support your high potential employees with leadership development training for emerging leaders from Blanchard." />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
@@ -58,12 +58,12 @@ export default function ThanYouLP() {
                                 <li className="brdlifirst"><a href="/">HOME</a></li>
                                 <li className="brdlifirst"><a href="/who-we-help">WHO WE HELP</a></li>
                                 <li className="brdlifirst"><a href="/leaders-at-all-levels">LEADERS AT ALL LEVELS</a></li>
-                                <li><a><span>SENIOR LEADERS</span></a></li>
+                                <li><a><span>EMERGING LEADERS</span></a></li>
                             </ul>
                         </div>
                         <div className="col-sm-12">
                             <div className="innerbedkms text-center">
-                                <h1>Senior Leaders</h1>
+                                <h1>Emerging Leaders</h1>
                             </div>
                         </div>
                     </div>
@@ -75,28 +75,32 @@ export default function ThanYouLP() {
                     <div className='row align-items-center'>
                         <div className='col-sm-6 pa0000'>
                             <div className='prr-90'>
-                                <img src="/assets/img/kbnew/Prepare-Your-Next-Generation-of-Executive.jpg" alt="Images" />
+                                <img src="/assets/img/kbnew/Give-Your-High-Potential.jpg" alt="Images" />
                             </div>
                         </div>
                         <div className='col-sm-6'>
                             <div>
                                 <h2>
-                                Develop the next generation of executive leaders
+                                Develop your high potential employees' leadership skills
                                 </h2>
                                 <p className="pbb-0">
-                                Your company's senior leaders are the bridge between the executive team's vision and the managers who manage the company's day-to-day operations. They are responsible for turning broad goals into actionable objectives for their departments and operating units.
+                                Individuals with high potential to contribute to you will exceed expectations and face new challenges. For those who demonstrate leadership potential, it is essential to provide training and learning opportunities to prepare them for future leadership roles in the organization.
                                 </p>
-                                <h4 className="hforh">Engage with the company's vision</h4>
+                                <h4 className="hforh">Boost engagement</h4>
                                 <p className="pbb-0">
-                                These leaders communicate the connection between their work and the company's long-term vision through their leadership POVs and personal stories.
+                                Keeping high achievers engaged in their work requires career development opportunities.
                                 </p>
-                                <h4 className="hforh">Motivate your team</h4>
+                                <h4 className="hforh">Retain high performers</h4>
                                 <p className="pbb-0">
-                                Great senior leaders inspire and engage their teams by communicating effectively, encouraging high performance and accountability, and fostering an inclusive work environment.
+                                Companies that invest in their employees are more likely to retain them.
                                 </p>
-                                <h4 className="hforh">Become a customer-centric organization</h4>
+                                <h4 className="hforh">Establish a leadership pool</h4>
                                 <p className="pbb-0">
-                                As advocates for exceptional internal and external customer service, senior leaders set the example for accountability, innovation, and soliciting feedback to anticipate customer needs.
+                                Employee retention and buy-in for management changes are higher in organizations that promote from within.
+                                </p>
+                                <h4 className="hforh">Demonstrate your values</h4>
+                                <p className="pbb-0">
+                                A path to the leadership team helps everyone feel seen, heard, and valued by investing in exceptional employees.
                                 </p>
                             </div>
                         </div>
@@ -109,22 +113,25 @@ export default function ThanYouLP() {
                 <div className="container-fluid">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Senior leaders operationalize the organization’s vision and values</h2>
+                            <h2 className="sectionh">Establish a clear path for future leaders</h2>
                             <p className="headingp">
-                            Senior leaders transform the company’s vision into departmental and division goals, fostering cross-organizational collaboration, leading change initiatives, and inspiring innovation. These leaders are fundamental for constructing a comprehensive, successful atmosphere corresponding to the company's ideals. According to Blanchard, it is beneficial for senior leaders to acquire training underpinned by data and to have the capacity to discuss issues and exchange top practices with other executive-level peers. In this job capacity, senior leaders need to be able:
+                            According to Blanchard, you need to identify your high-performing individual contributors passionate about leadership to build your leadership talent pool from within. Emerging leaders must develop the skills following to transition from individual contributors to proactive, assertive leaders:
                             </p>
                             <ul className="ptt-20">
-                                <li>Establish and implement appropriate work structures and processes to accomplish goals</li>
-                                <li>Apply cross-disciplinary knowledge to issues and opportunities</li>
-                                <li>Establish effective working relationships with people from other functions to achieve common goals</li>
-                                <li>Establish a culture of adjustment and realignment to create a nimble organization</li>
-                                <li>Engage diverse teams to solve business challenges by advancing diversity and inclusion</li>
-                                <li>Investigate and adopt best practices from within and outside the organization</li>
-                            </ul>                            
+                                <li>Share information accurately and openly</li>
+                                <li>Overcome challenges and take risks</li>
+                                <li>Demonstrate excellent interpersonal skills</li>
+                                <li>Cultivate curiosity about emerging industry and workplace trends</li>
+                                <li>Collaborate with and support others</li>
+                                <li>Work cooperatively with others across the organization</li>
+                            </ul>
+                            <p className="headingp">
+                            Blanchard sees that all employees can be leaders in their own right—individual contributors lead themselves, while others may also affect the development of projects and teams. Our emerging leader plans aim to instill individuals with a leadership mindset, provide them with the necessary skills to undertake their current duties and prepare them for a more senior leadership position. Learners take part in multiple research-backed approaches encompassing all aspects of life, not just work, heightening their leadership capacity.
+                            </p>
                         </div>
                         <div className="col-sm-6 pa0000">
                             <div className="mimg100 pll-90">
-                                <img className="" src="/assets/img/kbnew/Senior-leaders-operationalize.jpg" alt="Images" />
+                                <img className="" src="/assets/img/kbnew/Create-a-Clear-Path.jpg" alt="Images" />
                             </div>
                         </div>
                     </div>
@@ -132,14 +139,14 @@ export default function ThanYouLP() {
             </section>
 
 
-            <section className='ExperiencesCourses ptt-50 pbb-60'>
+            <section className='ExperiencesCourses pbb-60 ptt-50'>
                 <div className='container'>
                     <div className='row'>
                       
                         <div className='col-sm-12'>
                             <div className='row'>
                                 <div className='col-sm-8'>
-                                    <h2 className='pbb-50'>Senior Leader Programs</h2>
+                                    <h2 className='pbb-50'>New Manager Programs</h2>
                                 </div>
                                 <div className='col-sm-4 viewall'>
                                     <a href='#'>Explore Additional Solutions <i class="bx bx-right-arrow-alt"></i></a>
@@ -217,16 +224,16 @@ export default function ThanYouLP() {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Invest in experienced managers to ensure your success</h2>
+                            <h2 className="sectionh">Help your emerging leaders reach their potential</h2>
                             <p className="headingp text-justify pbb-10">
-                            Your organization's leaders are senior leaders, providing vision, coaching, and tested processes and frameworks to ensure high-performance teams. They must, however, gather, learn from, and adapt proven strategies from your organization and beyond to achieve this. Learn how Blanchard can create customized leadership and team-building programs for senior leaders to enhance the creativity, execution, and productivity of your organization.
+                            Work with us to build communication and connection plans for your emerging leaders, linking the learning goals and objectives to your operational imperatives. Doing so will allow individual contributors to comprehend the value to them and their organization. Our individual contributor learning journeys are designed to integrate interaction points with a learner’s manager, which will incentivize them, keep them accountable, advise on skill application in their workplace setting, and urge new skills and desired behaviors.
                             </p>                            
                             <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>Talk to an Expert</a>
                         </div>
                         
                         <div className="col-sm-6">
                             <div className="mimg100 imgborder pll-90">
-                                <img className="" src="/assets/img/kbnew/Make-Experienced-Managers-the-Foundation.jpg" alt="Images" />
+                                <img className="" src="/assets/img/kbnew/Help-Your-Emerging-Leaders.jpg" alt="Images" />
                             </div>
                         </div>
                     </div>

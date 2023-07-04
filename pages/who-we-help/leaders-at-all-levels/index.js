@@ -69,7 +69,7 @@ export default function ThanYouLP() {
                 </div>
             </section>
 
-            <section className="ptt-60 pbb-60 ExploreCustom Unleashleadership">
+            <section className="ptt-60 pbb-60">
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
@@ -108,11 +108,11 @@ export default function ThanYouLP() {
                            <strong>Each leadership level has its learning journey</strong>
                         </h4>
                         <ul>
-                           <li><a href='#'>Leaders in Emergence <i class="bx bx-right-arrow-alt"></i></a></li>
-                           <li><a href='#'>Managers <i class="bx bx-right-arrow-alt"></i></a></li>
-                           <li><a href='#'>Leaders with experience <i class="bx bx-right-arrow-alt"></i></a></li>
-                           <li><a href='#'>Managers new to the company <i class="bx bx-right-arrow-alt"></i></a></li>
-                           <li><a href='#'>Senior Leaders <i class="bx bx-right-arrow-alt"></i></a></li>
+                           <li><a href='/who-we-help/leaders-at-all-levels/emerging-leaders'>Leaders in Emergence <i class="bx bx-right-arrow-alt"></i></a></li>
+                           <li><a href='/who-we-help/leaders-at-all-levels/new-managers'>Managers <i class="bx bx-right-arrow-alt"></i></a></li>
+                           <li><a href='/who-we-help/leaders-at-all-levels/executives'>Leaders with experience <i class="bx bx-right-arrow-alt"></i></a></li>
+                           <li><a href='/who-we-help/leaders-at-all-levels/senior-leaders'>Managers new to the company <i class="bx bx-right-arrow-alt"></i></a></li>
+                           <li><a href='/who-we-help/leaders-at-all-levels/experienced-leaders'>Senior Leaders <i class="bx bx-right-arrow-alt"></i></a></li>
                         </ul>
                      </div>
                   </div>
