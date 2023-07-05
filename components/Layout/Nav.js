@@ -218,9 +218,9 @@ function Nav() {
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a className="headlist" href="#">Organizations</a></li>
-                                                                    <li><a href="#">Training Professionals</a></li>
-                                                                    <li><a href="#">Coaching Professionals</a></li>
+                                                                    <li><a className="headlist" href="/who-we-help/organizations">Organizations</a></li>
+                                                                    <li><a href="/who-we-help/training-professionals">Training Professionals</a></li>
+                                                                    <li><a href="/who-we-help/coaching-professionals">Coaching Professionals</a></li>
                                                                 </ul>
                                                             </div>
                                                             <div className="col-sm-4">
