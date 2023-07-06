@@ -219,15 +219,15 @@ function Nav() {
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
                                                                     <li><a className="headlist" href="/who-we-help/organizations">Organizations</a></li>
-                                                                    <li><a href="/who-we-help/training-professionals">Training Professionals</a></li>
-                                                                    <li><a href="/who-we-help/coaching-professionals">Coaching Professionals</a></li>
+                                                                    <li><a className="headlist" href="/who-we-help/training-professionals">Training Professionals</a></li>
+                                                                    <li><a className="headlist" href="/who-we-help/coaching-professionals">Coaching Professionals</a></li>
                                                                 </ul>
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a className="headlist" href="#">Teams</a></li>
-                                                                    <li><a href="#">Individuals</a></li>
-                                                                    <li><a href="#">Students</a></li>
+                                                                    <li><a className="headlist" href="/who-we-help/teams">Teams</a></li>
+                                                                    <li><a className="headlist" href="/who-we-help/individuals">Individuals</a></li>
+                                                                    
                                                                 </ul>
                                                             </div>
                                                         </div>
