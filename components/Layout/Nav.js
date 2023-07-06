@@ -284,7 +284,7 @@ function Nav() {
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a className="headlist" href="#">Challenges</a></li>
+                                                                    <li><a className="headlist" href="/our-content/challenges">Challenges</a></li>
                                                                     <li><a href="#">Leadership Capabilities</a></li>
                                                                     <li><a href="#">Change & Agility</a></li>
                                                                     <li><a href="#">Diversity & Inclusion</a></li>
