@@ -227,7 +227,6 @@ function Nav() {
                                                                 <ul className="biginnerm">
                                                                     <li><a className="headlist" href="/who-we-help/teams">Teams</a></li>
                                                                     <li><a className="headlist" href="/who-we-help/individuals">Individuals</a></li>
-                                                                    
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -285,12 +284,14 @@ function Nav() {
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a className="headlist" href="#">Curated Learning Journeys</a></li>
-                                                                    <li><a href="#">Customized Learning Experiences</a></li>
-                                                                    <li><a href="#">Custom Coaching Solutions</a></li>
-                                                                    <li><a href="#">Executive Development Experiences</a></li>
-                                                                    <li><a href="#">Content Integration</a></li>
-                                                                    <li><a href="#">Talent Strategy</a></li>
+                                                                    <li><a className="headlist" href="#">Challenges</a></li>
+                                                                    <li><a href="#">Leadership Capabilities</a></li>
+                                                                    <li><a href="#">Change & Agility</a></li>
+                                                                    <li><a href="#">Diversity & Inclusion</a></li>
+                                                                    <li><a href="#">Engagement & Retention</a></li>
+                                                                    <li><a href="#">Organizational Performance</a></li>
+                                                                    <li><a href="#">Personal Effectiveness</a></li>
+                                                                    <li><a href="#">Teaming & Collaboration</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
