@@ -285,13 +285,13 @@ function Nav() {
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
                                                                     <li><a className="headlist" href="/our-content/challenges">Challenges</a></li>
-                                                                    <li><a href="#">Leadership Capabilities</a></li>
-                                                                    <li><a href="#">Change & Agility</a></li>
-                                                                    <li><a href="#">Diversity & Inclusion</a></li>
-                                                                    <li><a href="#">Engagement & Retention</a></li>
-                                                                    <li><a href="#">Organizational Performance</a></li>
-                                                                    <li><a href="#">Personal Effectiveness</a></li>
-                                                                    <li><a href="#">Teaming & Collaboration</a></li>
+                                                                    <li><a href="/our-content/challenges/leadership-capabilities">Leadership Capabilities</a></li>
+                                                                    <li><a href="/our-content/challenges/change-agility">Change & Agility</a></li>
+                                                                    <li><a href="/our-content/challenges/diversity-inclusion">Diversity & Inclusion</a></li>
+                                                                    <li><a href="/our-content/challenges/engagement-retention">Engagement & Retention</a></li>
+                                                                    <li><a href="/our-content/challenges/organizational-performance">Organizational Performance</a></li>
+                                                                    <li><a href="/our-content/challenges/personal-effectiveness">Personal Effectiveness</a></li>
+                                                                    <li><a href="/our-content/challenges/teaming-collaboration">Teaming & Collaboration</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
