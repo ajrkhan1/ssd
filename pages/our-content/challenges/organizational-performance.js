@@ -45,8 +45,8 @@ export default function ThanYouLP() {
     return (
         <>
             <Head>
-                <title>Developing Leadership Capability | Blanchard International</title>
-                <meta name="description" content="Learn the core capabilities today’s leaders need to be successful and how Blanchard’s programs can develop your organization’s leadership capability." />
+                <title>Enhancing Organizational Performance | Blanchard International</title>
+                <meta name="description" content="Learn how Blanchard can help leaders at all levels improve the skills that improve overall organizational performance and effectiveness." />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
@@ -58,12 +58,12 @@ export default function ThanYouLP() {
                                 <li className="brdlifirst"><a href="/">HOME</a></li>
                                 <li className="brdlifirst"><a href="/our-content">OUR CONTENT</a></li>
                                 <li className="brdlifirst"><a href="/our-content/challenges">CHALLENGES</a></li>
-                                <li><a><span>LEADERSHIP CAPABILITIES</span></a></li>
+                                <li><a><span>ORGANIZATIONAL PERFORMANCE</span></a></li>
                             </ul>
                         </div>
                         <div className="col-sm-12">
                             <div className="innerbedkms text-center">
-                                <h1>Change & Agility</h1>
+                                <h1>Organizational Performance</h1>
                             </div>
                         </div>
                     </div>
@@ -75,22 +75,32 @@ export default function ThanYouLP() {
                     <div className="row align-items-center">
                         <div className="col-sm-6">
                             <h2 className="sectionh">
-                            Leadership agility helps organizations adapt to change successfully
+                            Optimize organizational performance to meet the demands of today's competitive business
                             </h2>
                             <p className="headingp">
-                            A successful organization requires managing change, adapting to market changes, and fostering innovation. Effective leaders who enable change management success have the following abilities:
+                            The demands of stakeholders and competition have placed increasing pressure on organizations to perform well in today's business environment. To maintain a high level of organizational performance, leaders must master these capabilities:
                             </p>
                             <ul className="ptt-20">
-                                <li>Align the vision and strategy for change with the organization's goals and values</li>
-                                <li>Establish an adaptive culture by leading by example, encouraging experimentation, and taking calculated risks</li>
-                                <li>Encourage learning from failure and a collaborative team environment</li>
-                                <li>Maintain long-term goals by identifying and responding quickly to environmental changes</li>
-                                <li>Allow employees to make quick decisions and take action</li>                               
+                                <li>
+                                Align strategies, processes, and structures with the organization's overall goals
+                                </li>
+                                <li>
+                                Workflows and processes should be defined and managed efficiently
+                                </li>
+                                <li>
+                                Agility in adapting to changing market conditions
+                                </li>
+                                <li>
+                                Take an innovative approach to their work and the company's products and services
+                                </li>                                               
                             </ul>
+                            <p className="headingp">
+                            Promote a culture of inclusivity, diversity, social responsibility, and sustainability
+                            </p>
                         </div>
                         <div className="col-sm-6 pa0000">
                             <div className="mimg100 pll-90">
-                                <img className="" src="/assets/img/kbnew/Leadership-agility-helps.jpg" alt="Images" />
+                                <img className="" src="/assets/img/kbnew/Optimize-organizational-performance.jpg" alt="Images" />
                             </div>
                         </div>
                     </div>
@@ -102,28 +112,32 @@ export default function ThanYouLP() {
                     <div className='row align-items-center'>
                         <div className='col-sm-6 pa0000'>
                             <div className='prr-90'>
-                                <img src="/assets/img/kbnew/Navigating-change-requires-agile-leadership-skills.jpg" alt="Images" />
+                                <img src="/assets/img/kbnew/Effective-leaders-and-engaged.jpg" alt="Images" />
                             </div>
                         </div>
                         <div className='col-sm-6'>
                             <div>
                                 <h2>
-                                Agile leadership is essential for navigating change
+                                Exceptional organizational performance requires the following ingredients
                                 </h2>
                                 <p className="pbb-0">
-                                Change is a constant in any business. Leaders must be able to adapt. Organizations—and their leaders—must be willing to experiment, try new things, and be open to new ideas. Through Blanchard change and agility programs, your leaders learn how to:
+                                It is the roles of leaders to help their organizations improve performance, operate more efficiently, achieve goals, and grow. Blanchard programs teach leaders how to cultivate a range of skills to support organizational effectiveness, including:
                                 </p>
-                                <h4 className="hforh">Promote innovation throughout the organization</h4>
+                                <h4 className="hforh">Set a clear vision and strategy</h4>
                                 <p className="pbb-0">
-                                Innovation doesn’t belong to a specific role or department. Blanchard believes leaders should encourage all team members to think creatively and develop new and innovative solutions that move the company forward.
+                                Clearly communicate the organization's vision and strategy to all employees.
                                 </p>
-                                <h4 className="hforh">Develop a culture of continuous learning</h4>
+                                <h4 className="hforh">Establish an accountability and excellence culture</h4>
                                 <p className="pbb-0">
-                                Mix formal training programs with one-to-one feedback and coaching, peer-to-peer learning, and stretch assignments.
+                                Encourage high standards of performance and reward employees for achieving them.
                                 </p>
-                                <h4 className="hforh">Change quickly</h4>
+                                <h4 className="hforh">Promote diversity, equity, and inclusion</h4>
                                 <p className="pbb-0">
-                                Regardless of how changes will affect your business, it's important not to leave your organizational response to the last minute. Effective leaders have a plan for managing change and remain open to new ideas.
+                                Ensure that all employees feel valued, respected, and included.
+                                </p>
+                                <h4 className="hforh">Encourage innovation and creativity to be adaptive and agile</h4>
+                                <p className="pbb-0">
+                                To respond quickly to new opportunities, challenges, and trends in the market, leaders need to be adaptable to change.
                                 </p>
                             </div>
                         </div>
@@ -220,16 +234,16 @@ export default function ThanYouLP() {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Change your organization's capacity to adapt</h2>
+                            <h2 className="sectionh">Improve the performance of your organization</h2>
                             <p className="headingp text-justify pbb-10">
-                            Each new workday brings changes that have the potential to drive your company’s growth, provided your leaders can garner your people’s buy-in.  By building a customized learning journey, we can help your leaders become agile managers who can quickly adapt to change.
+                            In today's fast-paced business environment, leaders need to adapt strategies quickly, support critical brand values, and keep their people focused on achieving their goals. Improve your organizational performance at all levels with a custom learning journey built by us
                             </p>                            
                             <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>Talk to an Expert</a>
                         </div>
                         
                         <div className="col-sm-6">
                             <div className="mimg100 imgborder pll-90">
-                                <img className="" src="/assets/img/kbnew/Increase-your-organization’s-capacity-for-change.jpg" alt="Images" />
+                                <img className="" src="/assets/img/kbnew/Accelerate-your-organizational-performance.jpg" alt="Images" />
                             </div>
                         </div>
                     </div>

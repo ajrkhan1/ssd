@@ -71,26 +71,34 @@ export default function ThanYouLP() {
             </section>
 
             <section className="ptt-60 pbb-60 uncommonapproach rightimgc">
-                <div className="container-fluid">
+                <div className="container">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
                             <h2 className="sectionh">
-                            Leadership agility helps organizations adapt to change successfully
+                            Everyone feels valued, seen, and heard in an inclusive workplace
                             </h2>
                             <p className="headingp">
-                            A successful organization requires managing change, adapting to market changes, and fostering innovation. Effective leaders who enable change management success have the following abilities:
+                            Diverse, inclusive, and belonging issues must be addressed in the workplace in order to create cultures and workforces that reflect the customers and communities a business serves. A comprehensive DEI program should achieve the following outcomes:
                             </p>
                             <ul className="ptt-20">
-                                <li>Align the vision and strategy for change with the organization's goals and values</li>
-                                <li>Establish an adaptive culture by leading by example, encouraging experimentation, and taking calculated risks</li>
-                                <li>Encourage learning from failure and a collaborative team environment</li>
-                                <li>Maintain long-term goals by identifying and responding quickly to environmental changes</li>
-                                <li>Allow employees to make quick decisions and take action</li>                               
+                                <li>
+                                    Fair and equal access to opportunities and resources for a diverse workforce
+                                </li>
+                                <li>
+                                    An environment where all individuals feel valued, respected, and supported
+                                </li>
+                                <li>
+                                    People from all backgrounds are able to bring their whole selves to the workplace
+                                </li>
+                                <li>
+                                    A sense of belonging where everyone is accepted and valued as a member of the organization
+                                </li>
+                                                         
                             </ul>
                         </div>
-                        <div className="col-sm-6 pa0000">
-                            <div className="mimg100 pll-90">
-                                <img className="" src="/assets/img/kbnew/Leadership-agility-helps.jpg" alt="Images" />
+                        <div className="col-sm-6">
+                            <div className="mimg100 imgborder pll-90">
+                                <img className="" src="/assets/img/kbnew/An-inclusive-workplace.jpg" alt="Images" />
                             </div>
                         </div>
                     </div>
@@ -102,28 +110,28 @@ export default function ThanYouLP() {
                     <div className='row align-items-center'>
                         <div className='col-sm-6 pa0000'>
                             <div className='prr-90'>
-                                <img src="/assets/img/kbnew/Navigating-change-requires-agile-leadership-skills.jpg" alt="Images" />
+                                <img src="/assets/img/kbnew/Leaders-build-a-more-inclusive.jpg" alt="Images" />
                             </div>
                         </div>
                         <div className='col-sm-6'>
                             <div>
                                 <h2>
-                                Agile leadership is essential for navigating change
+                                One interaction at a time, leaders build a more inclusive workplace
                                 </h2>
                                 <p className="pbb-0">
-                                Change is a constant in any business. Leaders must be able to adapt. Organizations—and their leaders—must be willing to experiment, try new things, and be open to new ideas. Through Blanchard change and agility programs, your leaders learn how to:
+                                A company's culture is shaped by its leadership. To create an environment that values diversity, inclusion, and belonging, effective leaders take a proactive approach by modeling inclusive behaviors within the organization. DEI programs from Blanchard equip leaders with the following skills:
                                 </p>
-                                <h4 className="hforh">Promote innovation throughout the organization</h4>
+                                <h4 className="hforh">Accountability</h4>
                                 <p className="pbb-0">
-                                Innovation doesn’t belong to a specific role or department. Blanchard believes leaders should encourage all team members to think creatively and develop new and innovative solutions that move the company forward.
+                                Leaders learn how to hold themselves accountable by examining and addressing their biases. They are open to feedback and make changes when necessary.
                                 </p>
-                                <h4 className="hforh">Develop a culture of continuous learning</h4>
+                                <h4 className="hforh">Lead by example</h4>
                                 <p className="pbb-0">
-                                Mix formal training programs with one-to-one feedback and coaching, peer-to-peer learning, and stretch assignments.
+                                Leaders’ actions and behaviors create workplace norms that significantly impact the company’s culture. Inclusive leaders create a culture that values diversity and inclusion by setting clear expectations and leading by example.
                                 </p>
-                                <h4 className="hforh">Change quickly</h4>
+                                <h4 className="hforh">Promote belonging</h4>
                                 <p className="pbb-0">
-                                Regardless of how changes will affect your business, it's important not to leave your organizational response to the last minute. Effective leaders have a plan for managing change and remain open to new ideas.
+                                Leaders who value individual differences and intentionally create opportunities for employees to connect and collaborate cultivate a sense of community.
                                 </p>
                             </div>
                         </div>
@@ -220,16 +228,16 @@ export default function ThanYouLP() {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Change your organization's capacity to adapt</h2>
+                            <h2 className="sectionh">Develop an intentionally inclusive culture</h2>
                             <p className="headingp text-justify pbb-10">
-                            Each new workday brings changes that have the potential to drive your company’s growth, provided your leaders can garner your people’s buy-in.  By building a customized learning journey, we can help your leaders become agile managers who can quickly adapt to change.
+                            We will create a custom learning journey to help your leaders learn how to create a work environment where everyone feels valued and respected based on their unique experiences, perspectives, and contributions.
                             </p>                            
                             <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>Talk to an Expert</a>
                         </div>
                         
                         <div className="col-sm-6">
                             <div className="mimg100 imgborder pll-90">
-                                <img className="" src="/assets/img/kbnew/Increase-your-organization’s-capacity-for-change.jpg" alt="Images" />
+                                <img className="" src="/assets/img/kbnew/Create-an-intentionally-inclusive-culture.jpg" alt="Images" />
                             </div>
                         </div>
                     </div>

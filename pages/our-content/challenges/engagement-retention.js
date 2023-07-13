@@ -45,8 +45,8 @@ export default function ThanYouLP() {
     return (
         <>
             <Head>
-                <title>Developing Leadership Capability | Blanchard International</title>
-                <meta name="description" content="Learn the core capabilities today’s leaders need to be successful and how Blanchard’s programs can develop your organization’s leadership capability." />
+                <title>Improving Employee Engagement and Retention | Blanchard International</title>
+                <meta name="description" content="Learn how to improve your employee engagement and retention with Blanchard’s management training programs." />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
@@ -58,12 +58,12 @@ export default function ThanYouLP() {
                                 <li className="brdlifirst"><a href="/">HOME</a></li>
                                 <li className="brdlifirst"><a href="/our-content">OUR CONTENT</a></li>
                                 <li className="brdlifirst"><a href="/our-content/challenges">CHALLENGES</a></li>
-                                <li><a><span>LEADERSHIP CAPABILITIES</span></a></li>
+                                <li><a><span>ENGAGEMENT & RETENTION</span></a></li>
                             </ul>
                         </div>
                         <div className="col-sm-12">
                             <div className="innerbedkms text-center">
-                                <h1>Change & Agility</h1>
+                                <h1>Engagement & Retention</h1>
                             </div>
                         </div>
                     </div>
@@ -75,22 +75,21 @@ export default function ThanYouLP() {
                     <div className="row align-items-center">
                         <div className="col-sm-6">
                             <h2 className="sectionh">
-                            Leadership agility helps organizations adapt to change successfully
+                            Long-term business success depends on engaged employees
                             </h2>
                             <p className="headingp">
-                            A successful organization requires managing change, adapting to market changes, and fostering innovation. Effective leaders who enable change management success have the following abilities:
+                            The success of your organization relies heavily on employee engagement, retention, satisfaction, and passion for work. Employees who are engaged and satisfied are more productive, have a positive attitude toward their work and organization, and are more likely to stay with the organization for longer periods. To create an environment where engagement thrives, leaders need to understand how to:
                             </p>
                             <ul className="ptt-20">
-                                <li>Align the vision and strategy for change with the organization's goals and values</li>
-                                <li>Establish an adaptive culture by leading by example, encouraging experimentation, and taking calculated risks</li>
-                                <li>Encourage learning from failure and a collaborative team environment</li>
-                                <li>Maintain long-term goals by identifying and responding quickly to environmental changes</li>
-                                <li>Allow employees to make quick decisions and take action</li>                               
+                                <li>Growth and development opportunities for employees</li>
+                                <li>Maintain a positive work environment</li>
+                                <li>Provide competitive compensation and benefits</li>
+                                <li>All employees should be recognized and rewarded for their contributions</li>                                                      
                             </ul>
                         </div>
                         <div className="col-sm-6 pa0000">
                             <div className="mimg100 pll-90">
-                                <img className="" src="/assets/img/kbnew/Leadership-agility-helps.jpg" alt="Images" />
+                                <img className="" src="/assets/img/kbnew/Engaged-employees-are.jpg" alt="Images" />
                             </div>
                         </div>
                     </div>
@@ -102,28 +101,28 @@ export default function ThanYouLP() {
                     <div className='row align-items-center'>
                         <div className='col-sm-6 pa0000'>
                             <div className='prr-90'>
-                                <img src="/assets/img/kbnew/Navigating-change-requires-agile-leadership-skills.jpg" alt="Images" />
+                                <img src="/assets/img/kbnew/Leaders-who-create-an-inclusive-culture.jpg" alt="Images" />
                             </div>
                         </div>
                         <div className='col-sm-6'>
                             <div>
                                 <h2>
-                                Agile leadership is essential for navigating change
+                                Foundation for an engaged workforce is built by leaders who create an inclusive culture
                                 </h2>
                                 <p className="pbb-0">
-                                Change is a constant in any business. Leaders must be able to adapt. Organizations—and their leaders—must be willing to experiment, try new things, and be open to new ideas. Through Blanchard change and agility programs, your leaders learn how to:
+                                A positive work culture can only be fostered by effective leadership. By communicating effectively and providing employees with the resources and support they need to succeed, Blanchard helps leaders create a work environment that values and respects employees. With our engagement and retention programs, leaders can:
                                 </p>
-                                <h4 className="hforh">Promote innovation throughout the organization</h4>
+                                <h4 className="hforh">Maintain a positive work environment</h4>
                                 <p className="pbb-0">
-                                Innovation doesn’t belong to a specific role or department. Blanchard believes leaders should encourage all team members to think creatively and develop new and innovative solutions that move the company forward.
+                                Passionate employees lead to improved productivity, reduced turnover costs, better customer service, and a positive reputation for the company, which attracts potential employees.
                                 </p>
-                                <h4 className="hforh">Develop a culture of continuous learning</h4>
+                                <h4 className="hforh">Make sure everyone feels seen, heard, and valued</h4>
                                 <p className="pbb-0">
-                                Mix formal training programs with one-to-one feedback and coaching, peer-to-peer learning, and stretch assignments.
+                                When employees feel that their opinions matter, their contributions are valued, and they have a sense of purpose in their work, they are more likely to be engaged and motivated.
                                 </p>
-                                <h4 className="hforh">Change quickly</h4>
+                                <h4 className="hforh">Growth opportunities should be provided</h4>
                                 <p className="pbb-0">
-                                Regardless of how changes will affect your business, it's important not to leave your organizational response to the last minute. Effective leaders have a plan for managing change and remain open to new ideas.
+                                An effective leader provides opportunities for growth and development. Employees who feel like they have a future with the company are more likely to stay.
                                 </p>
                             </div>
                         </div>
@@ -220,16 +219,16 @@ export default function ThanYouLP() {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Change your organization's capacity to adapt</h2>
+                            <h2 className="sectionh">Engage employees and make their workplace a rewarding place to work</h2>
                             <p className="headingp text-justify pbb-10">
-                            Each new workday brings changes that have the potential to drive your company’s growth, provided your leaders can garner your people’s buy-in.  By building a customized learning journey, we can help your leaders become agile managers who can quickly adapt to change.
+                            Let us design a learning journey for your managers to help them engage their employees and create a culture where employees can grow without leaving.
                             </p>                            
                             <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>Talk to an Expert</a>
                         </div>
                         
                         <div className="col-sm-6">
                             <div className="mimg100 imgborder pll-90">
-                                <img className="" src="/assets/img/kbnew/Increase-your-organization’s-capacity-for-change.jpg" alt="Images" />
+                                <img className="" src="/assets/img/kbnew/Create-an-engaging-workplace-where.jpg" alt="Images" />
                             </div>
                         </div>
                     </div>

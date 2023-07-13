@@ -45,8 +45,8 @@ export default function ThanYouLP() {
     return (
         <>
             <Head>
-                <title>Developing Leadership Capability | Blanchard International</title>
-                <meta name="description" content="Learn the core capabilities today’s leaders need to be successful and how Blanchard’s programs can develop your organization’s leadership capability." />
+                <title>Enhancing Teaming & Collaboration | Blanchard International</title>
+                <meta name="description" content="Learn how Blanchard can help leaders at all levels improve their teamwork and collaboration skills." />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
@@ -58,12 +58,12 @@ export default function ThanYouLP() {
                                 <li className="brdlifirst"><a href="/">HOME</a></li>
                                 <li className="brdlifirst"><a href="/our-content">OUR CONTENT</a></li>
                                 <li className="brdlifirst"><a href="/our-content/challenges">CHALLENGES</a></li>
-                                <li><a><span>LEADERSHIP CAPABILITIES</span></a></li>
+                                <li><a><span>TEAMING & COLLABORATION</span></a></li>
                             </ul>
                         </div>
                         <div className="col-sm-12">
                             <div className="innerbedkms text-center">
-                                <h1>Change & Agility</h1>
+                                <h1>Teaming & Collaboration</h1>
                             </div>
                         </div>
                     </div>
@@ -75,22 +75,22 @@ export default function ThanYouLP() {
                     <div className="row align-items-center">
                         <div className="col-sm-6">
                             <h2 className="sectionh">
-                            Leadership agility helps organizations adapt to change successfully
+                            Innovation is a result of teamwork and collaboration
                             </h2>
                             <p className="headingp">
-                            A successful organization requires managing change, adapting to market changes, and fostering innovation. Effective leaders who enable change management success have the following abilities:
+                            It is often the result of a collaborative work environment that prioritizes teamwork and collaboration that sparks innovation. Effective teamwork requires leaders who inspire their people to:
                             </p>
                             <ul className="ptt-20">
-                                <li>Align the vision and strategy for change with the organization's goals and values</li>
-                                <li>Establish an adaptive culture by leading by example, encouraging experimentation, and taking calculated risks</li>
-                                <li>Encourage learning from failure and a collaborative team environment</li>
-                                <li>Maintain long-term goals by identifying and responding quickly to environmental changes</li>
-                                <li>Allow employees to make quick decisions and take action</li>                               
+                                <li>Work together towards a common goal or objective</li>
+                                <li>Share knowledge and resources while collaborating on projects</li>
+                                <li>Support and assist each other</li>
+                                <li>Communicate with empathy in person or virtually</li>
+                                <li>Ability to work effectively with people from diverse backgrounds and with different skill sets</li>                               
                             </ul>
                         </div>
                         <div className="col-sm-6 pa0000">
                             <div className="mimg100 pll-90">
-                                <img className="" src="/assets/img/kbnew/Leadership-agility-helps.jpg" alt="Images" />
+                                <img className="" src="/assets/img/kbnew/teamwork-and-collaboration-are-catalysts.jpg" alt="Images" />
                             </div>
                         </div>
                     </div>
@@ -102,28 +102,28 @@ export default function ThanYouLP() {
                     <div className='row align-items-center'>
                         <div className='col-sm-6 pa0000'>
                             <div className='prr-90'>
-                                <img src="/assets/img/kbnew/Navigating-change-requires-agile-leadership-skills.jpg" alt="Images" />
+                                <img src="/assets/img/kbnew/Collaborative-work-cultures-start.jpg" alt="Images" />
                             </div>
                         </div>
                         <div className='col-sm-6'>
                             <div>
                                 <h2>
-                                Agile leadership is essential for navigating change
+                                Trust is the foundation of collaborative work cultures
                                 </h2>
                                 <p className="pbb-0">
-                                Change is a constant in any business. Leaders must be able to adapt. Organizations—and their leaders—must be willing to experiment, try new things, and be open to new ideas. Through Blanchard change and agility programs, your leaders learn how to:
+                                A collaborative work environment encourages team members to share their ideas, thoughts, and concerns openly and honestly. Effective teamwork and collaboration are built on a foundation of inclusion and trust. At Blanchard, we help leaders develop these skills so that their teams work more effectively and succeed more:
                                 </p>
-                                <h4 className="hforh">Promote innovation throughout the organization</h4>
+                                <h4 className="hforh">Communicate effectively and set clear goals</h4>
                                 <p className="pbb-0">
-                                Innovation doesn’t belong to a specific role or department. Blanchard believes leaders should encourage all team members to think creatively and develop new and innovative solutions that move the company forward.
+                                Ensure everyone understands how their roles and responsibilities contribute to the team's success by setting clear expectations.
                                 </p>
-                                <h4 className="hforh">Develop a culture of continuous learning</h4>
+                                <h4 className="hforh">Collaborate and build trust</h4>
                                 <p className="pbb-0">
-                                Mix formal training programs with one-to-one feedback and coaching, peer-to-peer learning, and stretch assignments.
+                                A teamwork-focused leader creates an environment where team members feel comfortable sharing ideas, thoughts, and concerns.
                                 </p>
-                                <h4 className="hforh">Change quickly</h4>
+                                <h4 className="hforh">Promote diversity, inclusion, and belonging</h4>
                                 <p className="pbb-0">
-                                Regardless of how changes will affect your business, it's important not to leave your organizational response to the last minute. Effective leaders have a plan for managing change and remain open to new ideas.
+                                To foster a culture of diversity, inclusion, and belonging, leaders must promote inclusivity, value diversity, and create an environment where all team members feel valued, respected, and included.
                                 </p>
                             </div>
                         </div>
@@ -220,16 +220,16 @@ export default function ThanYouLP() {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Change your organization's capacity to adapt</h2>
+                            <h2 className="sectionh">Empowering the next generation of leaders through collaboration and teamwork</h2>
                             <p className="headingp text-justify pbb-10">
-                            Each new workday brings changes that have the potential to drive your company’s growth, provided your leaders can garner your people’s buy-in.  By building a customized learning journey, we can help your leaders become agile managers who can quickly adapt to change.
+                            Your organization's high-performing individual contributors will be better positioned for leadership opportunities in the future if they work well within a collaborative team environment. Our team will create a customized learning journey to help your workforce develop teaming and collaboration competencies.
                             </p>                            
                             <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>Talk to an Expert</a>
                         </div>
                         
                         <div className="col-sm-6">
                             <div className="mimg100 imgborder pll-90">
-                                <img className="" src="/assets/img/kbnew/Increase-your-organization’s-capacity-for-change.jpg" alt="Images" />
+                                <img className="" src="/assets/img/kbnew/Collaboration-and-teaming.jpg" alt="Images" />
                             </div>
                         </div>
                     </div>
