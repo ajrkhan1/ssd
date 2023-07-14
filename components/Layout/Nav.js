@@ -171,7 +171,7 @@ function Nav() {
                                                                     <li><a href="#">Reinforcement & Sustainment</a></li>
                                                                 </ul>
                                                             </div>
-                                                            <div className="col-sm-4">
+                                                            {/* <div className="col-sm-4">
                                                                 <ul className="biginnerm">
                                                                     <li><a className="headlist" href="#">Curated Learning Journeys</a></li>
                                                                     <li><a href="#">Customized Learning Experiences</a></li>
@@ -180,7 +180,7 @@ function Nav() {
                                                                     <li><a href="#">Content Integration</a></li>
                                                                     <li><a href="#">Talent Strategy</a></li>
                                                                 </ul>
-                                                            </div>
+                                                            </div> */}
                                                         </div>
                                                     </div>
 
