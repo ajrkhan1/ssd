@@ -5,8 +5,8 @@ export default function ThanYouLP() {
     return (
         <>
             <Head>
-                <title>Propel By Blanchard | Blanchard International</title>
-                <meta name="description" content="Learn how Propel by Blanchard makes a human-powered leadership and management training experience accessible to everyone."/>
+                <title>Learning Journeys | Blanchard International</title>
+                <meta name="description" content="Learn how Blanchard can help you create learning journeys that unfold over time into the flow of your leaders’ work and their workdays."/>
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
@@ -18,12 +18,12 @@ export default function ThanYouLP() {
                                 <li className="brdlifirst"><a href="/">HOME</a></li>
                                 <li className="brdlifirst"><a href="/what-we-do">WHAT WE DO</a></li>
                                 <li className="brdlifirst"><a href="/what-we-do/leadership-development">LEADERSHIP DEVELOPMENT</a></li>                                
-                                <li><a><span>PROPEL BY BLANCHARD</span></a></li>
+                                <li><a><span>LEARNING JOURNEYS</span></a></li>
                             </ul>
                         </div>                
                             <div className="col-sm-12">
                                 <div className="innerbedkms text-center">
-                                    <h1>Leadership and Management Related Blogs</h1>                                    
+                                    <h1>Learning Journeys</h1>                                    
                                 </div>
                             </div>
                         </div>
@@ -36,15 +36,15 @@ export default function ThanYouLP() {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Bringing human-powered learning experiences to everyone</h2>
+                            <h2 className="sectionh">Giving context for a more meaningful learning experience</h2>
                             <p className="headingp">
-                            Unlocking  your leadership potential shouldn’t be limited to people working for big companies—that’s why we created Propel by Blanchard™. Our unique membership allows everyone to curate the leadership journey that best supports where they are in their career and where they want to be. Propel accelerates leadership and professional growth through live, facilitated courses, best-in-class online content, and collaborative experiences led by world-class facilitators and coaches. With access to a community of like-minded leaders, members can learn from and with each other while receiving exclusive access to industry-leading authors and leadership experts. Every leader has unique challenges, aspirations, and needs—maximize their potential with Propel. All for only $1295 per year.
+                            At Blanchard, we understand that traditional leadership development programs aim to achieve company goals but often overlook context. Our design thinking approach allows clients to determine the main principles and beliefs which formulate their training program. Learners participate in a succession of encounters enabling them to put into practice what they have learned. This comprehensive learning format integrates leadership development with regular tasks, promoting an effective long-term behavior adjustment.
                             </p>
                             <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>Talk to an Expert</a>
                         </div> 
                         <div className="col-sm-6">
                             <div className="mimg100 imgborder pll-90">
-                                <img className="" src="/assets/img/kbnew/Bringing-human-powered-learning.jpg" alt="Images" />
+                                <img className="" src="/assets/img/kbnew/Giving-context-for-a-more.jpg" alt="Images" />
                             </div>
                         </div>                       
                     </div>
@@ -53,34 +53,38 @@ export default function ThanYouLP() {
 
             <section className='colortheme2bg'>
             <div className='container-fluid ptt-90 pbb-60 borderedus0'>
-               <div className='row align-items-center'>                 
+               <div className='row'>                 
                   <div className='col-sm-12 pbb-70'>
                      <div className="text-center">
-                     <h2 className="sectionh">A Professional Development <br></br>Membership That Delivers Live <br></br>Learning At Scale</h2>
+                     <h2 className="sectionh">Putting Leadership Development <br></br>Into Context</h2>
                      </div>
                   </div>
 
                   <div className="col-sm-4">
                     <div className="AProfessional pll-50 prr-50">
-                    <img className="" src="/assets/img/kbnew/icon/turnkey-solution.svg" alt="Images" />
-                    <h3>Start Today</h3>
-                    <p>Easy to get started—no cohort of 20 leaders or training department required.</p>
+                    <img className="" src="/assets/img/kbnew/icon/Cohort-Connection.svg" alt="Images" />
+                    <h3>Cohort Connection</h3>
+                    <p>
+                    Encourage peer learning and silo-busting conversations that lead to exceptional relationships.
+                    </p>
                     </div>
                   </div>
 
                   <div className="col-sm-4">
                     <div className="AProfessional pll-50 prr-50">
-                    <img className="" src="/assets/img/kbnew/icon/proven-content-that-works.svg" alt="Images" />
-                    <h3>Proven Content</h3>
-                    <p>Access to our premium leadership content and training honed over four decades and millions of learners.</p>
+                    <img className="" src="/assets/img/kbnew/icon/Collaborative-Approach.svg" alt="Images" />
+                    <h3>Collaborative Approach</h3>
+                    <p>
+                    Identify core training themes, build a human-centered design, then test and iterate based on learner feedback.
+                    </p>
                     </div>
                   </div>
 
                   <div className="col-sm-4">
                     <div className="AProfessional pll-50 prr-50">
-                    <img className="" src="/assets/img/kbnew/icon/Measurable-success.svg" alt="Images" />
-                    <h3>Measurable Impact</h3>
-                    <p>Our programs inspire leadership growth and culture change you can measure.</p>
+                    <img className="" src="/assets/img/kbnew/icon/Tailored-to-Your-Needs.svg" alt="Images" />
+                    <h3>Tailored to Your Needs</h3>
+                    <p>Create a personalized, flexible, and engaging learning journey for learners.</p>
                     </div>
                   </div>
                </div>
@@ -91,7 +95,7 @@ export default function ThanYouLP() {
             <div className="container">
                 <div className="row">
                     <div className="col-sm-12 text-center">
-                        <h2>How Propel By Blanchard Helps <br></br>Organizations Scale</h2>
+                        <h2>Why Learning Journeys Deliver Results</h2>
                     </div>
 
                     <div className="col-sm-4">
@@ -100,8 +104,8 @@ export default function ThanYouLP() {
                             <img className="" src="/assets/img/kbnew/icon/check-mark.svg" alt="Images" />
                             </div>
                             <div className="howtext">
-                                <h4>Retain Your People</h4>
-                                <p>Invest in your leaders with real-time learning, not just static videos</p>
+                                <h4>Self-Directed Paths</h4>
+                                <p>Allow learners to go deeper where they need it most</p>
                             </div>
                         </div>
                     </div>
@@ -112,8 +116,8 @@ export default function ThanYouLP() {
                             <img className="" src="/assets/img/kbnew/icon/check-mark.svg" alt="Images" />
                             </div>
                             <div className="howtext">
-                                <h4>Build Your Culture</h4>
-                                <p>Instill a culture of servant leadership and a common language of leadership</p>
+                                <h4>Multiple Modalities</h4>
+                                <p>Formats to reach your learners—wherever they are</p>
                             </div>
                         </div>
                     </div>
@@ -124,8 +128,8 @@ export default function ThanYouLP() {
                             <img className="" src="/assets/img/kbnew/icon/check-mark.svg" alt="Images" />
                             </div>
                             <div className="howtext">
-                                <h4>Not Large? No Problem!</h4>
-                                <p>Any size company can have high-quality leadership development</p>
+                                <h4>Customized at Scale</h4>
+                                <p>Tailored journeys reach global leadership audiences</p>
                             </div>
                         </div>
                     </div>
@@ -136,8 +140,8 @@ export default function ThanYouLP() {
                             <img className="" src="/assets/img/kbnew/icon/check-mark.svg" alt="Images" />
                             </div>
                             <div className="howtext">
-                                <h4>Scalable Live Courses</h4>
-                                <p>We take care of invites, communications, and end-to-end experience for members</p>
+                                <h4>Sustained Learning</h4>
+                                <p>Connect and build on each prior learning experience</p>
                             </div>
                         </div>
                     </div>
@@ -148,8 +152,8 @@ export default function ThanYouLP() {
                             <img className="" src="/assets/img/kbnew/icon/check-mark.svg" alt="Images" />
                             </div>
                             <div className="howtext">
-                                <h4>Peer Learning</h4>
-                                <p>Community of leaders from top companies learning from and with each other</p>
+                                <h4>Strategic Alignment</h4>
+                                <p>Core skills learners need to meet business objectives</p>
                             </div>
                         </div>
                     </div>
@@ -160,8 +164,8 @@ export default function ThanYouLP() {
                             <img className="" src="/assets/img/kbnew/icon/check-mark.svg" alt="Images" />
                             </div>
                             <div className="howtext">
-                                <h4>Flexible Delivery</h4>
-                                <p>Calendar of ongoing, daily events and training, whenever employees need it</p>
+                                <h4>Curated Resources</h4>
+                                <p>Proven content and tools to support learners</p>
                             </div>
                         </div>
                     </div>
@@ -173,39 +177,15 @@ export default function ThanYouLP() {
                 <div className="container-fluid">
                     <div className="row align-items-center">
                         <div className="col-sm-6 pll-30">
-                            <h2 className="sectionh">Enroll today!</h2>
+                            <h2 className="sectionh">Designed to meet learners where they are</h2>
                             <p className="headingp">
-                            Propel by Blanchard membership offers your employees the leadership skills, wellness, and stress relief resources and self-awareness that help them personally and professionally. Taught by the world’s experts in leadership, put the power of Blanchard’s tested leadership development programs to work today to help reach your most important goals.
-                            </p>
-                            <h4>Franchises and Small Businesses</h4>
-                            <p className="headingp">
-                            Unlock employee potential and build an engaged workplace.
-                            </p>
-
-                            <h4>Managers of Teams</h4>
-                            <p className="headingp">
-                            Use your professional development spend on membership, where you build habits together.
-                            </p>
-
-                            <h4>Founders and Sole Proprietors</h4>
-                            <p className="headingp">
-                            Develop self leadership skills and an inspiring leadership point of view.
-                            </p>
-
-                            <h4>Retail, Hospitality, Manufacturing, Healthcare, and Call Center Employees</h4>
-                            <p className="headingp">
-                            Give employees leadership development no matter what shift or when they work.
-                            </p>
-
-                            <h4>High Potential Individual Contributors</h4>
-                            <p className="headingp">
-                            Offer your emerging leaders intentional opportunities to develop their skills.
+                            Our experienced Solutions Architects use a collaborative design approach and design thinking principles to help organizations reach their people where they are. We know about deploying technology and applying instructional design strategies that suit varying learner requirements. We can assist in securing executive sponsorship, integrating our content into existing development initiatives and platforms, creating an engaging UI, developing a sustainment strategy to support the program, and integrating quantitative tools to validate results.
                             </p>
                         </div>
 
                         <div className="col-sm-6">
-                            <div className="mimg100 pll-90">
-                                <img className="" src="/assets/img/kbnew/Join-us.jpg" alt="Images" />
+                        <div className="mimg100 imgborder pll-90">
+                                <img className="" src="/assets/img/kbnew/Designed-intentionally-to-meet.jpg" alt="Images" />
                             </div>
                         </div>                       
                     </div>
@@ -216,16 +196,16 @@ export default function ThanYouLP() {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Power your leaders for good with Propel by Blanchard</h2>
-                            <p className="headingp pbb-10 font2438">
-                            Get in touch to learn more about the benefits of a Propel by Blanchard membership.
+                            <h2 className="sectionh">Enhance your talent strategy with Blanchard</h2>
+                            <p className="headingp pbb-10">
+                            Learning journeys are a comprehensive way to approach learning and development, unlike traditional training focusing on one-off skill acquisition. Blanchard offers a unique approach to creating learning journeys that combine different types of training experiences, such as coaching, mentoring, and experiential learning, to meet the varying needs of learners and help knowledge stick over time. See how Blanchard's holistic approach can help you build core leadership principles for effective learning and development.
                             </p>                          
                             <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>Talk to an Expert</a>
                         </div>
 
                         <div className="col-sm-6">
                             <div className="mimg100 imgborder pll-90">
-                                <img className="" src="/assets/img/kbnew/Power-your-leaders-for-good.jpg" alt="Images" />
+                                <img className="" src="/assets/img/kbnew/Enhance-your-talent-strategy.jpg" alt="Images" />
                             </div>
                         </div>
                     </div>

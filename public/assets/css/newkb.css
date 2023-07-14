@@ -909,7 +909,7 @@ border-color: currentColor;
     flex: 1;
     border-radius: 30px;
     margin-bottom: 20px;
-    padding: 10px 1.5rem;
+    padding: 30px 1.5rem;
     background-color: #fff;
     box-shadow: 0 0 6px 3px rgba(0, 0, 0, 0.1);
     color: #000;
@@ -938,6 +938,10 @@ border-color: currentColor;
 }
 
 .LeadershipResources .reinner a:hover h3 {
+    color: #fff;
+}
+
+.LeadershipResources .reinner a:hover p {
     color: #fff;
 }
 
@@ -1342,7 +1346,7 @@ border-radius: 0px;
 
 .AProfessional h3{
     color: #000;
-    line-height: 20px;
+    line-height: 32px;
 }
 
 .HowPropelBy h2{
@@ -1488,4 +1492,66 @@ min-height: 230px;
 
 .textccnn2{
     min-height: 232px;
+    }
+
+
+    .cotss{
+        text-align: center;
+        box-shadow: 0px 2px 8px rgba(51, 51, 51, 0.2485);
+        border-radius: 40px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 76px 60px;
+    }
+    .cotss img {
+        width: 40px;
+        padding-bottom: 15px;
+    }
+    .cotss h5{
+        font-size:30px;
+        font-weight: 500;
+        line-height: 42px;
+    }
+
+    .cotss h4{
+        color: #005c7d;
+        font-size: 18px;
+    }
+
+    .calltocc{
+border-radius: 30px;
+    }
+
+    .ribbon-cta{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 60px 40px;
+        text-align: center;
+    }
+
+    .ribbon-cta h2{
+        font-size: 3rem;
+        margin-right: 42px;
+        margin-bottom: 0;
+        color: #fff;
+    }
+
+    .inncc .minihc{
+min-height: 390px;
+    }
+
+    .inncc p{
+        font-size: 1rem;
+        margin-bottom: 1rem;
+        padding: 0 1rem;
+        font-weight: 400;
+        color: #000;
+    }
+
+    .acccl a{
+        color: #008065;
+        font-weight: 600;
     }

@@ -149,11 +149,12 @@ function Nav() {
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a className="headlist" href="#">Leadership Development Programs</a></li>
-                                                                    <li><a href="#">Learning Journeys</a></li>
-                                                                    <li><a href="#">Digital & Virtual Learning Experiences</a></li>
-                                                                    <li><a href="#">Propel by Blanchard</a></li>
-                                                                    <li><a href="#">Keynotes</a></li>
+                                                                    <li><a className="headlist" href="/what-we-do/leadership-development">Leadership Development</a></li>
+                                                                    <li><a href="/what-we-do/leadership-development/leadership-development-programs">Leadership Development Programs</a></li>
+                                                                    <li><a href="/what-we-do/leadership-development/learning-journeys">Learning Journeys</a></li>
+                                                                    <li><a href="/what-we-do/leadership-development/digital-virtual-learning-experiences">Digital & Virtual Learning Experiences</a></li>
+                                                                    <li><a href="/what-we-do/leadership-development/propel-by-blanchard">Propel by Blanchard</a></li>
+                                                                    <li><a href="/what-we-do/leadership-development/keynotes">Keynotes</a></li>
                                                                     <li><a href="#">Content Licensing</a></li>
                                                                     <li><a href="#">Public Courses</a></li>
                                                                     <li><a href="#">Training for Trainers</a></li>
@@ -161,7 +162,7 @@ function Nav() {
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a className="headlist" href="#">Coaching</a></li>
+                                                                    <li><a className="headlist" href="/what-we-do/services/coaching">Coaching</a></li>
                                                                     <li><a href="#">Facilitation</a></li>
                                                                     <li><a href="#">Measurement & Impact</a></li>
                                                                     <li><a href="#">Assessments</a></li>
@@ -341,8 +342,8 @@ function Nav() {
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
                                                                     <li><a className="headlist" href="#">Research & Insights</a></li>
-                                                                    <li><a className="headlist" href="#">On-Demand Webinars</a></li>
-                                                                    <li><a className="headlist" href="#">Upcoming Webinars</a></li>
+                                                                    <li><a className="headlist" href="/events-workshops">On-Demand Workshops</a></li>
+                                                                    <li><a className="headlist" href="/events-workshops">Upcoming Workshops</a></li>
                                                                     <li><a className="headlist" href="#">Videos</a></li>
                                                                 </ul>
                                                             </div>

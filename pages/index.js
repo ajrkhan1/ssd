@@ -219,12 +219,12 @@ fbq('track', 'PageView');
                            <strong>Our biggest challenges are in:</strong>
                         </h4>
                         <ul>
-                           <li><a href='#'>Leadership Capabilities <i class="bx bx-right-arrow-alt"></i></a></li>
-                           <li><a href='#'>Change & Agility <i class="bx bx-right-arrow-alt"></i></a></li>
-                           <li><a href='#'>Diversity & Inclusion <i class="bx bx-right-arrow-alt"></i></a></li>
-                           <li><a href='#'>Engagement & Retention <i class="bx bx-right-arrow-alt"></i></a></li>
-                           <li><a href='#'>Organizational Performance <i class="bx bx-right-arrow-alt"></i></a></li>
-                           <li><a href='#'>Personal Effectiveness <i class="bx bx-right-arrow-alt"></i></a></li>
+                           <li><a href='/our-content/challenges/leadership-capabilities'>Leadership Capabilities <i class="bx bx-right-arrow-alt"></i></a></li>
+                           <li><a href='/our-content/challenges/change-agility'>Change & Agility <i class="bx bx-right-arrow-alt"></i></a></li>
+                           <li><a href='/our-content/challenges/diversity-inclusion'>Diversity & Inclusion <i class="bx bx-right-arrow-alt"></i></a></li>
+                           <li><a href='/our-content/challenges/engagement-retention'>Engagement & Retention <i class="bx bx-right-arrow-alt"></i></a></li>
+                           <li><a href='/our-content/challenges/organizational-performance'>Organizational Performance <i class="bx bx-right-arrow-alt"></i></a></li>
+                           <li><a href='/our-content/challenges/personal-effectiveness'>Personal Effectiveness <i class="bx bx-right-arrow-alt"></i></a></li>
                         </ul>
                      </div>
                   </div>
@@ -249,7 +249,7 @@ fbq('track', 'PageView');
                                  Whether you are just starting your leadership journey or want to hone your leadership skills, Blanchard can help you become an Inspired Leader.
                               </p>
                            </div>
-                           <a href='#' className='kbbtn kbbtn--orange'>Learn More</a>
+                           <a href='/who-we-help/teams' className='kbbtn kbbtn--orange'>Learn More</a>
                         </a>
                      </div>
                   </div>
@@ -264,7 +264,7 @@ fbq('track', 'PageView');
                                  Looking to make a transformative impact on your organization and people? Our team of experts is constantly working to deliver dynamic yet time-tested solutions and learning experiences.
                               </p>
                            </div>
-                           <a href='#' className='kbbtn kbbtn--orange'>Learn More</a>
+                           <a href='/who-we-help/organizations' className='kbbtn kbbtn--orange'>Learn More</a>
                         </a>
                      </div>
                   </div>
@@ -279,7 +279,7 @@ fbq('track', 'PageView');
                                  From a robust community of expert practitioners to a market-leading partner program, we passionately support you in delivering Blanchard content and courses that inspire learners and realize results.
                               </p>
                            </div>
-                           <a href='#' className='kbbtn kbbtn--orange'>Learn More</a>
+                           <a href='/who-we-help/training-professionals' className='kbbtn kbbtn--orange'>Learn More</a>
                         </a>
                      </div>
                   </div>
@@ -302,7 +302,7 @@ fbq('track', 'PageView');
                      <div className='enablingbox greenboxc textccnn2'>
                         <h4>Coaching</h4>
                         <p>
-                           Personalized, one-on-one, and team leadership coaching to help your executives, managers, and individual learners develop their leadership skills. <a href='#'>Learn More</a>
+                           Personalized, one-on-one, and team leadership coaching to help your executives, managers, and individual learners develop their leadership skills. <a href='/what-we-do/services/coaching'>Learn More</a>
                         </p>
                      </div>
                   </div>
@@ -311,7 +311,7 @@ fbq('track', 'PageView');
                      <div className='enablingbox darkblueboxc textccnn2'>
                         <h4>Leadership Programs</h4>
                         <p>
-                           Build your leadership bench strength, create self-motivated individuals, improve employee engagement, or lead a change initiative. <a href='#'>Learn More</a>
+                           Build your leadership bench strength, create self-motivated individuals, improve employee engagement, or lead a change initiative. <a href='/what-we-do/leadership-development/leadership-development-programs'>Learn More</a>
                         </p>
                      </div>
                   </div>
@@ -329,7 +329,7 @@ fbq('track', 'PageView');
                      <div className='enablingbox darkgeenboxc textccnn2'>
                         <h4>Public Courses</h4>
                         <p>
-                           Leadership development and training courses help worldwide throughout the year, whenever and wherever it works best for you. <a href='#'>Learn More</a>
+                           Leadership development and training courses help worldwide throughout the year, whenever and wherever it works best for you. <a href='/events-workshops'>Learn More</a>
                         </p>
                      </div>
                   </div>
@@ -350,7 +350,7 @@ fbq('track', 'PageView');
                            <h2 className='pbb-50'>Experiences and Courses</h2>
                         </div>
                         <div className='col-sm-4 viewall'>
-                           <a href='#'>Explore Additional Resources <i class="bx bx-right-arrow-alt"></i></a>
+                           <a href='/what-we-do/leadership-development/leadership-development-programs'>Explore Additional Resources <i class="bx bx-right-arrow-alt"></i></a>
                         </div>
                      </div>
                   </div>
@@ -374,7 +374,7 @@ fbq('track', 'PageView');
                                     <h3>SLII® Powering Inspired Leaders™</h3>
                                     <p>Only situational leaders can motivate their workers to rise to the challenge.</p>
                                  </div>
-                                 <a href='#' className='kbbtn kbbtn--orange mtt-0'>Learn More</a>
+                                 <a href='/our-content/programs/slii' className='kbbtn kbbtn--orange mtt-0'>Learn More</a>
                               </div>
                            </div>
                         </div>
@@ -392,7 +392,7 @@ fbq('track', 'PageView');
                                     <h3>Coaching Essentials®</h3>
                                     <p>Essential coaching abilities for managers and leaders</p>
                                  </div>
-                                 <a href='#' className='kbbtn kbbtn--orange mtt-0'>Learn More</a>
+                                 <a href='/our-content/programs/coaching-essentials' className='kbbtn kbbtn--orange mtt-0'>Learn More</a>
                               </div>
                            </div>
                         </div>
@@ -410,7 +410,7 @@ fbq('track', 'PageView');
                                     <h3 className='colortheme'>Essential Motivators™</h3>
                                     <p className='colorblack'>Enhance collaboration by knowing yourself and others</p>
                                  </div>
-                                 <a href='#' className='kbbtn kbbtn--orange mtt-0'>Learn More</a>
+                                 <a href='/our-content/programs/essential-motivators' className='kbbtn kbbtn--orange mtt-0'>Learn More</a>
                               </div>
                            </div>
                         </div>
@@ -422,7 +422,7 @@ fbq('track', 'PageView');
             </div>
          </section>
 
-         <section className='SuccessStory'>
+         {/* <section className='SuccessStory'>
             <div className='container-fluid ptt-90 pbb-60'>
                <div className='row align-items-center'>
                   <div className='col-sm-6'>
@@ -450,50 +450,11 @@ fbq('track', 'PageView');
 
                </div>
             </div>
-         </section>
+         </section> */}
 
 
 
-         <div className="brand-area GlobalClients">
-            <div className="container">
-               <div className='row'>
-                  <div className='col-sm-12 text-center pbb-40'>
-                     <h2 className='sectionh ptt-50'>Our Global Clients</h2>
-                  </div>
-                  <div className='col-sm-12 pbb-40'>
-                     <Slider {...settings}>
-                        <div key={1}>
-                           <img src="assets/img/boston-1.png" alt="Images" />
-                        </div>
-                        <div key={2}>
-                           <img src="assets/img/tcs.png" alt="Images" />
-                        </div>
-                        <div key={3}>
-                           <img src="assets/img/optum.png" alt="Images" />
-                        </div>
-                        <div key={4}>
-                           <img src="assets/img/nthrive.png" alt="Images" />
-                        </div>
-                        <div key={5}>
-                           <img src="assets/img/mcm.png" alt="Images" />
-                        </div>
-                        <div key={6}>
-                           <img src="assets/img/hp.png" alt="Images" />
-                        </div>
-                        <div key={7}>
-                           <img src="assets/img/hero.png" alt="Images" />
-                        </div>
-                        <div key={8}>
-                           <img src="assets/img/hcl.png" alt="Images" />
-                        </div>
-                        <div key={9}>
-                           <img src="assets/img/fA.png" alt="Images" />
-                        </div>
-                     </Slider>
-                  </div>
-               </div>
-            </div>
-         </div>
+        
 
          <div className="LeadershipResources">
             <div className="container pbb-50">
@@ -543,6 +504,47 @@ fbq('track', 'PageView');
                      <a href='#' className='kbbtn kbbtn--orange  mtt-10'>View All Resources</a>
                   </div>
 
+               </div>
+            </div>
+         </div>
+
+         <div className="brand-area">
+            <div className="container">
+               <div className='row'>
+                  <div className='col-sm-12 text-center pbb-40'>
+                     <h2 className='sectionh ptt-50'>Our Global Clients</h2>
+                  </div>
+                  <div className='col-sm-12 pbb-40'>
+                     <Slider {...settings}>
+                        <div key={1}>
+                           <img src="assets/img/boston-1.png" alt="Images" />
+                        </div>
+                        <div key={2}>
+                           <img src="assets/img/tcs.png" alt="Images" />
+                        </div>
+                        <div key={3}>
+                           <img src="assets/img/optum.png" alt="Images" />
+                        </div>
+                        <div key={4}>
+                           <img src="assets/img/nthrive.png" alt="Images" />
+                        </div>
+                        <div key={5}>
+                           <img src="assets/img/mcm.png" alt="Images" />
+                        </div>
+                        <div key={6}>
+                           <img src="assets/img/hp.png" alt="Images" />
+                        </div>
+                        <div key={7}>
+                           <img src="assets/img/hero.png" alt="Images" />
+                        </div>
+                        <div key={8}>
+                           <img src="assets/img/hcl.png" alt="Images" />
+                        </div>
+                        <div key={9}>
+                           <img src="assets/img/fA.png" alt="Images" />
+                        </div>
+                     </Slider>
+                  </div>
                </div>
             </div>
          </div>
