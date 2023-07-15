@@ -1550,7 +1550,10 @@ min-height: 390px;
         font-weight: 400;
         color: #000;
     }
-
+.acccl{
+    color: #000;
+    line-height: 20px;
+}
     .acccl a{
         color: #008065;
         font-weight: 600;

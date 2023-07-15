@@ -155,9 +155,8 @@ function Nav() {
                                                                     <li><a href="/what-we-do/leadership-development/digital-virtual-learning-experiences">Digital & Virtual Learning Experiences</a></li>
                                                                     <li><a href="/what-we-do/leadership-development/propel-by-blanchard">Propel by Blanchard</a></li>
                                                                     <li><a href="/what-we-do/leadership-development/keynotes">Keynotes</a></li>
-                                                                    <li><a href="#">Content Licensing</a></li>
-                                                                    <li><a href="#">Public Courses</a></li>
-                                                                    <li><a href="#">Training for Trainers</a></li>
+                                                                    <li><a href="/what-we-do/leadership-development/content-licensing">Content Licensing</a></li>
+                                                                    <li><a href="/what-we-do/leadership-development/training-for-trainers">Training for Trainers</a></li>
                                                                 </ul>
                                                             </div>
                                                             <div className="col-sm-4">
