@@ -5,8 +5,8 @@ export default function ThanYouLP() {
     return (
         <>
             <Head>
-                <title>Digital and Virtual Learning Experiences | Blanchard International</title>
-                <meta name="description" content="An overview of Blanchard’s online learning experiences, including Degreed One-Click and other popular learning platforms. " />
+                <title>Moderation & Community Management | Blanchard International</title>
+                <meta name="description" content="Learn how Blanchard’s approach to learning sustainment and reinforcement keeps learners engaged and empowers them to apply critical concepts in the workplace."/>
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
@@ -17,170 +17,13 @@ export default function ThanYouLP() {
                             <ul>
                                 <li className="brdlifirst"><a href="/">HOME</a></li>
                                 <li className="brdlifirst"><a href="/what-we-do">WHAT WE DO</a></li>
-                                <li className="brdlifirst"><a href="/what-we-do/leadership-development">LEADERSHIP DEVELOPMENT</a></li>
-                                <li><a><span>DIGITAL & VIRTUAL LEARNING EXPERIENCES</span></a></li>
+                                <li className="brdlifirst"><a href="/what-we-do/services">SERVICES</a></li>
+                                <li><a><span>MODERATION & COMMUNITY MANAGEMENT</span></a></li>
                             </ul>
                         </div>
                         <div className="col-sm-12">
                             <div className="innerbedkms text-center">
-                                <h1>Digital & Virtual Learning Experiences</h1>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-
-
-            <section className="ptt-60 pbb-60">
-                <div className="container">
-                    <div className="row align-items-center">
-                        <div className="col-sm-6">
-                            <h2 className="sectionh">Transform and extend the learning experience</h2>
-                            <p className="headingp">
-                                In today's world, learners want their learning readily available to address their immediate needs and are accustomed to instantaneous access to information. Using award-winning technology, Blanchard offers a variety of digital programs and tools to enable you to deliver our world-class leadership training in a flexible, self-paced format that is available whenever and wherever your learners need it.
-                            </p>
-                            <p className="headingp">
-                                You can deliver valuable leadership training to all parts of your organization with our online experiences. It's the perfect solution for a geographically dispersed workforce, frontline employees with limited time, and tomorrow's digital natives.
-                            </p>
-
-                        </div>
-                        <div className="col-sm-6">
-                            <div className="mimg100 imgborder pll-90">
-                                <img className="" src="/assets/img/kbnew/transform-and-extend.jpg" alt="Images" />
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-
-
-            <div className="LeadershipResources">
-                <div className="container pbb-50">
-                    <div className='row'>
-                        <div className="col-sm-1"></div>
-                        <div className='col-sm-10 text-center pbb-40'>
-                            <h2 className='sectionh ptt-50'>Leadership Training: An Unusual Approach</h2>
-                        </div>
-
-                        <div className='col-sm-4'>
-                            <div className='reinner inncc'>
-                                <a className="minihc" href='#'>
-                                    <img src="/assets/img/kbnew/icon/proven-content-that-works.svg" alt="Images" />
-                                    <h3>Proven Content that Works</h3>
-                                    <p>
-                                        All Blanchard content is thoroughly tested in client pilot sessions based on the latest academic research.
-                                    </p>
-                                </a>
-                            </div>
-                        </div>
-
-                        <div className='col-sm-4'>
-                            <div className='reinner inncc'>
-                                <a className="minihc" href='#'>
-                                    <img src="/assets/img/kbnew/icon/human-connection.svg" alt="Images" />
-                                    <h3>The human connection</h3>
-                                    <p>
-                                        To promote interaction, collaboration, and accountability, blended learning combines online courses with live sessions moderated by instructors.
-                                    </p>
-                                </a>
-                            </div>
-                        </div>
-
-                        <div className='col-sm-4'>
-                            <div className='reinner inncc'>
-                                <a className="minihc" href='#'>
-                                    <img src="/assets/img/kbnew/icon/designed-for-the-learner.svg" alt="Images" />
-                                    <h3>Designed for the Learner</h3>
-                                    <p>
-                                        Engage different groups of learners in your organization with meaningful and inspiring learning journeys.
-                                    </p>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-
-
-            <section className="colorthemebg HowPropelBy ptt-70 pbb-70">
-                <div className="container">
-                    <div className="row">
-                        <div className="col-sm-12 text-center">
-                            <h2>How We Engage Learners</h2>
-                        </div>
-
-                        <div className="col-sm-4">
-                            <div className="howinner">
-                                <div className="mimg">
-                                    <img className="" src="/assets/img/kbnew/icon/check-mark.svg" alt="Images" />
-                                </div>
-                                <div className="howtext">
-                                    <h4>Modular Learning</h4>
-                                    <p>Microlearning and practical tools for immediate use</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div className="col-sm-4">
-                            <div className="howinner">
-                                <div className="mimg">
-                                    <img className="" src="/assets/img/kbnew/icon/check-mark.svg" alt="Images" />
-                                </div>
-                                <div className="howtext">
-                                    <h4>Self-Guided</h4>
-                                    <p>Learners access content when it’s convenient for them</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div className="col-sm-4">
-                            <div className="howinner">
-                                <div className="mimg">
-                                    <img className="" src="/assets/img/kbnew/icon/check-mark.svg" alt="Images" />
-                                </div>
-                                <div className="howtext">
-                                    <h4>Self-Assessments</h4>
-                                    <p>Ensures learners discover, reflect, and refine</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div className="col-sm-4">
-                            <div className="howinner">
-                                <div className="mimg">
-                                    <img className="" src="/assets/img/kbnew/icon/check-mark.svg" alt="Images" />
-                                </div>
-                                <div className="howtext">
-                                    <h4>Learn and Try It Out</h4>
-                                    <p>Learn a little, then apply it to real work</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div className="col-sm-4">
-                            <div className="howinner">
-                                <div className="mimg">
-                                    <img className="" src="/assets/img/kbnew/icon/check-mark.svg" alt="Images" />
-                                </div>
-                                <div className="howtext">
-                                    <h4>Collaborative</h4>
-                                    <p>Learn from each other during live debriefing sessions</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div className="col-sm-4">
-                            <div className="howinner">
-                                <div className="mimg">
-                                    <img className="" src="/assets/img/kbnew/icon/check-mark.svg" alt="Images" />
-                                </div>
-                                <div className="howtext">
-                                    <h4>Curated Resources</h4>
-                                    <p>Playlists provide essential knowledge in the moment of need</p>
-                                </div>
+                                <h1>Moderation & Community Management</h1>
                             </div>
                         </div>
                     </div>
@@ -192,28 +35,28 @@ export default function ThanYouLP() {
                     <div className='row align-items-center'>
                         <div className='col-sm-6 pa0000'>
                             <div className='prr-90'>
-                                <img src="/assets/img/kbnew/online-programs-to-fit.jpg" alt="Images" />
+                                <img src="/assets/img/kbnew/Engage-and-Motivate.jpg" alt="Images" />
                             </div>
                         </div>
                         <div className='col-sm-6'>
                             <div>
                                 <h2>
-                                    Online programs to fit learners’ needs
+                                Engage and motivate every online learner
                                 </h2>
-                                <p className="pbb-0">
-                                    We offer world-class leadership training courses in flexible, self-paced formats that allow participants to learn and practice new skills at their own pace. With award-winning technology, they provide an engaging learning experience.
+                                <p className="pbb-0 text-justify">
+                                It's not always easy for learners to stay accountable and motivated when trying to squeeze online professional development into their day. Even when people know how important it is to develop leadership skills to become an inspiring manager, having a dedicated moderator and community manager can help learners stay engaged and progress through their course with valuable peer-to-peer interaction.
                                 </p>
-                                <h4 className="hforh">Long-Form Programs – one to three hours</h4>
+                                <h4 className="hforh">Lessen Isolation</h4>
                                 <p className="pbb-0 acccl">
-                                    Courses that include multiple modules with optional live virtual debrief sessions providing a full online experience with learning and practice. They have bit-sized modules with fun, engaging activities, including videos, games, and case studies.
+                                Providing opportunities for networking, collaboration, and support among learners.
                                 </p>
-                                <h4 className="hforh">35-minute short-form programs</h4>
+                                <h4 className="hforh">Provide Accountability</h4>
                                 <p className="pbb-0 acccl">
-                                    These summaries convey the essential ideas of a topic and prepare learners for future learning.
+                                Provide learners with regular feedback on their progress and performance.
                                 </p>
-                                <h4 className="hforh">One- to five-minute microlearning</h4>
+                                <h4 className="hforh">Foster Engagement</h4>
                                 <p className="pbb-0 acccl">
-                                    People can use microlearning videos, activities, and downloadable tools for just-in-time assistance.
+                                Learners are encouraged to engage throughout the course through one-on-one interactions.
                                 </p>
                             </div>
                         </div>
@@ -221,69 +64,78 @@ export default function ThanYouLP() {
                 </div>
             </section>
 
-            <section className="ptt-60 pbb-60 uncommonapproach rightimgc colortheme2bg">
-                <div className="container-fluid">
-                    <div className="row align-items-center">
-                        <div className="col-sm-6">
-                            <h2 className="sectionh">A collaborative online experience that unleashes the potential of your team</h2>
-                            <p className="headingp">
-                                Collaborative Online Experiences allows participants to learn from their colleagues and practice skills in a safe environment through a blend of asynchronous learning and live weekly sessions led by Blanchard expert facilitators and moderators. Students mix self-directed learning with discussion, exercises, reflection, and offline assignments using a state-of-the-art platform during a cohort-based course.
-                            </p>
-                            <h4 className="hforh">SLII Collaborative Online</h4>
-                            <p className="pbb-0 acccl">
-                            Empowers leaders to manage and connect with their people
-                            </p>
-                            <h4 className="hforh">Online Self Leadership Collaborative</h4>
-                            <p className="pbb-0 acccl">
-                            Immersive and interactive experience of our Self Leadership program
-                            </p>
-                            <h4 className="hforh">Online Conversational Capacity Collaborative</h4>
-                            <p className="pbb-0 acccl">
-                            Learn how to engage in constructive, learning-focused dialogue through this learning journey
-                            </p>
-                            <h4 className="hforh">Student Self Leadership Collaborative Online</h4>
-                            <p className="pbb-0 acccl">
-                            Students (aged 14-18) learn how to ask for help and feedback to achieve their goals
-                            </p>                           
-                        </div>
-                        <div className="col-sm-6 pa0000">
-                            <div className="mimg100 pll-90">
-                                <img className="" src="/assets/img/kbnew/collaborative-online-experiences-to.jpg" alt="Images" />
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
 
-            <section className="ptt-60 pbb-60 ExploreCustom">
+
+            <section className="ptt-60 pbb-60 colortheme2bg">
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Integration with popular learning platforms</h2>
-                            <p className="headingp pbb-10">
-                                Our content can be seamlessly added to your organization's Degreed learning journeys as a Degreed One-Click provider. It includes over 600 online training modules, videos, podcasts, articles, and practical tools. It is available in three content configurations:
+                            <h2 className="sectionh">Engaging learners through human-powered connections</h2>
+                            <p className="headingp text-justify">
+                            At Blanchard, we employ a two-person system for our online courses, wherein each course community is assigned a facilitator and moderator. The moderators provoke conversations among the learners about the course content and alert the facilitators when the discussion is meaningful. Additionally, the facilitator takes any comments and stories shared by participants into account while facilitating live sessions to make these experiences more realistic and applicable. This method of cultivating a sense of belonging and responsibility keeps solo learners engaged in the course material.
                             </p>
-                            <h4 className="hforh">Blanchard® Leadership on the Go</h4>
-                            <p className="pbb-0 acccl">
-                            Curated selection of our most popular content
-                            </p>
-                            <h4 className="hforh">The Best of SLII®</h4>
-                            <p className="pbb-0 acccl">
-                            SLII® and Self Leadership training solutions paired
-                            </p>
-                            <h4 className="hforh">The Best of Blanchard®</h4>
-                            <p className="pbb-0 acccl">
-                            SLII®, building trust, coaching, and many more of our award-winning solutions
-                            </p>
-                            <h4 className="hforh">Let's talk about your online leadership development needs</h4>
-                            <p className="pbb-0 acccl">
-                            With Blanchard's flexible, self-paced, and scalable digital learning experiences, you can deliver world-class leadership training across your organization.
-                            </p>                           
+                        </div>
+                        <div className="col-sm-6">
+                            <div className="mimg100 imgborder pll-90">
+                                <img className="" src="/assets/img/kbnew/Human-powered-connection.jpg" alt="Images" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section className=''>
+                <div className='container-fluid ptt-90 pbb-60 borderedus0'>
+                    <div className='row'>
+                        <div className="col-sm-1"></div>
+                        <div className='col-sm-10 pbb-70'>
+                            <div className="text-center">
+                                <h2 className="sectionh">A Whole-Person Approach To Learning</h2>                               
+                            </div>
+                        </div>
+
+                        <div className="col-sm-4">
+                            <div className="AProfessional pll-20 prr-20">
+                                <img className="" src="/assets/img/kbnew/icon/Fostering-Inclusion.svg" alt="Images" />
+                                <h3>Promoting Inclusion</h3>
+                                <p>Our community moderation professionals ensure everyone in the room feels seen, heard, valued, and supported on their leadership development journey.</p>
+                            </div>
+                        </div>
+
+                        <div className="col-sm-4">
+                            <div className="AProfessional pll-20 prr-20">
+                                <img className="" src="/assets/img/kbnew/icon/Keep-Learners-on-Track.svg" alt="Images" />
+                                <h3>Keeping learners on track</h3>
+                                <p>
+                                To ensure more engaging learning for your learners, our learning experience specialists keep participants moving through the learning process.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div className="col-sm-4">
+                            <div className="AProfessional pll-20 prr-20">
+                                <img className="" src="/assets/img/kbnew/icon/Peer-to-Peer-Engagement.svg" alt="Images" />
+                                <h3>Peer-to-Peer Engagement</h3>
+                                <p>In the virtual room, learners become part of an engaged learning cohort and learn from each other.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section className="ptt-60 pbb-60 ExploreCustom colortheme2bg">
+                <div className="container">
+                    <div className="row align-items-center">
+                        <div className="col-sm-6">
+                            <h2 className="sectionh">Don’t leave your leadership development learning outcomes to chance</h2>
+                            <p className="headingp pbb-10 text-justify">
+                            We understand that engaging your learners at every step of the way takes more than meeting once a week in the classroom and turning in homework. At Blanchard, we understand what it takes to engage them. Contact us today to learn more about how our expert moderators and community managers can help you provide your people with the most rewarding learning experiences possible.
+                            </p>                                    
                         </div>
 
                         <div className="col-sm-6">
                             <div className="mimg100 imgborder pll-90">
-                                <img className="" src="/assets/img/kbnew/seamless-integration-with.jpg" alt="Images" />
+                                <img className="" src="/assets/img/kbnew/Dont-leave-your-leadership-development.jpg" alt="Images" />
                             </div>
                         </div>
                     </div>
