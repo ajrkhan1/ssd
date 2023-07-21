@@ -1669,3 +1669,24 @@ min-height: 390px;
         background-color: #fff;
         margin-bottom: 30px;
     }
+
+    .incc input{
+        width: 18px;
+        height: 18px;
+    }
+
+    .inputinner{
+        display: flex;
+    align-items: center;
+    }
+    .inputinner label{
+        padding-left: 10px;
+    }
+
+    
+
+
+
+
+
+    
