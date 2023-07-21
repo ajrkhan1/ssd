@@ -324,16 +324,14 @@ function Nav() {
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">                                                                    
-                                                                    <li><a className="headlist" href="/books">Best-selling Books</a></li>
                                                                     <li><a className="headlist" href="/blog">Blogs</a></li>
                                                                     <li><a className="headlist" href="/resources/client-spotlights">Client Success Stories</a></li>
+                                                                    <li><a className="headlist" href="#">Ignite Newsletter</a></li>
                                                                 </ul>
                                                             </div>
                                                             <div className="col-sm-4">
-                                                                <ul className="biginnerm">
-                                                                    <li><a className="headlist" target="_blank" href="https://blanchardcommunity.com/">Blanchard Community</a></li>
-                                                                    <li><a className="headlist" href="/ebooks">eBooks</a></li>
-                                                                    <li><a className="headlist" href="#">Ignite Newsletter</a></li>
+                                                                <ul className="biginnerm">                                                                    
+                                                                    <li><a className="headlist" href="/ebooks">eBooks</a></li>                                                                    
                                                                     <li><a className="headlist" href="/podcast">Podcasts</a></li>
                                                                 </ul>
                                                             </div>
