@@ -224,6 +224,7 @@ fbq('track', 'PageView');
                            <li><a href='/our-content/challenges/diversity-inclusion'>Diversity & Inclusion <i class="bx bx-right-arrow-alt"></i></a></li>
                            <li><a href='/our-content/challenges/engagement-retention'>Engagement & Retention <i class="bx bx-right-arrow-alt"></i></a></li>
                            <li><a href='/our-content/challenges/organizational-performance'>Organizational Performance <i class="bx bx-right-arrow-alt"></i></a></li>
+                           <li><a href='/our-content/challenges/teaming-collaboration'>Teaming & Collaboration <i class="bx bx-right-arrow-alt"></i></a></li>
                            <li><a href='/our-content/challenges/personal-effectiveness'>Personal Effectiveness <i class="bx bx-right-arrow-alt"></i></a></li>
                         </ul>
                      </div>
@@ -241,7 +242,7 @@ fbq('track', 'PageView');
 
                   <div className='col-sm-4'>
                      <div className='leadershipinner'>
-                        <a href='#' className='leadershpa'>
+                        <a href='/who-we-help/teams' className='leadershpa'>
                            <img src="/assets/img/kbnew/icon/Team-Leaders-and-managers.svg" alt="Images" />
                            <div className='onestoppboxx'>
                               <h4>Team Leaders and <br></br>Managers</h4>
@@ -256,7 +257,7 @@ fbq('track', 'PageView');
 
                   <div className='col-sm-4'>
                      <div className='leadershipinner'>
-                        <a href='#' className='leadershpa'>
+                        <a href='/who-we-help/organizations' className='leadershpa'>
                            <img src="/assets/img/kbnew/icon/L-D-professionals.svg" alt="Images" />
                            <div className='onestoppboxx'>
                               <h4>Learning and Development Professionals</h4>
@@ -271,7 +272,7 @@ fbq('track', 'PageView');
 
                   <div className='col-sm-4'>
                      <div className='leadershipinner'>
-                        <a href='#' className='leadershpa'>
+                        <a href='/who-we-help/training-professionals' className='leadershpa'>
                            <img src="/assets/img/kbnew/icon/Training-and-coaching-professionals.svg" alt="Images" />
                            <div className='onestoppboxx'>
                               <h4>Training and Coaching Professionals</h4>

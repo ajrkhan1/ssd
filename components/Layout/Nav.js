@@ -326,7 +326,7 @@ function Nav() {
                                                                 <ul className="biginnerm">                                                                    
                                                                     <li><a className="headlist" href="/blog">Blogs</a></li>
                                                                     <li><a className="headlist" href="/resources/client-spotlights">Client Success Stories</a></li>
-                                                                    <li><a className="headlist" href="#">Ignite Newsletter</a></li>
+                                                                    <li><a className="headlist" href="/resources/newsletter">Newsletter</a></li>
                                                                 </ul>
                                                             </div>
                                                             <div className="col-sm-4">

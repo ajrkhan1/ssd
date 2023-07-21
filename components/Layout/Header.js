@@ -32,7 +32,7 @@ function Header() {
                   <div class="col-lg-7">
                      <div class="top-right">
                         <div class="top-right-login">
-                           <a href="#">SLII®. POWERING INSPIRED LEADERS™</a>
+                           <a href="/our-content/programs/slii">SLII®. POWERING INSPIRED LEADERS™</a>
                            <a href="/get-started">CONTACT US</a>
                            <a target='_blank' href="https://blanchardcommunity.com/">BLANCHARD COMMUNITY</a>
                         </div>                       
