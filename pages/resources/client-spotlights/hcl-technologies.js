@@ -26,6 +26,7 @@ export default function PodCastinner() {
                                     
                                         <div>
                                         <h3>HCL Technologies</h3>
+                                        <hr></hr>
                                             <p>
                                             HCL Technologies is one of India’s leading global IT Services companies, providing software-led IT solutions, remote infrastructure management services, and business process outsourcing. With 35 offices in 17 countries, HCL’s customer base reads like a who’s who in business.
                                             </p>

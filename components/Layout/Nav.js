@@ -323,8 +323,7 @@ function Nav() {
                                                                 </h3>
                                                             </div>
                                                             <div className="col-sm-4">
-                                                                <ul className="biginnerm">
-                                                                    <li><a className="headlist" href="#">Articles and Media</a></li>
+                                                                <ul className="biginnerm">                                                                    
                                                                     <li><a className="headlist" href="/books">Best-selling Books</a></li>
                                                                     <li><a className="headlist" href="/blog">Blogs</a></li>
                                                                     <li><a className="headlist" href="/resources/client-spotlights">Client Success Stories</a></li>
@@ -339,11 +338,10 @@ function Nav() {
                                                                 </ul>
                                                             </div>
                                                             <div className="col-sm-4">
-                                                                <ul className="biginnerm">
-                                                                    <li><a className="headlist" href="#">Research & Insights</a></li>
+                                                                <ul className="biginnerm">                                                                    
                                                                     <li><a className="headlist" href="/events-workshops">On-Demand Workshops</a></li>
                                                                     <li><a className="headlist" href="/events-workshops">Upcoming Workshops</a></li>
-                                                                    <li><a className="headlist" href="#">Videos</a></li>
+                                                                    <li><a className="headlist" href="/resources/videos">Videos</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>

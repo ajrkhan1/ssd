@@ -26,6 +26,7 @@ export default function PodCastinner() {
                                     
                                         <div>
                                         <h3>Eli Lilly and Company</h3>
+                                        <hr></hr>
                                             <p>
                                             Coaching was already an approach being used at Lilly, so linking it to SLII® was a natural fit. “Our coaching behaviors are to set the bar high; to ask, learn, and listen; to flex our approach; and to give and earn trust. The skills of SLII® mesh perfectly with the coaching behaviors. Setting the bar high is about the first skill of SLII®—goal setting. Asking, learning, and listening ties directly to diagnosing. And flexing our approach to give and earn trust is what matching is all about. Leaders are able to deliver results by putting it all together,” explains O’Donnell.
                                             </p>

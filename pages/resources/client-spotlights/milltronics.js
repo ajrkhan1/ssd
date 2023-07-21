@@ -26,6 +26,7 @@ export default function PodCastinner() {
                                     
                                         <div>
                                         <h3>Milltronics</h3>
+                                        <hr></hr>
                                             <p>
                                             Milltronics embarked on a journey toward a team-based, process-driven organization for the future. Partnering with The Ken Blanchard Companies, Milltronics incorporated SLII® and team-building training processes into the company, and identified five strategic areas on which to focus— Product Leadership, Operational Excellence, Total Customer Satisfaction, Distribution Leadership, and People and Organizational Excellence.
                                             </p>

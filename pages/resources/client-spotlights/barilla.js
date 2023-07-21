@@ -5,8 +5,8 @@ export default function PodCastinner() {
     return (
         <>
             <Head>
-                <title>Client Spotlights - Duke Energy Client Success Story </title>
-                <meta name="description" content="The Ken Blanchard Companies' client, Duke Energy, and its Leadership Academy track enrollment, graduation, effectiveness, and impact across the organization." />
+                <title>Client Spotlights - Barilla America Client Success Story</title>
+                <meta name="description" content="Barilla has seen huge results from focusing on values, training senior and mid-level managers in SLII®, and working with executive coaches to sharpen specific leadership skills." />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
@@ -19,16 +19,16 @@ export default function PodCastinner() {
                                 <div className="row row-eq-height eventsandworkshopbox">
                                     <div className="podcastd">
                                         <div className="pdfbox">
-                                            <iframe src="https://resources.kenblanchard.com/i/1218537?source=hub&amp;expanded=false&amp;hubItemID=605962125&amp;m4" frameborder="0" width="100%" height="570" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-                                            <a rel="nofollow" data-flipbookid="815553" href="https://content.cdntwrk.com/files/aT0xMjE4NTM3JnY9MiZpc3N1ZU5hbWU9ZHVrZS1lbmVyZ3kmY21kPWQmc2lnPTI3YzljODI2MDg1ZDRmM2QyMWEwOTYwZjZlMmE2MmQz" target="_blank" class="download-pdf" data-internal="false">Download PDF</a>
+                                            <iframe src="https://resources.kenblanchard.com/i/815580?source=hub&amp;expanded=false&amp;hubItemID=341096127&amp;m4" frameborder="0" width="100%" height="570" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+                                            <a href="https://content.cdntwrk.com/files/aT04MTU1ODAmdj0yJmlzc3VlTmFtZT1iYXJpbGxhLWFtZXJpY2EmY21kPWQmc2lnPTFiZjhiZGFhMjY4NDI1YzY2MDVlNTdiZWFkZWUzN2Iw" target="_blank" class="download-pdf" data-internal="false">Download PDF</a>
                                             <a href="/resources/client-spotlights">Go Back</a>
                                         </div>
 
                                         <div>
-                                            <h3>Duke Energy</h3>
+                                            <h3>Barilla America</h3>
                                             <hr></hr>
                                             <p>
-                                                Duke Energy is one of the largest electric power holding companies in the United States, supplying and delivering electricity to approximately 7.4 million customers. Their purpose is to “Power the lives of customers and the vitality of communities.” With the Duke Energy Leadership Academy and SLII®, they are also providing power to their leaders by teaching them to Lead the Duke Energy Way.
+                                                Barilla has seen huge results from focusing on values, training senior and mid-level managers in SLII®, and working with executive coaches to sharpen specific leadership skills.
                                             </p>
                                         </div>
                                     </div>

@@ -93,7 +93,7 @@ function CLIENTSPOTS() {
                                     <div className="col-sm-4">
                                         <div className="choose-card">
                                             <img src="/assets/img/kbnew/clients/american-institutes-for-research.jpg" alt="Images" />
-                                            <h3>HCL Technologies</h3>
+                                            <h3>American Institutes for Research</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
                                                     <Link href="/resources/client-spotlights/american-institutes-for-research"><a className="default-btn-two">Read Client Spotlight<i className="bx bx-right-arrow-alt"></i></a></Link>
@@ -105,7 +105,7 @@ function CLIENTSPOTS() {
                                     <div className="col-sm-4">
                                         <div className="choose-card">
                                             <img src="/assets/img/kbnew/clients/h-r-block.jpg" alt="Images" />
-                                            <h3>HCL Technologies</h3>
+                                            <h3>H&R Block</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
                                                     <Link href="/resources/client-spotlights/h-r-block"><a className="default-btn-two">Read Client Spotlight<i className="bx bx-right-arrow-alt"></i></a></Link>
@@ -117,7 +117,7 @@ function CLIENTSPOTS() {
                                     <div className="col-sm-4">
                                         <div className="choose-card">
                                             <img src="/assets/img/kbnew/clients/takeda.jpg" alt="Images" />
-                                            <h3>HCL Technologies</h3>
+                                            <h3>Takeda</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
                                                     <Link href="/resources/client-spotlights/takeda"><a className="default-btn-two">Read Client Spotlight<i className="bx bx-right-arrow-alt"></i></a></Link>
@@ -129,7 +129,7 @@ function CLIENTSPOTS() {
                                     <div className="col-sm-4">
                                         <div className="choose-card">
                                             <img src="/assets/img/kbnew/clients/barilla.jpg" alt="Images" />
-                                            <h3>HCL Technologies</h3>
+                                            <h3>Barilla America</h3>
                                             <div className='row text-center eventsbottomarea2'>
                                                 <div className='col-sm-12'>
                                                     <Link href="/resources/client-spotlights/barilla"><a className="default-btn-two">Read Client Spotlight<i className="bx bx-right-arrow-alt"></i></a></Link>

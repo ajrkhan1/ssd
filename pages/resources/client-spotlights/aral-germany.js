@@ -5,8 +5,8 @@ export default function PodCastinner() {
     return (
         <>
             <Head>
-                <title>Client Spotlights - HCL Technologies</title>
-                <meta name="description" content="HCL's primary concern was to develop the ranks of internal leaders, so HCL sought the trusted, time-tested leadership model of SLII, primarily because of the program’s successful track record." />
+                <title>Client Spotlights - Aral (Germany) Client Success Story</title>
+                <meta name="description" content="The Ken Blanchard Companies' client, Aral (Germany), nurtures special team skills, such as communication within the team, conflict solving, and making collective decisions." />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
@@ -19,15 +19,16 @@ export default function PodCastinner() {
                                 <div className="row row-eq-height eventsandworkshopbox">
                                     <div className="podcastd">
                                         <div className="pdfbox">
-                                        <iframe src="https://resources.kenblanchard.com/i/815553?source=hub&amp;expanded=false&amp;hubItemID=341094060&amp;m4" frameborder="0" width="100%" height="570" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-                                        <a rel="nofollow" data-flipbookid="815553" href="https://content.cdntwrk.com/files/aT04MTU1NTMmdj0yJmlzc3VlTmFtZT1oY2wtdGVjaG5vbG9naWVzJmNtZD1kJnNpZz01ODdkOGNhYjk0YjQzZWYzNDYyNGZjYTAwYjQ3ZmFlMg%253D%253D" target="_blank" class="download-pdf" data-internal="false">Download PDF</a>
-                                        <a href="/resources/client-spotlights">Go Back</a>
+                                            <iframe src="https://resources.kenblanchard.com/i/1185966?source=hub&amp;expanded=false&amp;hubItemID=575874258&amp;m4" frameborder="0" width="100%" height="570" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+                                            <a href="https://content.cdntwrk.com/files/aT0xMTg1OTY2JnY9MSZpc3N1ZU5hbWU9YXJhbC1nZXJtYW55JmNtZD1kJnNpZz00MjRkZjdhNTk0ODVhNjc4OTA2NTYwMjVmMTQ2N2VkYg%253D%253D" target="_blank" class="download-pdf" data-internal="false">Download PDF</a>
+                                            <a href="/resources/client-spotlights">Go Back</a>
                                         </div>
-                                    
+
                                         <div>
-                                        <h3>HCL Technologies</h3>
-                                            <p>
-                                            HCL Technologies is one of India’s leading global IT Services companies, providing software-led IT solutions, remote infrastructure management services, and business process outsourcing. With 35 offices in 17 countries, HCL’s customer base reads like a who’s who in business.
+                                            <h3>Aral Germany</h3>
+                                            <hr></hr>
+                                            <p className="text-justify">
+                                                “At the beginning of the training, the focus was on how a group becomes a team,” says Sylvia Peukert. “We looked at which skills and conditions are needed for a team to achieve the highest level of productivity, and then, during practical exercises, participants learned that smooth-functioning collaboration has a very positive effect on the work environment and productivity.”
                                             </p>
                                         </div>
                                     </div>

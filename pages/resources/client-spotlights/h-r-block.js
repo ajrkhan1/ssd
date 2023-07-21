@@ -5,8 +5,8 @@ export default function PodCastinner() {
     return (
         <>
             <Head>
-                <title>Client Spotlights - HCL Technologies</title>
-                <meta name="description" content="HCL's primary concern was to develop the ranks of internal leaders, so HCL sought the trusted, time-tested leadership model of SLII, primarily because of the program’s successful track record." />
+                <title>Client Spotlights - H&R Block Client Success Story</title>
+                <meta name="description" content="The Ken Blanchard Companies' client, H&R Block, is making an investment in its leaders so they can unleash the potential in their associates."/>
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
@@ -19,15 +19,17 @@ export default function PodCastinner() {
                                 <div className="row row-eq-height eventsandworkshopbox">
                                     <div className="podcastd">
                                         <div className="pdfbox">
-                                        <iframe src="https://resources.kenblanchard.com/i/815553?source=hub&amp;expanded=false&amp;hubItemID=341094060&amp;m4" frameborder="0" width="100%" height="570" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-                                        <a rel="nofollow" data-flipbookid="815553" href="https://content.cdntwrk.com/files/aT04MTU1NTMmdj0yJmlzc3VlTmFtZT1oY2wtdGVjaG5vbG9naWVzJmNtZD1kJnNpZz01ODdkOGNhYjk0YjQzZWYzNDYyNGZjYTAwYjQ3ZmFlMg%253D%253D" target="_blank" class="download-pdf" data-internal="false">Download PDF</a>
+                                        <iframe src="https://resources.kenblanchard.com/i/1068821?source=hub&amp;expanded=false&amp;hubItemID=491493068&amp;m4" frameborder="0" width="100%" height="570" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+                                        <a href="https://content.cdntwrk.com/files/aT0xMDY4ODIxJnY9MSZpc3N1ZU5hbWU9aC1yLWJsb2NrJmNtZD1kJnNpZz1kN2ZhNGJkMjMzOTYxZmI5Y2FlYWJiNTM5YzY2ZmIwZg%253D%253D" target="_blank" class="download-pdf" data-internal="false">Download PDF</a>
                                         <a href="/resources/client-spotlights">Go Back</a>
                                         </div>
                                     
                                         <div>
-                                        <h3>HCL Technologies</h3>
+                                        <h3>H&R Block</h3>
+                                        <hr></hr>
+                                        <p><b>Embracing Virtual Learning at H&R Block</b></p>
                                             <p>
-                                            HCL Technologies is one of India’s leading global IT Services companies, providing software-led IT solutions, remote infrastructure management services, and business process outsourcing. With 35 offices in 17 countries, HCL’s customer base reads like a who’s who in business.
+                                            H&R Block is committed to elevating talent and culture as a key to its successful future. It’s making good on that commitment by making an investment in its leaders so they can unleash the potential in their associates.
                                             </p>
                                         </div>
                                     </div>
