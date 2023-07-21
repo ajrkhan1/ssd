@@ -260,7 +260,7 @@ function Nav() {
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a className="headlist" href="#">Programs</a></li>
+                                                                    <li><a className="headlist" href="/our-content/programs">Programs</a></li>
                                                                     <li><a href="/our-content/programs/slii">SLII®—Powering Inspired Leaders™</a></li>
                                                                     <li><a href="/our-content/programs/blanchard-management-essentials">Blanchard Management Essentials®</a></li>
                                                                     <li><a href="/our-content/programs/building-trust">Building Trust</a></li>
@@ -268,6 +268,7 @@ function Nav() {
                                                                     <li><a href="/our-content/programs/conversational-capacity">Conversational Capacity®</a></li>
                                                                     <li><a href="/our-content/programs/courageous-inclusion">Courageous Inclusion™</a></li>
                                                                     <li><a href="/our-content/programs/essential-motivators">Essential Motivators™</a></li>
+                                                                    <li><a className="headlist" href="/our-content/programs">See All Programs</a></li>
                                                                 </ul>
                                                             </div>
                                                             <div className="col-sm-4">

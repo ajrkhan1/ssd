@@ -1661,3 +1661,11 @@ min-height: 390px;
         border-radius: 30px;
         margin: 10px 5px 10px 5px;
     }
+
+    .innerprog{
+        border-radius: 40px;
+        padding: 30px 40px;
+        box-shadow: 0 0 6px 3px rgba(0, 0, 0, 0.1);
+        background-color: #fff;
+        margin-bottom: 30px;
+    }
