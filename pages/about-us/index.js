@@ -312,7 +312,7 @@ export default function ThanYouLP() {
 
                         <div className="col-sm-12 text-center pbb-60">
                             <div className="twobtninone">
-                                <a href='#' className='kbbtn kbbtn--orange mtt-20'>Explore our global locations</a>
+                                <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>Explore our global locations</a>
                             </div>
                         </div>
 

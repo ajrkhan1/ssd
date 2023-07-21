@@ -148,16 +148,16 @@ export default function ThanYouLP() {
 
                         <div className='col-sm-3'>
                             <div className='reinner'>
-                                <a href='#'>
+                                <a href='/events-workshops'>
                                     <img src="/assets/img/kbnew/icon/webinars.svg" alt="Images" />
-                                    <h3>Webinars <i class="bx bx-right-arrow-alt"></i></h3>                                    
+                                    <h3>Workshops <i class="bx bx-right-arrow-alt"></i></h3>                                    
                                 </a>
                             </div>
                         </div>
 
                         <div className='col-sm-3'>
                             <div className='reinner'>
-                                <a href='#'>
+                                <a href='/ebooks'>
                                     <img src="/assets/img/kbnew/icon/eBooks.svg" alt="Images" />
                                     <h3>eBooks <i class="bx bx-right-arrow-alt"></i></h3>
                                 </a>
@@ -166,7 +166,7 @@ export default function ThanYouLP() {
 
                         <div className='col-sm-3'>
                             <div className='reinner'>
-                                <a href='#'>
+                                <a href='/blog'>
                                     <img src="/assets/img/kbnew/icon/Articles.svg" alt="Images" />
                                     <h3>Blog Posts <i class="bx bx-right-arrow-alt"></i></h3>
                                 </a>
@@ -175,7 +175,7 @@ export default function ThanYouLP() {
 
                         <div className='col-sm-3'>
                             <div className='reinner'>
-                                <a href='#'>
+                                <a href='/podcast'>
                                     <img src="/assets/img/kbnew/icon/podcasts.svg" alt="Images" />
                                     <h3>Podcasts <i class="bx bx-right-arrow-alt"></i></h3>
                                 </a>

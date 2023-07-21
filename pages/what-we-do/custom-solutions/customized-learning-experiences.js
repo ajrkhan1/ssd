@@ -38,7 +38,7 @@ export default function ThanYouLP() {
                         <div className="col-sm-6">
                             <h2 className="sectionh">Tailor content and delivery to meet your learning needs</h2>
                             <p className="headingp">
-                            Embarking on creating a customized leadership development solution can be exciting, yet overwhelming. Ensuring engaging content, translating leadership development training into new workplace behaviors, selecting the right technology, the list of challenges is endless. Our team of industry experts can make sure your initiative is a rousing success. We’ll partner with you to understand your audience, identify your goals, dive into your needs, and create a comprehensive solution that transforms your learners into inspired leaders, no matter their level. Learn how we can help you design learning initiatives that will transform your leaders—and your company culture—today.
+                            Creating a personalized leadership development program can be invigorating yet overwhelming. There are endless obstacles, such as developing engaging content and applying the leadership development lessons learned to real-world practices or selecting suitable technology. Fortunately, our specialists are here to guarantee your program is triumphant. We collaborate with you to understand your target audience, determine desired outcomes, discuss the project's particulars, and construct a comprehensive solution to empower your learners into highly effective leaders. Discover how we can help develop learning experiences to enhance your company's culture today.
                             </p>
                             <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>Talk to an Expert</a>
                         </div> 
@@ -56,7 +56,7 @@ export default function ThanYouLP() {
                <div className='row'>                 
                   <div className='col-sm-12 pbb-70'>
                      <div className="text-center">
-                     <h2 className="sectionh">Customized Programs That <br></br>Transform Your People</h2>
+                     <h2 className="sectionh">Transform your people with <br></br>customized programs</h2>
                      </div>
                   </div>
 
@@ -65,7 +65,7 @@ export default function ThanYouLP() {
                     <img className="" src="/assets/img/kbnew/icon/Collaborative-Approach.svg" alt="Images" />
                     <h3>Collaborative Design and Development</h3>
                     <p>
-                    Partnering with you, we’ll tailor learning experiences to your organization’s unique needs and aligned with your culture.
+                    We tailor learning experiences based on your organization's unique needs and culture.
                     </p>
                     </div>
                   </div>
@@ -75,7 +75,7 @@ export default function ThanYouLP() {
                     <img className="" src="/assets/img/kbnew/icon/Evidence-based-Training-Content.svg" alt="Images" />
                     <h3>Evidence-Based Content</h3>
                     <p>
-                    Our content is grounded in the latest leadership development research and best practices.
+                    Research and best practices are incorporated into our leadership development content.
                     </p>
                     </div>
                   </div>
@@ -84,7 +84,7 @@ export default function ThanYouLP() {
                     <div className="AProfessional pll-50 prr-50">
                     <img className="" src="/assets/img/kbnew/icon/Multiple-Modalities.svg" alt="Images" />
                     <h3>Multiple Modalities</h3>
-                    <p>Training is delivered in a variety of ways, both human and digital, to meet leaders’ learning needs and availability.</p>
+                    <p>To meet leaders' learning needs and availability, training is delivered in various ways, both human and digital.</p>
                     </div>
                   </div>
                </div>
@@ -129,7 +129,7 @@ export default function ThanYouLP() {
                             </div>
                             <div className="howtext">
                                 <h4>Learning Journeys</h4>
-                                <p>Integrate multi-level curriculum for each level of leader</p>
+                                <p>Develop a multi-level curriculum for each level of leadership</p>
                             </div>
                         </div>
                     </div>
@@ -153,7 +153,7 @@ export default function ThanYouLP() {
                             </div>
                             <div className="howtext">
                                 <h4>Technology</h4>
-                                <p>Evaluate and implement technology-enabled approaches</p>
+                                <p>Technology-enabled approaches should be evaluated and implemented</p>
                             </div>
                         </div>
                     </div>
@@ -165,7 +165,7 @@ export default function ThanYouLP() {
                             </div>
                             <div className="howtext">
                                 <h4>Context</h4>
-                                <p>Integrate and build upon learning experiences to create context</p>
+                                <p>Create context by integrating and building upon learning experiences</p>
                             </div>
                         </div>
                     </div>
@@ -184,10 +184,10 @@ export default function ThanYouLP() {
                         <div className="col-sm-6 pll-30">
                             <h2 className="sectionh">Our Solutions Architecture Center of Excellence</h2>
                             <p className="headingp">
-                            Blanchard’s expert Solutions Architects have extensive experience in performance excellence, design thinking, coaching solutions, learning experience development, measurement and evaluation, and enterprise learning technology. They know how to create learning solutions that change people for the better.
+                            Among Blachard's Solutions Architects are experts in performance excellence, design thinking, coaching, learning experience design, measurement and evaluation, and enterprise learning technologies. They know how to create learning solutions that change people for the better.
                             </p>
                             <p className="headingp">
-                            Our highly collaborative approach gives you the necessary insight and time to evaluate the design, run the pilot, refine the offering, and scale it across the enterprise.
+                            Our highly collaborative approach gives you the time and insight to evaluate the design, run the pilot, refine the offering, and scale it across your organization.
                             </p>
                         </div>                                               
                     </div>
@@ -200,14 +200,14 @@ export default function ThanYouLP() {
                         <div className="col-sm-6">
                             <h2 className="sectionh">Custom design principles</h2>
                             <p className="headingp pbb-10">
-                            Our Solution Architects follow these principles when partnering with you.
+                            When partnering with you, our Solution Architects follow these principles.
                             </p>
                             <ol>
-                                <li>Ensure what we do is rooted in business outcomes and builds leadership bench strength</li>
-                                <li>Design a learning experience that unfolds over time — not a stand-alone event</li>
-                                <li>Explore ways to drive human connection, break down silos, and create a vibrant learning culture</li>
-                                <li>Combine time-tested approaches and cutting-edge delivery tools to create powerful learning experiences</li>
-                                <li>Reinforce the learning experience with sustainment campaigns, mobile apps, virtual reality, chatbots, our extensive library of curated content, and more</li>
+                                <li>Building leadership bench strength and ensuring our efforts are rooted in business outcomes</li>
+                                <li>Create a learning experience that unfolds over time, not a single activity</li>
+                                <li>Drive human connection, break down silos, and create a vibrant learning environment</li>
+                                <li>Create powerful learning experiences by combining time-tested approaches with cutting-edge delivery tools</li>
+                                <li>Boost learning with sustainment campaigns, mobile apps, virtual reality, chatbots, and our extensive library of curated content</li>
                             </ol>                            
                         </div>
 
@@ -229,9 +229,9 @@ export default function ThanYouLP() {
                             </div>
                         </div>
                         <div className="col-sm-6 pll-30">
-                            <h2 className="sectionh">Let’s discuss your custom learning experiences needs</h2>
+                            <h2 className="sectionh">Interested in custom learning experiences? Let's talk</h2>
                             <p className="headingp">
-                            Every organization has its own cultures and challenges—so shouldn’t its approach to developing its leaders be unique, too? At Blanchard, we believe it’s critical to understand what leadership success looks like in your organization and to build learning experiences that will prepare your people with the skills they need to get there. Learn how we can help you create a personalized solution that unleashes your people’s potential and puts your company in the fast lane to success.
+                            As each organization has its own cultures and challenges, shouldn't its approach to developing its leaders also be unique? To prepare your people for leadership success in your organization, we believe it’s critical to understand what it looks like and create learning experiences that will prepare them. We aim to help you unlock your people's potential and put your business in the fast lane to success by creating a personalized solution.
                             </p>
                             <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>Talk to an Expert</a>
                         </div>                                               

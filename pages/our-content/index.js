@@ -52,7 +52,7 @@ export default function ThanYouLP() {
                                 <li>Learning materials and digital assets are inclusive and accessible to diverse employee groups</li>
                                 <li>Learning content and experiences that help people develop the hard and soft skills needed to lead people in the modern workplace</li>
                             </ul>
-                            <a href='#' className='kbbtn kbbtn--orange mtt-20'>View All Leadership Programs</a>
+                            <a href='/our-content/programs' className='kbbtn kbbtn--orange mtt-20'>View All Leadership Programs</a>
                         </div>
                         <div className="col-sm-6">
                             <div className="mimg100 imgborder pll-90">
@@ -86,7 +86,7 @@ export default function ThanYouLP() {
                                 <li>Performance in the Workplace</li>
                                 <li>Teamwork and Cooperation</li>
                             </ul>
-                            <a href='#' className='kbbtn kbbtn--orange mtt-20'>View Challenges</a>
+                            <a href='/our-content/challenges' className='kbbtn kbbtn--orange mtt-20'>View Challenges</a>
                         </div>
                         <div className="col-sm-6 pa0000">
                             <div className="mimg100 pll-90">
@@ -117,9 +117,9 @@ export default function ThanYouLP() {
                             <p className="headingp text-justify pbb-10">
                             We have all the different learning modalities organizations want to use to engage their trainees. Blanchard's content modalities assist organizations in meeting leaders where they are by providing a selection of distribution options tailored to various learning styles, preferences, and needs. In-person workshops, online and virtual courses, assessments, coaching, and reinforcement tools are just a few of our delivery options. We assist you in providing your workforce the freedom to embark on their leadership development learning journey in the format that best suits your business, whether face-to-face peer interaction or online self-paced learning.
                             </p>
-                            <div className="twobtninone">
-                                <a href='#' className='kbbtn kbbtn--orange mtt-20'>View Modalities</a>
-                            </div>
+                            {/* <div className="twobtninone">
+                                <a href='/our-content/modalities' className='kbbtn kbbtn--orange mtt-20'>View Modalities</a>
+                            </div> */}
                         </div>
                     </div>
                 </div>
@@ -246,7 +246,7 @@ export default function ThanYouLP() {
                         <p className="pf16w">
                         Are you prepared to go on the path that will lead your business to a self-aware, empowered workforce that will give you a long-term advantage over your competitors?
                         </p>
-                        <a href='#' className='kbbtn kbbtn--orange'>Talk to Us</a>
+                        <a href='/get-started' className='kbbtn kbbtn--orange'>Talk to Us</a>
                      </div>
                   </div>
                </div>
