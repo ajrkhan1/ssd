@@ -236,7 +236,7 @@ export default function ThanYouLP() {
                 </div>
             </section>
 
-            <section className="AwardsRecognition">
+            {/* <section className="AwardsRecognition">
                 <div className="container ptt-60 pbb-60">
                     <div className="row align-items-center">
                         <div className="col-sm-2"></div>
@@ -294,8 +294,7 @@ export default function ThanYouLP() {
 
                     </div>
                 </div>
-            </section>
-
+            </section> */}
 
             <section className='SuccessStory'>
                 <div className='container ptt-90 pbb-60'>

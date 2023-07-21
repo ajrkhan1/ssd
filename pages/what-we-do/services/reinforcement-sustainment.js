@@ -36,9 +36,9 @@ export default function ThanYouLP() {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Assessments for the Leader’s Journey</h2>
-                            <p className="headingp">
-                                To become an inspiring leader, Blanchard offers assessment and self-discovery tools throughout all our learning courses. Assessments and reflective experiences come in many shapes and sizes, so we can gather and present this critical insight in various ways. A key aspect of adult learning is the importance of self-insight and the contribution of others.
+                            <h2 className="sectionh">Learning doesn’t stop when the formal learning ends</h2>
+                            <p className="headingp text-justify">
+                            According to research, if we do not use or practice what we learn within 24 hours, we forget about 50% of it. Therefore, you must include reinforcement and sustainment activities in your learning programs for your learners. Incorporating sustainment and reinforcement strategies into your leadership development initiatives increases learner knowledge retention and motivates learners to implement the training.
                             </p>
 
                         </div>
@@ -60,11 +60,13 @@ export default function ThanYouLP() {
                             </div>
                         </div>
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Assess your problem, pick your program</h2>
+                            <h2 className="sectionh">Maximizing retention through learning</h2>
                             <p className="headingp">
-                                At Blanchard, self-insight tools are an essential part of our world-class training programs, with a selection of questionnaire-based assessments and self-reflection processes customized to hone in on the particular mindsets and skill sets covered in each program. In addition, we source from some of the globe's most reliable vendors to ensure dozens more tools are available or even create new ones ourselves. With this comprehensive selection, any leadership requirement can be met.
+                            At Blanchard, our learning experiences are designed intentionally to create lasting behavior change. Our live training engages participants through rich practice in which they work on their tasks and challenges and plan real conversations.
                             </p>
-                            <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>Talk to an Expert</a>
+                            <p className="headingp">
+                            As part of our online programs, Blanchard experts or your leaders can facilitate live debrief sessions so that you can incorporate them into your learning experiences. During debriefs, peers discuss learnings, share success stories, practice, and reinforce new skills between modules. Social learning activities such as this are highly effective to sustain and support learning.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -74,11 +76,10 @@ export default function ThanYouLP() {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Assessments for the Leader’s Journey</h2>
+                            <h2 className="sectionh">Post-learning session tools</h2>
                             <p className="headingp">
-                                To become an inspiring leader, Blanchard offers assessment and self-discovery tools throughout all our learning courses. Assessments and reflective experiences come in many shapes and sizes, so we can gather and present this critical insight in various ways. A key aspect of adult learning is the importance of self-insight and the contribution of others.
+                            Our digital learning solutions feature post-learning tools to fortify course content and foster sustained workplace behaviors. We established playlists learners can access after the course to easily apply the frameworks and tools learned at any given moment—whether they need to talk points for a challenging conversation or a video refresher on essential leadership capability. Ultimately, we want to make it easier for people to access the right content to advance as leaders.
                             </p>
-
                         </div>
                         <div className="col-sm-6">
                             <div className="mimg100 imgborder pll-90">
@@ -94,16 +95,16 @@ export default function ThanYouLP() {
                         <div className='row'>
                             <div className="col-sm-1"></div>
                             <div className='col-sm-10 text-center pbb-40'>
-                                <h2 className='sectionh ptt-50'>The Blanchard Approach To Leadership Development Programs</h2>
+                                <h2 className='sectionh ptt-50'>Leadership Training: An Unusual Approach</h2>
                             </div>
 
                             <div className='col-sm-4'>
                                 <div className='reinner inncc'>
                                     <a className="minihc" href='#'>
                                         <img src="/assets/img/kbnew/icon/Curated-Content.svg" alt="Images" />
-                                        <h3>Research-Backed Content</h3>
+                                        <h3>Curated Content</h3>
                                         <p>
-                                            Our solutions have been refined and tested in thousands of workshops based on rigorous academic research.
+                                        To make it easy for your people to refresh their leadership skills, we have compiled and curated podcasts, webinars, white papers, videos, and blog posts across various leadership topics.
                                         </p>
                                     </a>
                                 </div>
@@ -113,9 +114,9 @@ export default function ThanYouLP() {
                                 <div className='reinner inncc'>
                                     <a className="minihc" href='#'>
                                         <img src="/assets/img/kbnew/icon/Microlearning.svg" alt="Images" />
-                                        <h3>Simple, Powerful Models</h3>
+                                        <h3>Microlearning</h3>
                                         <p>
-                                            Created by industry experts, our models are easy to learn, remember, put into practice, and share.
+                                        Learners can quickly access support in a critical area whenever needed with our bite-size microlearning assets -- videos, activities, and downloadable tools.
                                         </p>
                                     </a>
                                 </div>
@@ -125,9 +126,9 @@ export default function ThanYouLP() {
                                 <div className='reinner inncc'>
                                     <a className="minihc" href='#'>
                                         <img src="/assets/img/kbnew/icon/Technology.svg" alt="Images" />
-                                        <h3>Interactive Learning Experiences</h3>
+                                        <h3>Technology</h3>
                                         <p>
-                                            Learning events become memorable, multimodal, personalized experiences that engage learners over time.
+                                        We create tools that allow learners to practice what they've learned and optimize their learning experience with the help of our innovative technology, experience, and partnerships.
                                         </p>
                                     </a>
                                 </div>
@@ -141,9 +142,9 @@ export default function ThanYouLP() {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Assessments for the Leader’s Journey</h2>
+                            <h2 className="sectionh">SLII® App</h2>
                             <p className="headingp">
-                                To become an inspiring leader, Blanchard offers assessment and self-discovery tools throughout all our learning courses. Assessments and reflective experiences come in many shapes and sizes, so we can gather and present this critical insight in various ways. A key aspect of adult learning is the importance of self-insight and the contribution of others.
+                            The SLII App gives managers the tools to diagnose the leadership quickly needed for a specific task after training. This app allows leaders to easily access conversation guides, which offer the confidence needed to talk with team members. This comprehensive reference tool assists in improving performance and relationships via SLII teachings while allowing users to benefit from a diagnosis wizard, tips for implementation, and an interactive model showing matching leadership styles for every development level.
                             </p>
                             <a href='/our-content' className='kbbtn kbbtn--orange mtt-20'>Apple App Store</a>
                             <a href='/our-content' className='kbbtn kbbtn--orange mtt-20 mll-10'>Google Play Store</a>
@@ -169,9 +170,9 @@ export default function ThanYouLP() {
                             </div>
                         </div>
                         <div className="col-sm-6">
-                            <h2 className="sectionh">Unlock learner progress with assessments</h2>
+                            <h2 className="sectionh">Invest in training that empowers sustained benefits by design</h2>
                             <p className="headingp pbb-10">
-                                Ensure your learners get the feedback they need for an effective and fulfilling learning journey. Talk to Blanchard to identify the right assessment tools to help move your learning initiative forward.
+                            After implementing your learning initiative, how do you make it easy for people to access resources in their moment of need? Blanchard has developed an industry-leading sustainment and reinforcement approach over the last 40 years that ensures your leaders can translate our coursework into daily workplace actions.
                             </p>
                             <a href='/our-content' className='kbbtn kbbtn--orange mtt-20'>Learn More About Our Programs</a>
                         </div>                        

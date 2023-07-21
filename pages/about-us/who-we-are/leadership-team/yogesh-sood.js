@@ -10,6 +10,22 @@ function YogeshSood() {
         <link rel="icon" href="/favicon.ico" />
         </Head>
 
+        <section className="bredkums2 pbb-20 ptt-20 border-bottom-left-radius-70 colortheme3bg">
+                <div className="container-fluid poss">
+                    <div className="row">
+                        <div className="col-sm-12">
+                            <ul>
+                                <li className="brdlifirst"><a href="/">HOME</a></li>
+                                <li className="brdlifirst"><a href="/about-us">ABOUT US</a></li>
+                                <li className="brdlifirst"><a href="/about-us/who-we-are/">WHO WE ARE</a></li>
+                                <li className="brdlifirst"><a href="/about-us/who-we-are/leadership-team/">MEET OUR LEADERSHIP TEAM</a></li>
+                                <li><a><span>YOGESH SOOD</span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
       <div className="what-did-area pt-45 pb-40">
             <div className="container">
                 <div className="row row-eq-height">

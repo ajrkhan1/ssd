@@ -327,7 +327,7 @@ function Nav() {
                                                                     <li><a className="headlist" href="#">Articles and Media</a></li>
                                                                     <li><a className="headlist" href="/books">Best-selling Books</a></li>
                                                                     <li><a className="headlist" href="/blog">Blogs</a></li>
-                                                                    <li><a className="headlist" href="#">Client Success Stories</a></li>
+                                                                    <li><a className="headlist" href="/resources/client-spotlights">Client Success Stories</a></li>
                                                                 </ul>
                                                             </div>
                                                             <div className="col-sm-4">
@@ -375,16 +375,12 @@ function Nav() {
                                                             </div>
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a className="headlist" href="#">Who We Are</a></li>
-                                                                    <li><a href="#">Leadership Team</a></li>
-                                                                    <li><a href="#">Meet Our Experts</a></li>
-                                                                    <li><a href="#">Innovation Lab</a></li>
-                                                                    <li><a href="#">Awards & Recognition</a></li>
-                                                                    <li><a className="headlist" href="#">Blanchard Culture</a></li>
-                                                                    <li><a href="#">Careers</a></li>
+                                                                    <li><a className="headlist" href="/about-us/who-we-are">Who We Are</a></li>
+                                                                    <li><a href="/about-us/who-we-are/leadership-team">Leadership Team</a></li>                                                                   
+                                                                    <li><a href="/about-us/who-we-are/innovation-lab">Innovation Lab</a></li>                                                                   
                                                                 </ul>
                                                             </div>
-                                                            <div className="col-sm-4">
+                                                            {/* <div className="col-sm-4">
                                                                 <ul className="biginnerm">
                                                                     <li><a className="headlist" href="#">Our Commitments</a></li>
                                                                     <li><a href="#">Vision, Mission & Values</a></li>
@@ -392,8 +388,8 @@ function Nav() {
                                                                     <li><a href="#">Social Responsibility</a></li>
                                                                     <li><a href="#">Diversity, Equity, & Inclusion</a></li>
                                                                 </ul>
-                                                            </div>
-                                                            <div className="col-sm-4">
+                                                            </div> */}
+                                                            {/* <div className="col-sm-4">
                                                                 <ul className="biginnerm">
                                                                     <li><a className="headlist" href="#">Who We Partner With</a></li>
                                                                     <li><a href="#">Authorized Channel Partners</a></li>
@@ -401,7 +397,7 @@ function Nav() {
                                                                     <li><a href="#">Technology Partners</a></li>
                                                                     <li><a className="headlist" href="#">Global Locations</a></li>
                                                                 </ul>
-                                                            </div>
+                                                            </div> */}
                                                         </div>
                                                     </div>
 

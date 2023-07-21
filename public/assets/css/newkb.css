@@ -945,6 +945,63 @@ border-color: currentColor;
     color: #fff;
 }
 
+
+
+
+
+
+.LeadershipResources1{
+    background-color: #F5F5F5;
+}
+.LeadershipResources1 .reinner a {
+    border-radius: 40px;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    padding: 30px 1.5rem;
+    background-color: #fff;
+    box-shadow: 0 0 6px 3px rgba(0, 0, 0, 0.1);
+    color: #000;
+    height: 100%;
+    text-decoration: none;
+    transition: all 0.18s ease-in-out;
+    text-align: center;
+}
+
+.LeadershipResources1 .reinner a:hover {
+    background-color: #008065;
+}
+
+.LeadershipResources1 .reinner img {
+    width: 90px;
+    filter: brightness(0) saturate(100%) invert(29%) sepia(69%) saturate(1723%) hue-rotate(143deg) brightness(94%) contrast(102%);
+    margin-bottom: 30px;
+}
+
+.LeadershipResources1 .reinner a:hover img {
+    filter: brightness(0) saturate(100%) invert(99%) sepia(0%) saturate(7423%) hue-rotate(92deg) brightness(106%) contrast(100%);
+}
+
+.LeadershipResources1 .reinner a h3 {
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.LeadershipResources1 .reinner a:hover h3 {
+    color: #fff;
+}
+
+.LeadershipResources1 .reinner a:hover p {
+    color: #fff;
+}
+
+.LeadershipResources1 .minihc{
+    min-height: 330 !important;
+}
+
+
 .EmpoweringLeaders{
     border-bottom-right-radius: 70px;
     background-color: #F5F5F5;
@@ -1557,4 +1614,50 @@ min-height: 390px;
     .acccl a{
         color: #008065;
         font-weight: 600;
+    }
+
+    .innerteam{
+        background-color: #fff;
+        border-radius: 40px;
+        padding: 30px;
+    }
+
+    .innerteam img{
+        border-radius: 50%;
+    }
+
+    .innerteam h3{
+        font-size: 26px;
+        color: #008065;
+        font-weight: 600;
+    }
+
+    .innerteam h4{
+        font-size: 18px;
+        font-weight: 600;
+        color: #000;
+    }
+    .innerteam p{
+        color: #000;
+        font-size: 16px;
+    }
+
+    .aproshd{
+        box-shadow: 0 0 6px 3px rgba(0, 0, 0, 0.1);
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 25px;
+        min-height: 300px;
+    }
+
+    .pdfbox{
+        text-align: center;
+    }
+
+    .pdfbox a{
+        background-color: #008065;
+        color: #fff;
+        padding: 7px 50px;
+        border-radius: 30px;
+        margin: 10px 5px 10px 5px;
     }
