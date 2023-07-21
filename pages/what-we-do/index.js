@@ -108,7 +108,7 @@ export default function ThanYouLP() {
                             </div>
                         </div>
                         <div className="col-sm-12 text-center ptt-40">
-                            <a href='#' className='kbbtn kbbtn--orange'>Leadership Development</a>
+                            <a href='/what-we-do/leadership-development' className='kbbtn kbbtn--orange'>Leadership Development</a>
                         </div>
                     </div>
                 </div>
@@ -151,7 +151,7 @@ export default function ThanYouLP() {
                             <p className="headingp">
                             The learning program's effectiveness is validated by management and badges, which have a value that stakeholders and learners alike acknowledge.
                             </p>
-                            <a href='#' className='kbbtn kbbtn--orange mtt-20'>More About Services</a>
+                            <a href='/what-we-do/services' className='kbbtn kbbtn--orange mtt-20'>More About Services</a>
                         </div>
 
                         <div className="col-sm-6">
@@ -201,7 +201,7 @@ export default function ThanYouLP() {
                             <p className="headingp text-justify pbb-10">
                             At Blanchard, we take research-based leadership principles and break them into straightforward, repeatable steps that anybody can use to handle difficult everyday workplace circumstances. Sign up for an upcoming webinar today to learn how we make leadership development available to leaders of all levels.
                             </p>                            
-                            <a href='#' className='kbbtn kbbtn--orange mtt-20'>View Upcoming Webinars</a>
+                            <a href='/events-workshops' className='kbbtn kbbtn--orange mtt-20'>View Upcoming Workshops</a>
                         </div>
                         
                         <div className="col-sm-6">

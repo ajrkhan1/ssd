@@ -115,7 +115,7 @@ fbq('track', 'PageView');
                   <div className='col-sm-12'>
                      <div className='kbisblanchardin'>
                         <h1>The Ken Blanchard Companies® is now Blanchard®!</h1>
-                        <a href='#' className='kbbtn kbbtn--orange'>Learn More</a>
+                        <a href='/about-us' className='kbbtn kbbtn--orange'>Learn More</a>
                      </div>
                   </div>
                </div>
@@ -321,7 +321,7 @@ fbq('track', 'PageView');
                      <div className='enablingbox blueboxc textccnn2'>
                         <h4>Customized Learning Experiences</h4>
                         <p>
-                           We will partner with you, dive into your needs, and create a solution that unlocks your people’s leadership potential. <a href='#'>Learn More</a>
+                           We will partner with you, dive into your needs, and create a solution that unlocks your people’s leadership potential. <a href='/what-we-do/custom-solutions/customized-learning-experiences'>Learn More</a>
                         </p>
                      </div>
                   </div>
@@ -423,7 +423,7 @@ fbq('track', 'PageView');
             </div>
          </section>
 
-         {/* <section className='SuccessStory'>
+         <section className='SuccessStory'>
             <div className='container-fluid ptt-90 pbb-60'>
                <div className='row align-items-center'>
                   <div className='col-sm-6'>
@@ -434,12 +434,12 @@ fbq('track', 'PageView');
                         <h4>
                            BUSINESS SERVICES
                         </h4>
-                        <h3>LexisNexis Risk Solutions: <br></br>Developing Foundational Leadership Skills for Sales Leaders</h3>
+                        <h3>Leading the Duke Energy Way</h3>
 
                         <p>
-                           Learn how LexisNexis Risk Solutions decreased the time it takes to get new sales reps up to speed and closing sales.
+                        A senior leader at Duke Energy approached Stephanie Bush, director of learning and development, with a request for building leadership skills in his division.
                         </p>
-                        <a href='#' className='kbbtn kbbtn--orange  mtt-10'>Learn More</a>
+                        <a href='/resources/client-spotlights/duke-energy' className='kbbtn kbbtn--orange  mtt-10'>Learn More</a>
                      </div>
                   </div>
 
@@ -451,7 +451,49 @@ fbq('track', 'PageView');
 
                </div>
             </div>
-         </section> */}
+         </section>
+
+
+         <div className="brand-area">
+            <div className="container">
+               <div className='row'>
+                  <div className='col-sm-12 text-center pbb-40'>
+                     <h2 className='sectionh ptt-50'>Our Clients</h2>
+                  </div>
+                  <div className='col-sm-12 pbb-40'>
+                     <Slider {...settings}>
+                        <div key={1}>
+                           <img src="assets/img/boston-1.png" alt="Images" />
+                        </div>
+                        <div key={2}>
+                           <img src="assets/img/tcs.png" alt="Images" />
+                        </div>
+                        <div key={3}>
+                           <img src="assets/img/optum.png" alt="Images" />
+                        </div>
+                        <div key={4}>
+                           <img src="assets/img/nthrive.png" alt="Images" />
+                        </div>
+                        <div key={5}>
+                           <img src="assets/img/mcm.png" alt="Images" />
+                        </div>
+                        <div key={6}>
+                           <img src="assets/img/hp.png" alt="Images" />
+                        </div>
+                        <div key={7}>
+                           <img src="assets/img/hero.png" alt="Images" />
+                        </div>
+                        <div key={8}>
+                           <img src="assets/img/hcl.png" alt="Images" />
+                        </div>
+                        <div key={9}>
+                           <img src="assets/img/fA.png" alt="Images" />
+                        </div>
+                     </Slider>
+                  </div>
+               </div>
+            </div>
+         </div>
 
 
 
@@ -501,54 +543,15 @@ fbq('track', 'PageView');
                      </div>
                   </div>
 
-                  <div className='col-sm-12 text-center'>
+                  {/* <div className='col-sm-12 text-center'>
                      <a href='#' className='kbbtn kbbtn--orange  mtt-10'>View All Resources</a>
-                  </div>
+                  </div> */}
 
                </div>
             </div>
          </div>
 
-         <div className="brand-area">
-            <div className="container">
-               <div className='row'>
-                  <div className='col-sm-12 text-center pbb-40'>
-                     <h2 className='sectionh ptt-50'>Our Global Clients</h2>
-                  </div>
-                  <div className='col-sm-12 pbb-40'>
-                     <Slider {...settings}>
-                        <div key={1}>
-                           <img src="assets/img/boston-1.png" alt="Images" />
-                        </div>
-                        <div key={2}>
-                           <img src="assets/img/tcs.png" alt="Images" />
-                        </div>
-                        <div key={3}>
-                           <img src="assets/img/optum.png" alt="Images" />
-                        </div>
-                        <div key={4}>
-                           <img src="assets/img/nthrive.png" alt="Images" />
-                        </div>
-                        <div key={5}>
-                           <img src="assets/img/mcm.png" alt="Images" />
-                        </div>
-                        <div key={6}>
-                           <img src="assets/img/hp.png" alt="Images" />
-                        </div>
-                        <div key={7}>
-                           <img src="assets/img/hero.png" alt="Images" />
-                        </div>
-                        <div key={8}>
-                           <img src="assets/img/hcl.png" alt="Images" />
-                        </div>
-                        <div key={9}>
-                           <img src="assets/img/fA.png" alt="Images" />
-                        </div>
-                     </Slider>
-                  </div>
-               </div>
-            </div>
-         </div>
+         
       </>
    )
 }

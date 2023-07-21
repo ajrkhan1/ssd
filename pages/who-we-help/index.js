@@ -74,11 +74,11 @@ export default function ThanYouLP() {
                         </p>
                      
                         <ul>
-                           <li><a href='#'>Emerging Leaders <i class="bx bx-right-arrow-alt"></i></a></li>
-                           <li><a href='#'>Experienced Leaders <i class="bx bx-right-arrow-alt"></i></a></li>
-                           <li><a href='#'>New Managers <i class="bx bx-right-arrow-alt"></i></a></li>
-                           <li><a href='#'>Executives <i class="bx bx-right-arrow-alt"></i></a></li>
-                           <li><a href='#'>Senior Leaders <i class="bx bx-right-arrow-alt"></i></a></li>
+                           <li><a href='/who-we-help/leaders-at-all-levels/emerging-leaders'>Emerging Leaders <i class="bx bx-right-arrow-alt"></i></a></li>
+                           <li><a href='/who-we-help/leaders-at-all-levels/experienced-leaders'>Experienced Leaders <i class="bx bx-right-arrow-alt"></i></a></li>
+                           <li><a href='/who-we-help/leaders-at-all-levels/new-managers'>New Managers <i class="bx bx-right-arrow-alt"></i></a></li>
+                           <li><a href='/who-we-help/leaders-at-all-levels/executives'>Executives <i class="bx bx-right-arrow-alt"></i></a></li>
+                           <li><a href='/who-we-help/leaders-at-all-levels/senior-leaders'>Senior Leaders <i class="bx bx-right-arrow-alt"></i></a></li>
                         </ul>
                      </div>
                   </div>
@@ -101,8 +101,8 @@ export default function ThanYouLP() {
                             Blanchard's train-the-trainer courses are designed and taught by industry experts who have been in your shoes. They draw on their real-world experience while showing you how to facilitate and demonstrate our proven leadership development methodology to help others grow professionally. We design programs specifically for coaches and trainers tailored to your application, where you learn as part of a group of peers working towards the same goal.
                             </p>                          
                             <div className="twobtninone">
-                            <a href='#' className='kbbtn kbbtn--orange mtt-20'>Coaching Professionals</a>
-                            <a href='#' className='kbbtn kbbtn--orange mtt-20 blanbtn'>Training Professionals</a>
+                            <a href='/who-we-help/coaching-professionals' className='kbbtn kbbtn--orange mtt-20'>Coaching Professionals</a>
+                            <a href='/who-we-help/training-professionals' className='kbbtn kbbtn--orange mtt-20 blanbtn'>Training Professionals</a>
                             </div>
                         </div>                        
                     </div>
@@ -119,35 +119,35 @@ export default function ThanYouLP() {
                      </p>                   
                   </div>
 
-                  <div className='col-sm-4'>
+                  <div className='col-sm-6'>
                      <div className='reinner'>
-                        <a href='#'>
+                        <a href='/who-we-help/teams'>
                            <img src="/assets/img/kbnew/icon/Team-Leaders-and-managers.svg" alt="Images" />
                            <h3>Team Leaders</h3>
-                           <a href='#' className='kbbtn kbbtn--orange mtt-20'>Learn More</a>
+                           <a href='/who-we-help/teams' className='kbbtn kbbtn--orange mtt-20 ptt-10 pbb-10'>Learn More</a>
                         </a>
                      </div>
                   </div>
 
-                  <div className='col-sm-4'>
+                  <div className='col-sm-6'>
                      <div className='reinner'>
-                        <a href='#'>
+                        <a href='/who-we-help/individuals'>
                            <img src="/assets/img/kbnew/icon/Individual-Leaners.svg" alt="Images" />
                            <h3>Individual Learners</h3>
-                           <a href='#' className='kbbtn kbbtn--orange mtt-20'>Learn More</a>
+                           <a href='/who-we-help/individuals' className='kbbtn kbbtn--orange mtt-20 ptt-10 pbb-10'>Learn More</a>
                         </a>
                      </div>
                   </div>
 
-                  <div className='col-sm-4'>
+                  {/* <div className='col-sm-4'>
                      <div className='reinner'>
-                        <a href='#'>
+                        <a href='/who-we-help/students'>
                            <img src="/assets/img/kbnew/icon/generate-excitement.svg" alt="Images" />
                            <h3>Students</h3>
-                           <a href='#' className='kbbtn kbbtn--orange mtt-20'>Learn More</a>
+                           <a href='/who-we-help/students' className='kbbtn kbbtn--orange mtt-20'>Learn More</a>
                         </a>
                      </div>
-                  </div>
+                  </div> */}
                </div>
             </div>
          </div>
