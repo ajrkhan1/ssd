@@ -334,6 +334,7 @@ function Nav() {
                                                                 <ul className="biginnerm">                                                                    
                                                                     <li><a className="headlist" href="/ebooks">eBooks</a></li>                                                                    
                                                                     <li><a className="headlist" href="/podcast">Podcasts</a></li>
+                                                                    <li><a className="headlist" href="/resources/public-courses">Public Courses</a></li>
                                                                 </ul>
                                                             </div>
                                                             <div className="col-sm-4">

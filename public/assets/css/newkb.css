@@ -1687,6 +1687,16 @@ min-height: 390px;
         background-color: #FA9E57;
     }
 
+    .eventmeta{
+        display: flex;
+    }
+    .eventmeta span{
+        padding-right: 20px;
+    }
+    .eventmeta i{
+        color: #008065;
+    }
+
     
 
 
