@@ -129,39 +129,39 @@ function Footer() {
                         <h3>PRODUCTS & SERVICES</h3>
                         <ul className="footer-list">
                            <li>
-                              <Link href="/our-content/programs/slii" target="_blank">
-                              SLII®—Powering Inspired Leaders™
-                              </Link>
+                              <a href="/our-content/programs/slii" target="_blank">
+                              SLII<sup>®</sup>—Powering Inspired Leaders™
+                              </a>
                            </li>
                            <li>
-                              <Link href="/our-content/programs/blanchard-management-essentials" target="_blank">
-                              Blanchard Management Essentials®
-                              </Link>
+                              <a href="/our-content/programs/blanchard-management-essentials" target="_blank">
+                              Blanchard Management Essentials<sup>®</sup>
+                              </a>
                            </li>
                            <li>
-                              <Link href="/our-content/programs/building-trust" target="_blank">
+                              <a href="/our-content/programs/building-trust" target="_blank">
                               Building Trust
-                              </Link>
+                              </a>
                            </li>
                            <li>
-                              <Link href="/our-content/programs/coaching-essentials" target="_blank">
-                              Coaching Essentials®
-                              </Link>
+                              <a href="/our-content/programs/coaching-essentials" target="_blank">
+                              Coaching Essentials<sup>®</sup>
+                              </a>
                            </li>
                            <li>
-                              <Link href="/our-content/programs/conversational-capacity" target="_blank">
-                              Conversational Capacity®
-                              </Link>
+                              <a href="/our-content/programs/conversational-capacity" target="_blank">
+                              Conversational Capacity<sup>®</sup>
+                              </a>
                            </li>
                            <li>
-                              <Link href="/our-content/programs/courageous-inclusion" target="_blank">
+                              <a href="/our-content/programs/courageous-inclusion" target="_blank">
                               Courageous Inclusion™
-                              </Link>
+                              </a>
                            </li>
                            <li>
-                              <Link href="/our-content/programs/essential-motivators" target="_blank">
+                              <a href="/our-content/programs/essential-motivators" target="_blank">
                               Essential Motivators™
-                              </Link>
+                              </a>
                            </li>                          
                         </ul>
                      </div>
