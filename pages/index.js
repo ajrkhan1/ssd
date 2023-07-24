@@ -66,16 +66,16 @@ export default function Home() {
          {
             breakpoint: 600,
             settings: {
-               slidesToShow: 2,
-               slidesToScroll: 2,
+               slidesToShow: 1,
+               slidesToScroll: 1,
                initialSlide: 2
             }
          },
          {
             breakpoint: 480,
             settings: {
-               slidesToShow: 2,
-               slidesToScroll: 2
+               slidesToShow: 1,
+               slidesToScroll: 1
             }
          }
       ]
@@ -412,6 +412,25 @@ fbq('track', 'PageView');
                                     <p className='colorblack'>Enhance collaboration by knowing yourself and others</p>
                                  </div>
                                  <a href='/our-content/programs/essential-motivators' className='kbbtn kbbtn--orange mtt-0'>Learn More</a>
+                              </div>
+                           </div>
+                        </div>
+
+
+                        <div className='slxpd30'>
+                           <div className='slbox darkwhiteboxc forwhitec'>
+                              <div className='slboxheader'>
+                                 <div className='slboxfigure'>
+                                    <div className='slboximg4'></div>
+                                 </div>
+                              </div>
+                              <div className='slboxbottom'>
+                                 <div className="slboxheight">
+                                    <span className='sltype'>Services</span>
+                                    <h3 className='colortheme'>Design Studio</h3>
+                                    <p className='colorblack'>Custom services to support your learning initiatives</p>
+                                 </div>
+                                 <a href='/what-we-do/custom-solutions' className='kbbtn kbbtn--orange mtt-0'>Learn More</a>
                               </div>
                            </div>
                         </div>
