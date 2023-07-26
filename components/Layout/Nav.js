@@ -170,16 +170,17 @@ function Nav() {
                                                                     <li><a href="/what-we-do/services/reinforcement-sustainment">Reinforcement & Sustainment</a></li>
                                                                 </ul>
                                                             </div>
-                                                            {/* <div className="col-sm-4">
+                                                            <div className="col-sm-4">
                                                                 <ul className="biginnerm">
-                                                                    <li><a className="headlist" href="#">Curated Learning Journeys</a></li>
-                                                                    <li><a href="#">Customized Learning Experiences</a></li>
-                                                                    <li><a href="#">Custom Coaching Solutions</a></li>
-                                                                    <li><a href="#">Executive Development Experiences</a></li>
-                                                                    <li><a href="#">Content Integration</a></li>
-                                                                    <li><a href="#">Talent Strategy</a></li>
+                                                                    <li><a className="headlist" href="/what-we-do/custom-solutions">Custom Solutions by Blanchard Design Studio</a></li>
+                                                                    <li><a className="headlist" href="/what-we-do/custom-solutions/curated-learning-journeys">Curated Learning Journeys</a></li>
+                                                                    <li><a href="/what-we-do/custom-solutions/customized-learning-experiences">Customized Learning Experiences</a></li>
+                                                                    <li><a href="/what-we-do/custom-solutions/custom-coaching">Custom Coaching Solutions</a></li>
+                                                                    <li><a href="/what-we-do/custom-solutions/executive-development">Executive Development Experiences</a></li>
+                                                                    <li><a href="/what-we-do/custom-solutions/content-integration">Content Integration</a></li>
+                                                                    <li><a href="/what-we-do/custom-solutions/talent-strategy">Talent Strategy</a></li>
                                                                 </ul>
-                                                            </div> */}
+                                                            </div>
                                                         </div>
                                                     </div>
 
@@ -261,11 +262,11 @@ function Nav() {
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
                                                                     <li><a className="headlist" href="/our-content/programs">Programs</a></li>
-                                                                    <li><a href="/our-content/programs/slii">SLII®—Powering Inspired Leaders™</a></li>
-                                                                    <li><a href="/our-content/programs/blanchard-management-essentials">Blanchard Management Essentials®</a></li>
+                                                                    <li><a href="/our-content/programs/slii">SLII<sup>®</sup>—Powering Inspired Leaders™</a></li>
+                                                                    <li><a href="/our-content/programs/blanchard-management-essentials">Blanchard Management Essentials<sup>®</sup></a></li>
                                                                     <li><a href="/our-content/programs/building-trust">Building Trust</a></li>
-                                                                    <li><a href="/our-content/programs/coaching-essentials">Coaching Essentials®</a></li>
-                                                                    <li><a href="/our-content/programs/conversational-capacity">Conversational Capacity®</a></li>
+                                                                    <li><a href="/our-content/programs/coaching-essentials">Coaching Essentials<sup>®</sup></a></li>
+                                                                    <li><a href="/our-content/programs/conversational-capacity">Conversational Capacity<sup>®</sup></a></li>
                                                                     <li><a href="/our-content/programs/courageous-inclusion">Courageous Inclusion™</a></li>
                                                                     <li><a href="/our-content/programs/essential-motivators">Essential Motivators™</a></li>
                                                                     <li><a className="headlist" href="/our-content/programs">See All Programs</a></li>
@@ -275,9 +276,9 @@ function Nav() {
                                                                 <ul className="biginnerm">
                                                                     <li className="ptt-35"></li>
                                                                     <li><a href="/our-content/programs/leadership-point-of-view">Leadership Point of View™</a></li>
-                                                                    <li><a href="/our-content/programs/leading-people-through-change">Leading People through Change®</a></li>
+                                                                    <li><a href="/our-content/programs/leading-people-through-change">Leading People through Change<sup>®</sup></a></li>
                                                                     <li><a href="/our-content/programs/leading-virtually">Leading Virtually™</a></li>
-                                                                    <li><a href="/our-content/programs/legendary-service">Legendary Service®</a></li>
+                                                                    <li><a href="/our-content/programs/legendary-service">Legendary Service<sup>®</sup></a></li>
                                                                     <li><a href="/our-content/programs/self-leadership">Self Leadership</a></li>
                                                                     <li><a href="/our-content/programs/servant-leadership-essentials">Servant Leadership Essentials™</a></li>
                                                                     <li><a href="/our-content/programs/team-leadership">Team Leadership</a></li>

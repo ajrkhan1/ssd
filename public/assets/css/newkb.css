@@ -1561,6 +1561,7 @@ min-height: 230px;
         justify-content: center;
         align-items: center;
         padding: 76px 60px;
+        background-color: #fff;
     }
     .cotss img {
         width: 40px;
