@@ -173,7 +173,7 @@ function Nav() {
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
                                                                     <li><a className="headlist" href="/what-we-do/custom-solutions">Custom Solutions by Blanchard Design Studio</a></li>
-                                                                    <li><a className="headlist" href="/what-we-do/custom-solutions/curated-learning-journeys">Curated Learning Journeys</a></li>
+                                                                    <li><a className="" href="/what-we-do/custom-solutions/curated-learning-journeys">Curated Learning Journeys</a></li>
                                                                     <li><a href="/what-we-do/custom-solutions/customized-learning-experiences">Customized Learning Experiences</a></li>
                                                                     <li><a href="/what-we-do/custom-solutions/custom-coaching">Custom Coaching Solutions</a></li>
                                                                     <li><a href="/what-we-do/custom-solutions/executive-development">Executive Development Experiences</a></li>
