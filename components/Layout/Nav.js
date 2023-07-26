@@ -295,6 +295,7 @@ function Nav() {
                                                                     <li><a href="/our-content/challenges/organizational-performance">Organizational Performance</a></li>
                                                                     <li><a href="/our-content/challenges/personal-effectiveness">Personal Effectiveness</a></li>
                                                                     <li><a href="/our-content/challenges/teaming-collaboration">Teaming & Collaboration</a></li>
+                                                                    <li><a className="headlist" href="/our-content/modalities">Explore Modalities</a></li>
                                                                 </ul>
                                                             </div>
                                                         </div>
