@@ -156,6 +156,7 @@ function Nav() {
                                                                     <li><a href="/what-we-do/leadership-development/propel-by-blanchard">Propel by Blanchard</a></li>
                                                                     <li><a href="/what-we-do/leadership-development/keynotes">Keynotes</a></li>
                                                                     <li><a href="/what-we-do/leadership-development/content-licensing">Content Licensing</a></li>
+                                                                    <li><a className="" href="/resources/public-courses">Public Courses</a></li>
                                                                     <li><a href="/what-we-do/leadership-development/training-for-trainers">Training for Trainers</a></li>
                                                                 </ul>
                                                             </div>
@@ -334,8 +335,7 @@ function Nav() {
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">                                                                    
                                                                     <li><a className="headlist" href="/ebooks">eBooks</a></li>                                                                    
-                                                                    <li><a className="headlist" href="/podcast">Podcasts</a></li>
-                                                                    <li><a className="headlist" href="/resources/public-courses">Public Courses</a></li>
+                                                                    <li><a className="headlist" href="/podcast">Podcasts</a></li>                                                                    
                                                                 </ul>
                                                             </div>
                                                             <div className="col-sm-4">
