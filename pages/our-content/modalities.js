@@ -35,10 +35,10 @@ export default function ThanYouLP() {
                   <div className='col-sm-6'>
                      <div>
                         <h2 className="sectionh">
-                           Ensure a cohesive learning experience
+                        Delivery options designed for your leaders
                         </h2>
                         <p className="headingp">
-                           Blanchard recognizes the need for leadership training to be a seamless part of a learner's existing environment. We begin each project with the design process, where we team up with our clients to construct a program that is suitable for their technology infrastructure and embeds their content into an interesting learning experience. This approach guarantees that learners have the sensation of being part of an integrated, tailored adventure created by their company, not just a mix of unrelated off-the-shelf elements.
+                        We've been creating leadership solutions for more than 40 years, so we know the importance of delivering high-quality content in a variety of ways. From in-person training to live virtual sessions to online programs and digital learning journeys, our team has you covered.
                         </p>      
                      </div>
                   </div>
@@ -58,9 +58,9 @@ export default function ThanYouLP() {
                      <div className='reinner inncc'>
                         <a className="minihc" href='#'>
                            <img src="/assets/img/kbnew/icon/In-person1.svg" alt="Images" />
-                           <h3>Strategic <br></br>Integration</h3>
+                           <h3>In-Person</h3>
                            <p>
-                              We offer ample opportunities for integrating your company's language and content.
+                           Facilitate rich content and engaging activities led in-person by Blanchard’s global network of dynamic, knowledgeable, and inspiring leadership trainers.
                            </p>
                         </a>
                      </div>
@@ -70,9 +70,9 @@ export default function ThanYouLP() {
                      <div className='reinner inncc'>
                         <a className="minihc" href='#'>
                            <img src="/assets/img/kbnew/icon/Virtual.svg" alt="Images" />
-                           <h3>Wherever you are, we are there</h3>
+                           <h3>Virtual</h3>
                            <p>
-                              Integrations include Degreed, SuccessFactors, Workday, Cornerstone, Precipio, MindTickle, and more.
+                           We have more than 20 years of experience creating virtual learning designs, led by content experts proficient in the art of virtual training delivery.
                            </p>
                         </a>
                      </div>
@@ -82,9 +82,9 @@ export default function ThanYouLP() {
                      <div className='reinner inncc'>
                         <a className="minihc" href='#'>
                            <img src="/assets/img/kbnew/icon/Online.svg" alt="Images" />
-                           <h3>Your LMS or Ours</h3>
+                           <h3>Online</h3>
                            <p>
-                              Use Blanchard's proprietary LMS or integrate Blanchard content and learning journeys into your LMS and learning experience platforms.
+                           Blanchard offers a variety of self-directed online programs, digital learning journeys, and just-in-time tools that deliver our leadership training in a flexible, scalable, self-paced format.
                            </p>
                         </a>
                      </div>
@@ -106,10 +106,14 @@ export default function ThanYouLP() {
                   <div className='col-sm-6'>
                      <div>
                         <h2>
-                           Experiences driven by content integration
+                        In-person learning experiences
                         </h2>
                         <p className="pbb-0">
-                           Our Solutions Architects have the experience and understanding needed to create an effective design by applying collaborative principles and design thinking concepts. We know how to deploy tech and use instructional design methods to meet distinct learner requirements. Our team will lend their expertise in executive sponsorship, incorporate content into current initiatives or systems, develop an engaging, aesthetically pleasing design, set up a sustainment plan for the program, and also integrate metrics for evaluation.
+                        Our global network of facilitators allows us to deliver informative and engaging in-person leadership training programs to enable learners to practice new skills in a safe setting. Hands-on interactive activities allow participants to interact and learn from other learners in addition to the instructor.
+                        </p>
+
+                        <p className="pbb-0">
+                        Meet the exclusive group of thought leaders, authors, and experts who work with our clients to increase engagement, productivity, and results.
                         </p>
                         <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>More About Our Experts</a>
                      </div>
@@ -127,10 +131,10 @@ export default function ThanYouLP() {
                   <div className='col-sm-6'>
                      <div>
                         <h2>
-                           Experiences driven by content integration
+                        Virtual learning experiences
                         </h2>
                         <p className="pbb-0">
-                           Our Solutions Architects have the experience and understanding needed to create an effective design by applying collaborative principles and design thinking concepts. We know how to deploy tech and use instructional design methods to meet distinct learner requirements. Our team will lend their expertise in executive sponsorship, incorporate content into current initiatives or systems, develop an engaging, aesthetically pleasing design, set up a sustainment plan for the program, and also integrate metrics for evaluation.
+                        Our live virtual instructor led training (VILT) experiences, available for all our programs, bring our engaging facilitator-led courses to geographically dispersed employees across the globe. Explore a blended option of asynchronous learning with live virtual sessions led by Blanchard facilitators in our Collaborative Online Experiences.
                         </p>
                         <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>Virtual Learning Experiences</a>
                      </div>
@@ -143,10 +147,10 @@ export default function ThanYouLP() {
                   <div className='col-sm-6'>
                      <div>
                         <h2>
-                           Experiences driven by content integration
+                        Online programs and microlearning activities
                         </h2>
                         <p className="pbb-0">
-                           Our Solutions Architects have the experience and understanding needed to create an effective design by applying collaborative principles and design thinking concepts. We know how to deploy tech and use instructional design methods to meet distinct learner requirements. Our team will lend their expertise in executive sponsorship, incorporate content into current initiatives or systems, develop an engaging, aesthetically pleasing design, set up a sustainment plan for the program, and also integrate metrics for evaluation.
+                        Using award-winning technology, Blanchard offers a variety of elearning programs and tools that allow you to deliver our world-class leadership training in a flexible, self-paced format that is available when and where your learners need it. With elearning solutions, you can deliver valuable leadership training to all parts of your organization. It’s the perfect solution for a geographically dispersed workforce, frontline employees with limited time, and the new generation of digital natives.
                         </p>   
                      </div>
                   </div>
