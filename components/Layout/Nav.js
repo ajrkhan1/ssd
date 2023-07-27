@@ -166,7 +166,7 @@ function Nav() {
                                                                     <li><a href="/what-we-do/services/coaching">Coaching</a></li>
                                                                     <li><a href="/what-we-do/services/facilitation">Facilitation</a></li>
                                                                     <li><a href="/what-we-do/services/measurement-impact">Measurement & Impact</a></li>
-                                                                    <li><a href="/what-we-do/services/assessments">Assessments</a></li>                                                                    
+                                                                    <li><a href="/what-we-do/services/assessments">Assessments</a></li>
                                                                     <li><a href="/what-we-do/services/moderation-community-management">Moderation & Community Management</a></li>
                                                                     <li><a href="/what-we-do/services/reinforcement-sustainment">Reinforcement & Sustainment</a></li>
                                                                 </ul>
@@ -327,20 +327,21 @@ function Nav() {
                                                                 </h3>
                                                             </div>
                                                             <div className="col-sm-4">
-                                                                <ul className="biginnerm">                                                                    
+                                                                <ul className="biginnerm">
                                                                     <li><a className="headlist" href="/blog">Blogs</a></li>
                                                                     <li><a className="headlist" href="/resources/client-spotlights">Client Success Stories</a></li>
                                                                     <li><a className="headlist" href="/resources/newsletter">Newsletter</a></li>
                                                                 </ul>
                                                             </div>
                                                             <div className="col-sm-4">
-                                                                <ul className="biginnerm">                                                                    
-                                                                    <li><a className="headlist" href="/ebooks">eBooks</a></li>                                                                    
-                                                                    <li><a className="headlist" href="/podcast">Podcasts</a></li>                                                                    
+                                                                <ul className="biginnerm">
+                                                                    <li><a className="headlist" href="/resources/research-insights">Research & Insights</a></li>
+                                                                    <li><a className="headlist" href="/ebooks">eBooks</a></li>
+                                                                    <li><a className="headlist" href="/podcast">Podcasts</a></li>
                                                                 </ul>
                                                             </div>
                                                             <div className="col-sm-4">
-                                                                <ul className="biginnerm">                                                                    
+                                                                <ul className="biginnerm">
                                                                     <li><a className="headlist" href="/events-workshops">Upcoming Workshops</a></li>
                                                                     <li><a className="headlist" href="/resources/videos">Videos</a></li>
                                                                 </ul>
@@ -375,8 +376,8 @@ function Nav() {
                                                             <div className="col-sm-4">
                                                                 <ul className="biginnerm">
                                                                     <li><a className="headlist" href="/about-us/who-we-are">Who We Are</a></li>
-                                                                    <li><a href="/about-us/who-we-are/leadership-team">Leadership Team</a></li>                                                                   
-                                                                    <li><a href="/about-us/who-we-are/innovation-lab">Innovation Lab</a></li>                                                                   
+                                                                    <li><a href="/about-us/who-we-are/leadership-team">Leadership Team</a></li>
+                                                                    <li><a href="/about-us/who-we-are/innovation-lab">Innovation Lab</a></li>
                                                                 </ul>
                                                             </div>
                                                             {/* <div className="col-sm-4">
