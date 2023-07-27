@@ -158,7 +158,7 @@ export default function ThanYouLP() {
 
                         <div className="col-sm-12 OurCommitment">
                             <h2 className='sectionh ptt-50'>Our Commitment to an Inclusive Workplace</h2>
-                            <a href="#">Our Commitment to DEI <i class="bx bx-right-arrow-alt"></i></a>
+                           
                         </div>
                     </div>
                 </div>
@@ -190,7 +190,7 @@ export default function ThanYouLP() {
             </section>
 
 
-            <section className=" ExploreCustom Ourpeople">
+            {/* <section className=" ExploreCustom Ourpeople">
                 <div className="container ptt-70 pbb-60">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
@@ -211,9 +211,9 @@ export default function ThanYouLP() {
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> */}
 
-            <section className="ptt-60 pbb-60 ExploreCustom">
+            {/* <section className="ptt-60 pbb-60 ExploreCustom">
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-sm-6">
@@ -234,7 +234,7 @@ export default function ThanYouLP() {
 
                     </div>
                 </div>
-            </section>
+            </section> */}
 
             {/* <section className="AwardsRecognition">
                 <div className="container ptt-60 pbb-60">
