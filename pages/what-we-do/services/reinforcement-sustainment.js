@@ -100,7 +100,7 @@ export default function ThanYouLP() {
 
                             <div className='col-sm-4'>
                                 <div className='reinner inncc'>
-                                    <a className="minihc" href='#'>
+                                    <a className="minihc" href=''>
                                         <img src="/assets/img/kbnew/icon/Curated-Content.svg" alt="Images" />
                                         <h3>Curated Content</h3>
                                         <p>
@@ -112,7 +112,7 @@ export default function ThanYouLP() {
 
                             <div className='col-sm-4'>
                                 <div className='reinner inncc'>
-                                    <a className="minihc" href='#'>
+                                    <a className="minihc" href=''>
                                         <img src="/assets/img/kbnew/icon/Microlearning.svg" alt="Images" />
                                         <h3>Microlearning</h3>
                                         <p>
@@ -124,7 +124,7 @@ export default function ThanYouLP() {
 
                             <div className='col-sm-4'>
                                 <div className='reinner inncc'>
-                                    <a className="minihc" href='#'>
+                                    <a className="minihc" href=''>
                                         <img src="/assets/img/kbnew/icon/Technology.svg" alt="Images" />
                                         <h3>Technology</h3>
                                         <p>
@@ -146,8 +146,8 @@ export default function ThanYouLP() {
                             <p className="headingp">
                             The SLII App gives managers the tools to diagnose the leadership quickly needed for a specific task after training. This app allows leaders to easily access conversation guides, which offer the confidence needed to talk with team members. This comprehensive reference tool assists in improving performance and relationships via SLII teachings while allowing users to benefit from a diagnosis wizard, tips for implementation, and an interactive model showing matching leadership styles for every development level.
                             </p>
-                            <a href='/our-content' className='kbbtn kbbtn--orange mtt-20'>Apple App Store</a>
-                            <a href='/our-content' className='kbbtn kbbtn--orange mtt-20 mll-10'>Google Play Store</a>
+                            <a target="_blank" href='https://apps.apple.com/us/app/slii/id536473591' className='kbbtn kbbtn--orange mtt-20'>Apple App Store</a>
+                            <a target="_blank" href='https://play.google.com/store/apps/details?id=com.kenblanchard.slii&hl=en_US&gl=US' className='kbbtn kbbtn--orange mtt-20 mll-10'>Google Play Store</a>
                         </div>
                         <div className="col-sm-6">
                             <div className="mimg100 imgborder pll-90">

@@ -67,7 +67,7 @@ export default function ThanYouLP() {
                         <p className="pbb-20">
                         Beginning this year, Blanchard introduces its new coaching certification program. It has been designed and led by Madeleine Blanchard, the company's Chief Coaching Architect and co-founder of Blanchard Coaching Services. As a master-certified executive coach, keynote speaker, and consultant with expertise in leadership and neuroscience, she is ready to guide you through the program. It provides an opportunity to garner up to 39 credits from the International Coaching Federation for certificate renewal. Alongside exploring the latest advances in neuroscience and appreciative inquiry research, you'll also benefit from building connections with peers during this journey. Upon completing the course and receiving a coach’s toolkit full of helpful content and resources for your clients, you will also gain invaluable insight into best practices.
                         </p>  
-                        <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>For More Information</a>                      
+                        <a target="_blank" href='https://blanchardcommunity.com/networks/events/49790' className='kbbtn kbbtn--orange mtt-20'>For More Information</a>                      
                      </div>
                   </div>
                </div>
@@ -92,36 +92,36 @@ export default function ThanYouLP() {
                      </p>                   
                   </div>
 
-                  <div className='col-sm-3'>
+                  {/* <div className='col-sm-3'>
                      <div className='reinner'>
                         <a className="minihc" href='#'>
                            <img src="/assets/img/kbnew/icon/improve-collaboration.svg" alt="Images" />
                            <h3>Partners</h3>
                         </a>
                      </div>
-                  </div>
+                  </div> */}
 
-                  <div className='col-sm-3'>
+                  <div className='col-sm-4'>
                      <div className='reinner'>
-                        <a className="minihc" href='#'>
+                        <a className="minihc" href='/events-workshops'>
                            <img src="/assets/img/kbnew/icon/upcoming-webinars.svg" alt="Images" />
-                           <h3>Upcoming Webinars</h3>
+                           <h3>Upcoming Workshops</h3>
                         </a>
                      </div>
                   </div>
 
-                  <div className='col-sm-3'>
+                  <div className='col-sm-4'>
                      <div className='reinner'>
-                        <a className="minihc" href='#'>
+                        <a className="minihc" href='/our-content/programs/leadership-point-of-view'>
                            <img src="/assets/img/kbnew/icon/drive-personal-accountability.svg" alt="Images" />
                            <h3>Leadership Point of View</h3>
                         </a>
                      </div>
                   </div>
 
-                  <div className='col-sm-3'>
+                  <div className='col-sm-4'>
                      <div className='reinner'>
-                        <a className="minihc" href='#'>
+                        <a target="_blank" className="minihc" href='https://blanchardcommunity.com/'>
                            <img src="/assets/img/kbnew/icon/builds-morale-and-collaboration.svg" alt="Images" />
                            <h3>The Blanchard Community</h3>                           
                         </a>

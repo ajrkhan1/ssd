@@ -139,21 +139,17 @@ export default function ThanYouLP() {
             <section className='ExperiencesCourses pbb-60 ptt-50'>
                 <div className='container'>
                     <div className='row'>
-                      
+
                         <div className='col-sm-12'>
                             <div className='row'>
                                 <div className='col-sm-8'>
                                     <h2 className='pbb-50'>Experienced Leader Programs</h2>
                                 </div>
                                 <div className='col-sm-4 viewall'>
-                                    <a href='#'>Explore Additional Solutions <i class="bx bx-right-arrow-alt"></i></a>
+                                    <a href='/our-content/programs'>Explore Additional Solutions <i class="bx bx-right-arrow-alt"></i></a>
                                 </div>
                             </div>
                         </div>
-
-
-
-
 
                         <div className='col-sm-12'>
                             <Slider {...settings2}>
@@ -167,10 +163,10 @@ export default function ThanYouLP() {
                                         <div className='slboxbottom'>
                                             <div className="slboxheight">
                                                 <span className='sltype'>Program</span>
-                                                <h3>SLII® Powering Inspired Leaders™</h3>
-                                                <p>Only situational leaders can motivate their workers to rise to the challenge.</p>
+                                                <h3>SLII.®  Powering Inspired Leaders™</h3>
+                                                <p>Only those who lead situationally can inspire their teams to rise to the challenge</p>
                                             </div>
-                                            <a href='#' className='kbbtn kbbtn--orange'>Learn More</a></div>
+                                            <a href='/our-content/programs/slii' className='kbbtn kbbtn--orange'>Learn More</a></div>
                                     </div>
                                 </div>
 
@@ -182,12 +178,12 @@ export default function ThanYouLP() {
                                             </div>
                                         </div>
                                         <div className='slboxbottom'>
-                                        <div className="slboxheight">
-                                            <span className='sltype'>Program</span>
-                                            <h3>Coaching Essentials®</h3>
-                                            <p>Essential coaching abilities for managers and leaders</p>
+                                            <div className="slboxheight">
+                                                <span className='sltype'>Program</span>
+                                                <h3>Courageous Inclusion®</h3>
+                                                <p>A framework for creating a more inclusive environment</p>
                                             </div>
-                                            <a href='#' className='kbbtn kbbtn--orange'>Learn More</a></div>
+                                            <a href='/our-content/programs/courageous-inclusion' className='kbbtn kbbtn--orange'>Learn More</a></div>
                                     </div>
                                 </div>
 
@@ -199,12 +195,29 @@ export default function ThanYouLP() {
                                             </div>
                                         </div>
                                         <div className='slboxbottom'>
-                                        <div className="slboxheight">
-                                            <span className='sltype'>Webinar</span>
-                                            <h3 className='colortheme'>Essential Motivators™</h3>
-                                            <p className='colorblack'>Enhance collaboration by knowing yourself and others</p>
+                                            <div className="slboxheight">
+                                                <span className='sltype'>Program</span>
+                                                <h3 className='colortheme'>Leading Virtually</h3>
+                                                <p className='colorblack'>Proven formula to help virtual workers be effective and engaged</p>
                                             </div>
-                                            <a href='#' className='kbbtn kbbtn--orange'>Learn More</a></div>
+                                            <a href='/our-content/programs/leading-virtually' className='kbbtn kbbtn--orange'>Learn More</a></div>
+                                    </div>
+                                </div>
+
+                                <div className='slxpd30'>
+                                    <div className='slbox darkblueboxc forwhitec'>
+                                        <div className='slboxheader'>
+                                            <div className='slboxfigure'>
+                                                <div className='slboximg2'></div>
+                                            </div>
+                                        </div>
+                                        <div className='slboxbottom'>
+                                            <div className="slboxheight">
+                                                <span className='sltype'>Program</span>
+                                                <h3>Coaching Essentials®</h3>
+                                                <p>Essential coaching skills for managers and leaders</p>
+                                            </div>
+                                            <a href='/our-content/programs/coaching-essentials' className='kbbtn kbbtn--orange'>Learn More</a></div>
                                     </div>
                                 </div>
                             </Slider>

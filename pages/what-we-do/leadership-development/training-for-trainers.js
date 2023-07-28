@@ -67,7 +67,7 @@ export default function ThanYouLP() {
 
                         <div className='col-sm-6'>
                             <div className='reinner inncc'>
-                                <a className="minihc" href='#'>
+                                <a className="minihc" href=''>
                                     <img src="/assets/img/kbnew/icon/prerequisites.svg" alt="Images" />
                                     <h3>Prerequisite</h3>
                                     <p>
@@ -79,7 +79,7 @@ export default function ThanYouLP() {
 
                         <div className='col-sm-6'>
                             <div className='reinner inncc'>
-                                <a className="minihc" href='#'>
+                                <a className="minihc" href=''>
                                     <img src="/assets/img/kbnew/icon/Audience.svg" alt="Images" />
                                     <h3>Audience</h3>
                                     <p>

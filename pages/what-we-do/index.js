@@ -69,9 +69,9 @@ export default function ThanYouLP() {
                             <div className="empinner">
                                 <h3>Design Your Learning Strategy:</h3>
                                 <ul>
-                                    <li><a href="#">Talent Strategy</a></li>
-                                    <li><a href="#">Curated Learning Journeys</a></li>
-                                    <li><a href="#">Customized Learning Experiences</a></li>
+                                    <li><a href="/what-we-do/custom-solutions/talent-strategy">Talent Strategy</a></li>
+                                    <li><a href="/what-we-do/custom-solutions/curated-learning-journeys">Curated Learning Journeys</a></li>
+                                    <li><a href="/what-we-do/custom-solutions/customized-learning-experiences">Customized Learning Experiences</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -80,8 +80,8 @@ export default function ThanYouLP() {
                             <div className="empinner">
                                 <h3>Integrate Measurement & Integration:</h3>
                                 <ul>
-                                    <li><a href="#">Assessments</a></li>
-                                    <li><a href="#">Measurement & Impact</a></li>
+                                    <li><a href="/what-we-do/services/assessments">Assessments</a></li>
+                                    <li><a href="/what-we-do/services/measurement-impact">Measurement & Impact</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -90,10 +90,10 @@ export default function ThanYouLP() {
                             <div className="empinner">
                                 <h3>Implement Learning</h3>
                                 <ul>
-                                    <li><a href="#">Leadership Development Programs</a></li>
-                                    <li><a href="#">Public Courses</a></li>
-                                    <li><a href="#">Content Licensing</a></li>
-                                    <li><a href="#">Content Integration</a></li>
+                                    <li><a href="/what-we-do/leadership-development/leadership-development-programs">Leadership Development Programs</a></li>
+                                    <li><a href="/resources/public-courses">Public Courses</a></li>
+                                    <li><a href="/what-we-do/leadership-development/content-licensing">Content Licensing</a></li>
+                                    <li><a href="/what-we-do/custom-solutions/content-integration">Content Integration</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -102,8 +102,7 @@ export default function ThanYouLP() {
                             <div className="empinner">
                                 <h3>Take It to the Next Level:</h3>
                                 <ul>
-                                    <li><a href="#">Reinforcement & Sustainment</a></li>
-                                    <li><a href="#">Badging</a></li>
+                                    <li><a href="/what-we-do/services/reinforcement-sustainment">Reinforcement & Sustainment</a></li>                          
                                 </ul>
                             </div>
                         </div>
@@ -187,7 +186,7 @@ export default function ThanYouLP() {
                             <h4>Executive Development Experiences</h4>
                             <h4>Content Integration</h4>
                             <h4>Talent Strategy</h4>
-                            <a href='#' className='kbbtn kbbtn--orange mtt-20'>Explore Custom Solutions</a>
+                            <a href='/what-we-do/custom-solutions' className='kbbtn kbbtn--orange mtt-20'>Explore Custom Solutions</a>
                         </div>                        
                     </div>
                 </div>

@@ -407,7 +407,7 @@ fbq('track', 'PageView');
                               </div>
                               <div className='slboxbottom'>
                                  <div className="slboxheight">
-                                    <span className='sltype'>Webinar</span>
+                                    <span className='sltype'>Program</span>
                                     <h3 className='colortheme'>Essential Motivators™</h3>
                                     <p className='colorblack'>Enhance collaboration by knowing yourself and others</p>
                                  </div>

@@ -93,32 +93,32 @@ export default function ThanYouLP() {
                             <div className="row">
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="#">Custom learning experiences</a>
+                                        <a href="/what-we-do/custom-solutions/customized-learning-experiences">Custom learning experiences</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="#">Learning Journeys</a>
+                                        <a href="/what-we-do/leadership-development/learning-journeys">Learning Journeys</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="#">Measurement</a>
+                                        <a href="/what-we-do/services/measurement-impact">Measurement</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="#">Content Licenses</a>
+                                        <a href="/what-we-do/leadership-development/content-licensing">Content Licenses</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="#">Facilitation</a>
+                                        <a href="/what-we-do/services/facilitation">Facilitation</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="#">Keynotes</a>
+                                        <a href="/what-we-do/leadership-development/keynotes">Keynotes</a>
                                     </div>
                                 </div>
 
@@ -126,12 +126,12 @@ export default function ThanYouLP() {
 
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="#">Experiences of digital learning</a>
+                                        <a href="/what-we-do/leadership-development/digital-virtual-learning-experiences">Experiences of digital learning</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="#">Coaching</a>
+                                        <a href="/what-we-do/services/coaching">Coaching</a>
                                     </div>
                                 </div>
                             </div>
@@ -157,7 +157,7 @@ export default function ThanYouLP() {
                         <p className="pbb-20">
                         The greatest impact of learning can only be achieved if it is a continuous and connected journey over time. For training concepts to be translated into recurring behaviors that lead to better personal and organizational performance, people must reflect on training concepts, generate insight, and evoke emotion through their learning journeys. Discover how we can help you develop the skills and mindsets your organization needs to succeed.
                         </p>
-                        <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>Talk to an Expert</a>
+                        <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>Get Started</a>
                      </div>
                   </div>
                </div>

@@ -132,24 +132,20 @@ export default function ThanYouLP() {
             </section>
 
 
-            <section className='ExperiencesCourses ptt-50 pbb-60'>
+            <section className='ExperiencesCourses pbb-60 ptt-50'>
                 <div className='container'>
                     <div className='row'>
-                      
+
                         <div className='col-sm-12'>
                             <div className='row'>
                                 <div className='col-sm-8'>
                                     <h2 className='pbb-50'>Senior Leader Programs</h2>
                                 </div>
                                 <div className='col-sm-4 viewall'>
-                                    <a href='#'>Explore Additional Solutions <i class="bx bx-right-arrow-alt"></i></a>
+                                    <a href='/our-content/programs'>Explore Additional Solutions <i class="bx bx-right-arrow-alt"></i></a>
                                 </div>
                             </div>
                         </div>
-
-
-
-
 
                         <div className='col-sm-12'>
                             <Slider {...settings2}>
@@ -163,10 +159,10 @@ export default function ThanYouLP() {
                                         <div className='slboxbottom'>
                                             <div className="slboxheight">
                                                 <span className='sltype'>Program</span>
-                                                <h3>SLII® Powering Inspired Leaders™</h3>
-                                                <p>Only situational leaders can motivate their workers to rise to the challenge.</p>
+                                                <h3>Coaching Essentials®</h3>
+                                                <p>Essential coaching skills for managers and leaders</p>
                                             </div>
-                                            <a href='#' className='kbbtn kbbtn--orange'>Learn More</a></div>
+                                            <a href='/our-content/programs/coaching-essentials' className='kbbtn kbbtn--orange'>Learn More</a></div>
                                     </div>
                                 </div>
 
@@ -178,12 +174,12 @@ export default function ThanYouLP() {
                                             </div>
                                         </div>
                                         <div className='slboxbottom'>
-                                        <div className="slboxheight">
-                                            <span className='sltype'>Program</span>
-                                            <h3>Coaching Essentials®</h3>
-                                            <p>Essential coaching abilities for managers and leaders</p>
+                                            <div className="slboxheight">
+                                                <span className='sltype'>Program</span>
+                                                <h3>Leadership Point of View™</h3>
+                                                <p>Ignite your workforce with leaders who can define and share their leadership stories</p>
                                             </div>
-                                            <a href='#' className='kbbtn kbbtn--orange'>Learn More</a></div>
+                                            <a href='/our-content/programs/leadership-point-of-view' className='kbbtn kbbtn--orange'>Learn More</a></div>
                                     </div>
                                 </div>
 
@@ -195,12 +191,29 @@ export default function ThanYouLP() {
                                             </div>
                                         </div>
                                         <div className='slboxbottom'>
-                                        <div className="slboxheight">
-                                            <span className='sltype'>Webinar</span>
-                                            <h3 className='colortheme'>Essential Motivators™</h3>
-                                            <p className='colorblack'>Enhance collaboration by knowing yourself and others</p>
+                                            <div className="slboxheight">
+                                                <span className='sltype'>Program</span>
+                                                <h3 className='colortheme'>Team Leadership</h3>
+                                                <p className='colorblack'>Leaders learn to diagnose their team's development and apply the right leadership style to build high-performance teams</p>
                                             </div>
-                                            <a href='#' className='kbbtn kbbtn--orange'>Learn More</a></div>
+                                            <a href='/our-content/programs/team-leadership' className='kbbtn kbbtn--orange'>Learn More</a></div>
+                                    </div>
+                                </div>
+
+                                <div className='slxpd30'>
+                                    <div className='slbox darkblueboxc forwhitec'>
+                                        <div className='slboxheader'>
+                                            <div className='slboxfigure'>
+                                                <div className='slboximg2'></div>
+                                            </div>
+                                        </div>
+                                        <div className='slboxbottom'>
+                                            <div className="slboxheight">
+                                                <span className='sltype'>Program</span>
+                                                <h3>Conversational Capacity®</h3>
+                                                <p>Remaining candid and curious under pressure</p>
+                                            </div>
+                                            <a href='/our-content/programs/conversational-capacity' className='kbbtn kbbtn--orange'>Learn More</a></div>
                                     </div>
                                 </div>
                             </Slider>

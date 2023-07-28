@@ -63,7 +63,7 @@ export default function ThanYouLP() {
                         <h2>
                            Explore our leadership development programs
                         </h2>
-                        <a href='/events-workshops' className='kbbtn kbbtn--orange mtt-20'>View All</a>
+                        <a href='/our-content/programs' className='kbbtn kbbtn--orange mtt-20'>View All</a>
                      </div>
                   </div>
                </div>
@@ -80,7 +80,7 @@ export default function ThanYouLP() {
 
                   <div className='col-sm-4'>
                      <div className='reinner inncc'>
-                        <a className="minihc" href='#'>
+                        <a className="minihc" href=''>
                            <img src="/assets/img/kbnew/icon/Research-backed-Content.svg" alt="Images" />
                            <h3>Research-Backed Content</h3>
                            <p>
@@ -92,7 +92,7 @@ export default function ThanYouLP() {
 
                   <div className='col-sm-4'>
                      <div className='reinner inncc'>
-                        <a className="minihc" href='#'>
+                        <a className="minihc" href=''>
                            <img src="/assets/img/kbnew/icon/Simple-Powerful-Models.svg" alt="Images" />
                            <h3>Simple, Powerful Models</h3>
                            <p>
@@ -104,7 +104,7 @@ export default function ThanYouLP() {
 
                   <div className='col-sm-4'>
                      <div className='reinner inncc'>
-                        <a className="minihc" href='#'>
+                        <a className="minihc" href=''>
                            <img src="/assets/img/kbnew/icon/Interactive-Learning-Experiences.svg" alt="Images" />
                            <h3>Interactive Learning Experiences</h3>
                            <p>
@@ -135,15 +135,15 @@ export default function ThanYouLP() {
                         </p>
                         <h4 className="hforh">Self Leadership</h4>
                         <p className="pbb-0 acccl">
-                           Learn how to empower your employees to challenge their assumptions, determine what they need to succeed, and proactively seek it out. <a href="#">Learn More</a>
+                           Learn how to empower your employees to challenge their assumptions, determine what they need to succeed, and proactively seek it out. <a href="/our-content/programs/self-leadership">Learn More</a>
                         </p>
                         <h4 className="hforh">Essential Motivators™</h4>
                         <p className="pbb-0 acccl">
-                           Through a framework, learners can identify their core psychological needs, values, talents, and behaviors. <a href="#">Learn More</a>
+                           Through a framework, learners can identify their core psychological needs, values, talents, and behaviors. <a href="/our-content/programs/essential-motivators">Learn More</a>
                         </p>
                         <h4 className="hforh">Conversational Capacity®</h4>
                         <p className="pbb-0 acccl">
-                           Learn how to benefit from challenging conversations by balancing candor and curiosity. <a href="#">Learn More</a>
+                           Learn how to benefit from challenging conversations by balancing candor and curiosity. <a href="/our-content/programs/conversational-capacity">Learn More</a>
                         </p>
                      </div>
                   </div>
@@ -162,7 +162,7 @@ export default function ThanYouLP() {
                         <p className="pbb-20">
                            At Blanchard, we firmly believe everyone should have an excellent manager—and can learn to become one. Our SLII® leadership development program helps equip individuals with the knowledge of acting according to varying circumstances and offers the correct guidance when necessary. Moreover, managers learn how to communicate effectively to gain trust among one’s team. With these fundamentals, we advise leaders on their way to becoming exceptional coaches who can motivate and facilitate the achievements of their employees.
                         </p>
-                        <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>Learn More About SLII</a>
+                        <a href='/our-content/programs/slii' className='kbbtn kbbtn--orange mtt-20'>Learn More About SLII</a>
                      </div>
                   </div>
 
@@ -193,15 +193,15 @@ export default function ThanYouLP() {
                         </p>
                         <h4 className="hforh">Leading People Through Change®</h4>
                         <p className="pbb-0 acccl">
-                        Discover how to take a high-involvement, collaborative approach to change. This inclusive method draws on research and our 30+ years of practical experience in the field. <a href="#">Learn More</a>
+                        Discover how to take a high-involvement, collaborative approach to change. This inclusive method draws on research and our 30+ years of practical experience in the field. <a href="/our-content/programs/leading-people-through-change">Learn More</a>
                         </p>
                         <h4 className="hforh">Leadership Point of View™</h4>
                         <p className="pbb-0 acccl">
-                        Engage in an immersive experience that helps leaders uncover their values, write their leadership points of view, and create trusting relationships with their people. <a href="#">Learn More</a>
+                        Engage in an immersive experience that helps leaders uncover their values, write their leadership points of view, and create trusting relationships with their people. <a href="/our-content/programs/leadership-point-of-view">Learn More</a>
                         </p>
                         <h4 className="hforh">Courageous Inclusion™</h4>
                         <p className="pbb-0 acccl">
-                        Take action on DEI topics by adopting a mindset that promotes diversity and inclusion and learning a process to become more knowledgeable and active proponents. <a href="#">Learn More</a>
+                        Take action on DEI topics by adopting a mindset that promotes diversity and inclusion and learning a process to become more knowledgeable and active proponents. <a href="/our-content/programs/courageous-inclusion">Learn More</a>
                         </p>
                      </div>
                   </div>

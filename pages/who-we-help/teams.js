@@ -96,32 +96,32 @@ export default function ThanYouLP() {
                             <div className="row">
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="#">Team Leadership</a>
+                                        <a href="/our-content/programs/team-leadership">Team Leadership</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="#">Team Coaching</a>
+                                        <a href="/what-we-do/services/coaching">Team Coaching</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="#">Conversational Capacity</a>
+                                        <a href="/our-content/programs/conversational-capacity">Conversational Capacity</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="#">Teaming and Collaboration</a>
+                                        <a href="/our-content/challenges/teaming-collaboration">Teaming and Collaboration</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="#">Leadership Point of View</a>
+                                        <a href="/our-content/programs/leadership-point-of-view">Leadership Point of View</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="#">Inclusion & Diversity</a>
+                                        <a href="/our-content/challenges/diversity-inclusion">Inclusion & Diversity</a>
                                     </div>
                                 </div>                                
                             </div>
@@ -142,6 +142,7 @@ export default function ThanYouLP() {
                                 <p className="headingp">
                                 Team leaders must be equipped to navigate the inevitable changes associated with team development and strive for business results. Blanchard offers top-notch programs and resources to equip them with the tools necessary for success. Our experienced content arms them with the knowledge required to anticipate common difficulties and explain their vision in an engaging manner that resonates with each team member's role in achieving it. The latest research and four decades of leadership expertise fuel our capability to give leaders the power they need to maintain positive team performance.
                                 </p>
+                                <a target="_blank" href='/our-content/programs/team-leadership' className='kbbtn kbbtn--orange mtt-20'>Learn More</a>
                             </div>
                         </div>
 

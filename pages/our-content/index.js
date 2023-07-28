@@ -117,9 +117,7 @@ export default function ThanYouLP() {
                             <p className="headingp text-justify pbb-10">
                             We have all the different learning modalities organizations want to use to engage their trainees. Blanchard's content modalities assist organizations in meeting leaders where they are by providing a selection of distribution options tailored to various learning styles, preferences, and needs. In-person workshops, online and virtual courses, assessments, coaching, and reinforcement tools are just a few of our delivery options. We assist you in providing your workforce the freedom to embark on their leadership development learning journey in the format that best suits your business, whether face-to-face peer interaction or online self-paced learning.
                             </p>
-                            {/* <div className="twobtninone">
-                                <a href='/our-content/modalities' className='kbbtn kbbtn--orange mtt-20'>View Modalities</a>
-                            </div> */}
+                            <a href='/our-content/modalities' className='kbbtn kbbtn--orange mtt-20'>View Modalities</a>
                         </div>
                     </div>
                 </div>

@@ -70,44 +70,44 @@ export default function ThanYouLP() {
                     <div className="row">
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="#">Leadership Development Programs</a>
+                                <a href="/what-we-do/leadership-development/leadership-development-programs">Leadership Development Programs</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="#">Learning Journeys</a>
+                                <a href="/what-we-do/leadership-development/learning-journeys">Learning Journeys</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="#">Digital and Virtual Learning Experiences</a>
+                                <a href="/what-we-do/leadership-development/digital-virtual-learning-experiences">Digital and Virtual Learning Experiences</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="#">Propel by Blanchard</a>
+                                <a href="/what-we-do/leadership-development/propel-by-blanchard">Propel by Blanchard</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="#">Keynotes</a>
+                                <a href="/what-we-do/leadership-development/keynotes">Keynotes</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="#">Content Licensing</a>
+                                <a href="/what-we-do/leadership-development/content-licensing">Content Licensing</a>
                             </div>
                         </div>
                         <div className="col-sm-2"></div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="#">Public Courses</a>
+                                <a href="/resources/public-courses">Public Courses</a>
                             </div>
                         </div>
 
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="#">Training for Coaches and Trainers</a>
+                                <a href="/what-we-do/leadership-development/training-for-trainers">Training for Coaches and Trainers</a>
                             </div>
                         </div>
                     </div>

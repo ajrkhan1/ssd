@@ -70,32 +70,32 @@ export default function ThanYouLP() {
                     <div className="row">
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="#">Assessments</a>
+                                <a href="/what-we-do/services/assessments">Assessments</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="#">Coaching</a>
+                                <a href="/what-we-do/services/coaching">Coaching</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="#">Facilitation</a>
+                                <a href="/what-we-do/services/facilitation">Facilitation</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="#">Measurement & Impact</a>
+                                <a href="/what-we-do/services/measurement-impact">Measurement & Impact</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="#">Moderation & Community Management</a>
+                                <a href="/what-we-do/services/moderation-community-management">Moderation & Community Management</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="#">Reinforcement & Sustainment</a>
+                                <a href="/what-we-do/services/reinforcement-sustainment">Reinforcement & Sustainment</a>
                             </div>
                         </div>
                     </div>

@@ -170,10 +170,10 @@ export default function ThanYouLP() {
                     <div className="row align-items-center">
                         <div className="col-sm-6">
                             <h2 className="sectionh">
-                            Unleash executive potential
+                            ULet’s discuss your leadership delivery needs
                             </h2>
                             <p className="headingp pbb-10 font2438">
-                            Change the lives of your executives and those they lead with Blanchard's executive development programs.
+                            Contact us to explore how we can work with you to provide your organization with dynamic learning experiences tailored to your most pressing leadership needs.
                             </p>                          
                             <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>Get Started</a>
                         </div>

@@ -122,32 +122,32 @@ export default function ThanYouLP() {
                     <div className="row">
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="#">Curated Learning Journeys</a>
+                                <a href="/what-we-do/custom-solutions/curated-learning-journeys">Curated Learning Journeys</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="#">Customized Learning Experiences</a>
+                                <a href="/what-we-do/custom-solutions/customized-learning-experiences">Customized Learning Experiences</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="#">Custom Coaching Solutions</a>
+                                <a href="/what-we-do/custom-solutions/custom-coaching">Custom Coaching Solutions</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="#">Executive Development Experiences</a>
+                                <a href="/what-we-do/custom-solutions/executive-development">Executive Development Experiences</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="#">Content Integration</a>
+                                <a href="/what-we-do/custom-solutions/content-integration">Content Integration</a>
                             </div>
                         </div>
                         <div className="col-sm-4">
                             <div className="hrfbox">
-                                <a href="#">Talent Strategy</a>
+                                <a href="/what-we-do/custom-solutions/talent-strategy">Talent Strategy</a>
                             </div>
                         </div>
                     </div>

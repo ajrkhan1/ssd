@@ -77,7 +77,7 @@ export default function ThanYouLP() {
 
 
 
-         <div className="LeadershipResources">
+         <div className="LeadershipResources ">
             <div className="container pbb-50">
                <div className='row'>
 
@@ -95,40 +95,40 @@ export default function ThanYouLP() {
 
                   <div className='col-sm-3'>
                      <div className='reinner'>
-                        <a className="minihc" href='#'>
+                        <a className="minihc" href='/our-content/programs/self-leadership'>
                            <img src="/assets/img/kbnew/icon/Self-leadership.svg" alt="Images" />
                            <h3>Self <br></br>Leadership</h3>
-                           <a href='#' className='kbbtn kbbtn--orange mtt-20'>Learn More</a>
+                           <a href='/our-content/programs/self-leadership' className='kbbtn kbbtn--orange mtt-20 ptt-10 pbb-10'>Learn More</a>
                         </a>
                      </div>
                   </div>
 
                   <div className='col-sm-3'>
                      <div className='reinner'>
-                        <a className="minihc" href='#'>
+                        <a className="minihc" href='/resources/public-courses'>
                            <img src="/assets/img/kbnew/icon/course-listing.svg" alt="Images" />
                            <h3>Course <br></br>Listing</h3>
-                           <a href='#' className='kbbtn kbbtn--orange mtt-20'>Learn More</a>
+                           <a href='/resources/public-courses' className='kbbtn kbbtn--orange mtt-20 ptt-10 pbb-10'>Learn More</a>
                         </a>
                      </div>
                   </div>
 
                   <div className='col-sm-3'>
                      <div className='reinner'>
-                        <a className="minihc" href='#'>
+                        <a className="minihc" href='/events-workshops'>
                            <img src="/assets/img/kbnew/icon/upcoming-webinars.svg" alt="Images" />
-                           <h3>Upcoming <br></br>Webinars</h3>
-                           <a href='#' className='kbbtn kbbtn--orange mtt-20'>Learn More</a>
+                           <h3>Upcoming <br></br>Workshops</h3>
+                           <a href='/events-workshops' className='kbbtn kbbtn--orange mtt-20 ptt-10 pbb-10'>Learn More</a>
                         </a>
                      </div>
                   </div>
 
                   <div className='col-sm-3'>
                      <div className='reinner'>
-                        <a className="minihc" href='#'>
+                        <a className="minihc" href='/our-content/challenges/personal-effectiveness'>
                            <img src="/assets/img/kbnew/icon/personal-effectiveness.svg" alt="Images" />
                            <h3>Personal <br></br>Effectiveness</h3>
-                           <a href='#' className='kbbtn kbbtn--orange mtt-20'>Learn More</a>
+                           <a href='/our-content/challenges/personal-effectiveness' className='kbbtn kbbtn--orange mtt-20 ptt-10 pbb-10'>Learn More</a>
                         </a>
                      </div>
                   </div>
@@ -145,7 +145,7 @@ export default function ThanYouLP() {
                             <p className="headingp">
                             There’s never been a better time to kick-start your career growth than now. Put Blanchard’s research-backed leadership and management expertise to work for you. We offer in-person, online, and virtual courses to help you build the skills you need to become more effective in your work and advance your career. So what are you waiting for? Check out our upcoming programs and start putting your career dreams into motion.
                             </p>                           
-                            <a href='#' className='kbbtn kbbtn--orange mtt-20'>View Course Listings</a>
+                            <a href='/resources/public-courses' className='kbbtn kbbtn--orange mtt-20'>View Course Listings</a>
                         </div>
 
                         <div className="col-sm-6">

@@ -310,11 +310,11 @@ export default function ThanYouLP() {
                             </div>
                         </div>
 
-                        <div className="col-sm-12 text-center pbb-60">
+                        {/* <div className="col-sm-12 text-center pbb-60">
                             <div className="twobtninone">
                                 <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>Explore our global locations</a>
                             </div>
-                        </div>
+                        </div> */}
 
                         <div className='col-sm-3'>
                             <div className="countercc">

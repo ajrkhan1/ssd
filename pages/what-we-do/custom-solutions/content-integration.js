@@ -63,7 +63,7 @@ export default function ThanYouLP() {
 
                   <div className='col-sm-3'>
                      <div className='reinner inncc'>
-                        <a className="minihc" href='#'>
+                        <a className="minihc" href=''>
                            <img src="/assets/img/kbnew/icon/strategic-intergration.svg" alt="Images" />
                            <h3>Strategic <br></br>Integration</h3>
                            <p>
@@ -75,7 +75,7 @@ export default function ThanYouLP() {
 
                   <div className='col-sm-3'>
                      <div className='reinner inncc'>
-                        <a className="minihc" href='#'>
+                        <a className="minihc" href=''>
                            <img src="/assets/img/kbnew/icon/we-are-where-you-are.svg" alt="Images" />
                            <h3>Wherever you are, we are there</h3>
                            <p>
@@ -87,7 +87,7 @@ export default function ThanYouLP() {
 
                   <div className='col-sm-3'>
                      <div className='reinner inncc'>
-                        <a className="minihc" href='#'>
+                        <a className="minihc" href=''>
                            <img src="/assets/img/kbnew/icon/Your-LMS-or-ours.svg" alt="Images" />
                            <h3>Your LMS or Ours</h3>
                            <p>
@@ -99,7 +99,7 @@ export default function ThanYouLP() {
 
                   <div className='col-sm-3'>
                      <div className='reinner inncc'>
-                        <a className="minihc" href='#'>
+                        <a className="minihc" href=''>
                            <img src="/assets/img/kbnew/icon/increase-effectiveness.svg" alt="Images" />
                            <h3>Ease of Access</h3>
                            <p>

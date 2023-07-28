@@ -72,32 +72,32 @@ export default function ThanYouLP() {
                             <div className="row">
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="#">Leadership Capabilities</a>
+                                        <a href="/our-content/challenges/leadership-capabilities">Leadership Capabilities</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="#">Change & Agility</a>
+                                        <a href="/our-content/challenges/change-agility">Change & Agility</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="#">Diversity & Inclusion</a>
+                                        <a href="/our-content/challenges/diversity-inclusion">Diversity & Inclusion</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="#">Engagement & Retention</a>
+                                        <a href="/our-content/challenges/engagement-retention">Engagement & Retention</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="#">Personal Effectiveness</a>
+                                        <a href="/our-content/challenges/personal-effectiveness">Personal Effectiveness</a>
                                     </div>
                                 </div>
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="#">Organizational Performance</a>
+                                        <a href="/our-content/challenges/organizational-performance">Organizational Performance</a>
                                     </div>
                                 </div>
 
@@ -105,7 +105,7 @@ export default function ThanYouLP() {
 
                                 <div className="col-sm-4">
                                     <div className="hrfbox">
-                                        <a href="#">Teaming & Collaboration</a>
+                                        <a href="/our-content/challenges/teaming-collaboration">Teaming & Collaboration</a>
                                     </div>
                                 </div>
                             </div>

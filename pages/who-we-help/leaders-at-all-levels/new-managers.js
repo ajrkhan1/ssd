@@ -81,22 +81,22 @@ export default function ThanYouLP() {
                         <div className='col-sm-6'>
                             <div>
                                 <h2>
-                                Ensure the success of new managers
+                                    Ensure the success of new managers
                                 </h2>
                                 <p className="pbb-0">
-                                You want to ensure their success when promoting high-potential individual contributors into their first people manager role. You must support those just starting to manage people with the necessary training and leadership tools from the start.
+                                    You want to ensure their success when promoting high-potential individual contributors into their first people manager role. You must support those just starting to manage people with the necessary training and leadership tools from the start.
                                 </p>
                                 <h4 className="hforh">Build early momentum</h4>
                                 <p className="pbb-0">
-                                Provide new managers with the confidence and skills to lead productive teams.
+                                    Provide new managers with the confidence and skills to lead productive teams.
                                 </p>
                                 <h4 className="hforh">Engage your employees</h4>
                                 <p className="pbb-0">
-                                To shift from being an individual contributor, you must learn how to balance execution with employee engagement.
+                                    To shift from being an individual contributor, you must learn how to balance execution with employee engagement.
                                 </p>
                                 <h4 className="hforh">Communicate effectively</h4>
                                 <p className="pbb-0">
-                                Clear communication of organizational goals and how the team's work supports them is essential for new managers to succeed.
+                                    Clear communication of organizational goals and how the team's work supports them is essential for new managers to succeed.
                                 </p>
                             </div>
                         </div>
@@ -111,7 +111,7 @@ export default function ThanYouLP() {
                         <div className="col-sm-6">
                             <h2 className="sectionh">Empower first-time managers with decades of training experience</h2>
                             <p className="headingp">
-                            Not surprisingly, 49% of new managers don't feel ready to succeed, as 60% have not received adequate training for their new roles. Excerpted from the bestselling book The New One Minute Manager®, describes the mindset, key conversations, and communication skills entry-level managers need to succeed quickly, including how to:
+                                Not surprisingly, 49% of new managers don't feel ready to succeed, as 60% have not received adequate training for their new roles. Excerpted from the bestselling book The New One Minute Manager®, describes the mindset, key conversations, and communication skills entry-level managers need to succeed quickly, including how to:
                             </p>
                             <ul className="ptt-20">
                                 <li>Move direct reports forward on goals</li>
@@ -124,7 +124,7 @@ export default function ThanYouLP() {
                                 <li>Provide guidance, coaching, and training to team members</li>
                                 <li>Support the team's goals by advocating for resources</li>
                             </ul>
-                            
+
                         </div>
                         <div className="col-sm-6 pa0000">
                             <div className="mimg100 pll-90">
@@ -139,21 +139,17 @@ export default function ThanYouLP() {
             <section className='ExperiencesCourses pbb-60 ptt-50'>
                 <div className='container'>
                     <div className='row'>
-                      
+
                         <div className='col-sm-12'>
                             <div className='row'>
                                 <div className='col-sm-8'>
                                     <h2 className='pbb-50'>New Manager Programs</h2>
                                 </div>
                                 <div className='col-sm-4 viewall'>
-                                    <a href='#'>Explore Additional Solutions <i class="bx bx-right-arrow-alt"></i></a>
+                                    <a href='/our-content/programs'>Explore Additional Solutions <i class="bx bx-right-arrow-alt"></i></a>
                                 </div>
                             </div>
                         </div>
-
-
-
-
 
                         <div className='col-sm-12'>
                             <Slider {...settings2}>
@@ -167,10 +163,10 @@ export default function ThanYouLP() {
                                         <div className='slboxbottom'>
                                             <div className="slboxheight">
                                                 <span className='sltype'>Program</span>
-                                                <h3>SLII® Powering Inspired Leaders™</h3>
-                                                <p>Only situational leaders can motivate their workers to rise to the challenge.</p>
+                                                <h3>Blanchard Management Essentials®</h3>
+                                                <p>The fundamental skills for every manager</p>
                                             </div>
-                                            <a href='#' className='kbbtn kbbtn--orange'>Learn More</a></div>
+                                            <a href='/our-content/programs/blanchard-management-essentials' className='kbbtn kbbtn--orange'>Learn More</a></div>
                                     </div>
                                 </div>
 
@@ -182,12 +178,12 @@ export default function ThanYouLP() {
                                             </div>
                                         </div>
                                         <div className='slboxbottom'>
-                                        <div className="slboxheight">
-                                            <span className='sltype'>Program</span>
-                                            <h3>Coaching Essentials®</h3>
-                                            <p>Essential coaching abilities for managers and leaders</p>
+                                            <div className="slboxheight">
+                                                <span className='sltype'>Program</span>
+                                                <h3>Building Trust</h3>
+                                                <p>Trust is at the heart of every relationship, and it’s especially critical in the workplace</p>
                                             </div>
-                                            <a href='#' className='kbbtn kbbtn--orange'>Learn More</a></div>
+                                            <a href='/our-content/programs/building-trust' className='kbbtn kbbtn--orange'>Learn More</a></div>
                                     </div>
                                 </div>
 
@@ -199,12 +195,29 @@ export default function ThanYouLP() {
                                             </div>
                                         </div>
                                         <div className='slboxbottom'>
-                                        <div className="slboxheight">
-                                            <span className='sltype'>Webinar</span>
-                                            <h3 className='colortheme'>Essential Motivators™</h3>
-                                            <p className='colorblack'>Enhance collaboration by knowing yourself and others</p>
+                                            <div className="slboxheight">
+                                                <span className='sltype'>Program</span>
+                                                <h3 className='colortheme'>Conversational Capacity®</h3>
+                                                <p className='colorblack'>Remaining candid and curious under pressure</p>
                                             </div>
-                                            <a href='#' className='kbbtn kbbtn--orange'>Learn More</a></div>
+                                            <a href='/our-content/programs/conversational-capacity' className='kbbtn kbbtn--orange'>Learn More</a></div>
+                                    </div>
+                                </div>
+
+                                <div className='slxpd30'>
+                                    <div className='slbox darkblueboxc forwhitec'>
+                                        <div className='slboxheader'>
+                                            <div className='slboxfigure'>
+                                                <div className='slboximg2'></div>
+                                            </div>
+                                        </div>
+                                        <div className='slboxbottom'>
+                                            <div className="slboxheight">
+                                                <span className='sltype'>Program</span>
+                                                <h3>Essential Motivators™</h3>
+                                                <p>Boost collaboration by better understanding yourself and others</p>
+                                            </div>
+                                            <a href='/our-content/programs/essential-motivators' className='kbbtn kbbtn--orange'>Learn More</a></div>
                                     </div>
                                 </div>
                             </Slider>
@@ -223,11 +236,11 @@ export default function ThanYouLP() {
                         <div className="col-sm-6">
                             <h2 className="sectionh">Establish a foundation for success for new managers</h2>
                             <p className="headingp text-justify pbb-10">
-                            Blanchard recognizes that even the most successful individual contributors could struggle when taking on the duty of people manager. Join us in creating learning paths for your new people managers to help build their skills and get their teams geared up for success. Together, we will formulate a training program that links learning goals and objectives with your operational priorities, aiding individual contributors to comprehend the personal benefits and the significance it holds for the organization.
-                            </p>                            
+                                Blanchard recognizes that even the most successful individual contributors could struggle when taking on the duty of people manager. Join us in creating learning paths for your new people managers to help build their skills and get their teams geared up for success. Together, we will formulate a training program that links learning goals and objectives with your operational priorities, aiding individual contributors to comprehend the personal benefits and the significance it holds for the organization.
+                            </p>
                             <a href='/get-started' className='kbbtn kbbtn--orange mtt-20'>Talk to an Expert</a>
                         </div>
-                        
+
                         <div className="col-sm-6">
                             <div className="mimg100 imgborder pll-90">
                                 <img className="" src="/assets/img/kbnew/Give-New-Managers-a-Foundation.jpg" alt="Images" />
