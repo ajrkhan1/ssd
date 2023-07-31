@@ -232,14 +232,15 @@ export default function ThanYouLP() {
             <section className="ptt-90 ExploreCustom contanerbgc">
                 <div className="container contanerbgc mbordee pbb-60 ptt-60">
                     <div className="row align-items-center">
-                        <div className="col-sm-6">
+                        <div className="col-sm-3"></div>
+                        <div className="col-sm-6 text-center">
                             <h2 className="sectionh">Are you ready to get started?</h2>
-                            <p className="headingp text-justify pbb-10">
+                            <p className="headingp pbb-10">
                             Learn how we can help your leaders become more effective communicators by contacting us today.
                             </p>
                             <a href='/get-started' className='kbbtn kbbtn--orange  mtt-10'>Talk to an Expert</a>
                         </div>
-                        <div className="col-sm-6">
+                        {/* <div className="col-sm-6">
                             <div className="mimg100 imgborder pll-30">
                                 <div className="row text-center mmcsh">
                                     <div className="col-sm-12 pbb-30">
@@ -259,7 +260,8 @@ export default function ThanYouLP() {
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
+
                     </div>
                 </div>
             </section>

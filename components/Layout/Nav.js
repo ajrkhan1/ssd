@@ -314,10 +314,7 @@ function Nav() {
                                                         <p>
                                                             Learn about the Blanchard Community and how to join.
                                                         </p>
-                                                        <a href="/events-workshops">Upcoming Webinar</a>
-                                                        <p>
-                                                            Join us June 20th at 7am PDT for our next webinar: Flexibly Matching Your Leadership Style to the Needs of Your People
-                                                        </p>
+                                                       
                                                     </div>
                                                     <div className="col-sm-9 bodlet">
                                                         <div className="row bigmenua">
