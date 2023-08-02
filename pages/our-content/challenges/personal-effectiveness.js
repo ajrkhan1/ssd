@@ -27,16 +27,16 @@ export default function ThanYouLP() {
             {
                 breakpoint: 600,
                 settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 2,
-                    initialSlide: 2
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    initialSlide: 1
                 }
             },
             {
                 breakpoint: 480,
                 settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 2
+                    slidesToShow: 1,
+                    slidesToScroll: 1
                 }
             }
         ]
@@ -164,7 +164,7 @@ export default function ThanYouLP() {
                                     <h2 className='pbb-50'>Recommended Solutions</h2>
                                 </div>
                                 <div className='col-sm-4 viewall'>
-                                    <a href='#'>Explore Additional Solutions <i class="bx bx-right-arrow-alt"></i></a>
+                                    <a href='/our-content/programs'>Explore Additional Solutions <i class="bx bx-right-arrow-alt"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -185,10 +185,10 @@ export default function ThanYouLP() {
                                         <div className='slboxbottom'>
                                             <div className="slboxheight">
                                                 <span className='sltype'>Program</span>
-                                                <h3>SLII® Powering Inspired Leaders™</h3>
-                                                <p>Only situational leaders can motivate their workers to rise to the challenge.</p>
+                                                <h3>Self Leadership</h3>
+                                                <p>Create a workforce of self leaders to power your organization</p>
                                             </div>
-                                            <a href='#' className='kbbtn kbbtn--orange'>Learn More</a></div>
+                                            <a href='/our-content/programs/self-leadership' className='kbbtn kbbtn--orange'>Learn More</a></div>
                                     </div>
                                 </div>
 
@@ -202,10 +202,10 @@ export default function ThanYouLP() {
                                         <div className='slboxbottom'>
                                         <div className="slboxheight">
                                             <span className='sltype'>Program</span>
-                                            <h3>Coaching Essentials®</h3>
-                                            <p>Essential coaching abilities for managers and leaders</p>
+                                            <h3>Conversational Capacity®</h3>
+                                            <p>Remaining candid and curious under pressure</p>
                                             </div>
-                                            <a href='#' className='kbbtn kbbtn--orange'>Learn More</a></div>
+                                            <a href='/our-content/programs/conversational-capacity' className='kbbtn kbbtn--orange'>Learn More</a></div>
                                     </div>
                                 </div>
 
@@ -218,13 +218,30 @@ export default function ThanYouLP() {
                                         </div>
                                         <div className='slboxbottom'>
                                         <div className="slboxheight">
-                                            <span className='sltype'>Webinar</span>
-                                            <h3 className='colortheme'>Essential Motivators™</h3>
-                                            <p className='colorblack'>Enhance collaboration by knowing yourself and others</p>
+                                            <span className='sltype'>Program</span>
+                                            <h3 className='colortheme'>Building Trust</h3>
+                                            <p className='colorblack'>Trust is at the heart of every relationship, and it’s especially critical in the workplace</p>
                                             </div>
-                                            <a href='#' className='kbbtn kbbtn--orange'>Learn More</a></div>
+                                            <a href='/our-content/programs/building-trust' className='kbbtn kbbtn--orange'>Learn More</a></div>
                                     </div>
                                 </div>
+
+                                <div className='slxpd30'>
+                                    <div className='slbox darkblueboxc forwhitec'>
+                                        <div className='slboxheader'>
+                                            <div className='slboxfigure'>
+                                                <div className='slboximg2'></div>
+                                            </div>
+                                        </div>
+                                        <div className='slboxbottom'>
+                                        <div className="slboxheight">
+                                            <span className='sltype'>Program</span>
+                                            <h3>Essential Motivators™</h3>
+                                            <p>Boost collaboration by better understanding yourself and others</p>
+                                            </div>
+                                            <a href='/our-content/programs/essential-motivators' className='kbbtn kbbtn--orange'>Learn More</a></div>
+                                    </div>
+                                </div> 
                             </Slider>
                         </div>
 

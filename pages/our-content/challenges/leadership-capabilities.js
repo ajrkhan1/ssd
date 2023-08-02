@@ -144,7 +144,7 @@ export default function ThanYouLP() {
                                     <h2 className='pbb-50'>Recommended Solutions</h2>
                                 </div>
                                 <div className='col-sm-4 viewall'>
-                                    <a href='#'>Explore Additional Solutions <i class="bx bx-right-arrow-alt"></i></a>
+                                    <a href='/our-content/programs'>Explore Additional Solutions <i class="bx bx-right-arrow-alt"></i></a>
                                 </div>
                             </div>
                         </div>

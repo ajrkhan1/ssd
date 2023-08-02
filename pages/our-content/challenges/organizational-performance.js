@@ -27,16 +27,16 @@ export default function ThanYouLP() {
             {
                 breakpoint: 600,
                 settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 2,
-                    initialSlide: 2
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    initialSlide: 1
                 }
             },
             {
                 breakpoint: 480,
                 settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 2
+                    slidesToShow: 1,
+                    slidesToScroll: 1
                 }
             }
         ]
@@ -159,7 +159,7 @@ export default function ThanYouLP() {
                                     <h2 className='pbb-50'>Recommended Solutions</h2>
                                 </div>
                                 <div className='col-sm-4 viewall'>
-                                    <a href='#'>Explore Additional Solutions <i class="bx bx-right-arrow-alt"></i></a>
+                                    <a href='/our-content/programs'>Explore Additional Solutions <i class="bx bx-right-arrow-alt"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -180,10 +180,10 @@ export default function ThanYouLP() {
                                         <div className='slboxbottom'>
                                             <div className="slboxheight">
                                                 <span className='sltype'>Program</span>
-                                                <h3>SLII® Powering Inspired Leaders™</h3>
-                                                <p>Only situational leaders can motivate their workers to rise to the challenge.</p>
+                                                <h3>Leadership Point of View™</h3>
+                                                <p>Ignite your workforce with leaders who can define and share their leadership stories</p>
                                             </div>
-                                            <a href='#' className='kbbtn kbbtn--orange'>Learn More</a></div>
+                                            <a href='/our-content/programs/leadership-point-of-view' className='kbbtn kbbtn--orange'>Learn More</a></div>
                                     </div>
                                 </div>
 
@@ -197,10 +197,10 @@ export default function ThanYouLP() {
                                         <div className='slboxbottom'>
                                         <div className="slboxheight">
                                             <span className='sltype'>Program</span>
-                                            <h3>Coaching Essentials®</h3>
-                                            <p>Essential coaching abilities for managers and leaders</p>
+                                            <h3>Courageous Inclusion®</h3>
+                                            <p>A framework for creating a more inclusive environment</p>
                                             </div>
-                                            <a href='#' className='kbbtn kbbtn--orange'>Learn More</a></div>
+                                            <a href='/programs/courageous-inclusion' className='kbbtn kbbtn--orange'>Learn More</a></div>
                                     </div>
                                 </div>
 
@@ -213,11 +213,28 @@ export default function ThanYouLP() {
                                         </div>
                                         <div className='slboxbottom'>
                                         <div className="slboxheight">
-                                            <span className='sltype'>Webinar</span>
-                                            <h3 className='colortheme'>Essential Motivators™</h3>
-                                            <p className='colorblack'>Enhance collaboration by knowing yourself and others</p>
+                                            <span className='sltype'>Program</span>
+                                            <h3 className='colortheme'>Building Trust</h3>
+                                            <p className='colorblack'>Trust is at the heart of every relationship, and it’s especially critical in the workplace</p>
                                             </div>
-                                            <a href='#' className='kbbtn kbbtn--orange'>Learn More</a></div>
+                                            <a href='/our-content/programs/building-trust' className='kbbtn kbbtn--orange'>Learn More</a></div>
+                                    </div>
+                                </div>
+
+                                <div className='slxpd30'>
+                                    <div className='slbox darkblueboxc forwhitec'>
+                                        <div className='slboxheader'>
+                                            <div className='slboxfigure'>
+                                                <div className='slboximg2'></div>
+                                            </div>
+                                        </div>
+                                        <div className='slboxbottom'>
+                                        <div className="slboxheight">
+                                            <span className='sltype'>Program</span>
+                                            <h3>Servant Leadership Essentials™</h3>
+                                            <p>Working side-by-side in partnership with people</p>
+                                            </div>
+                                            <a href='/our-content/programs/servant-leadership-essentials' className='kbbtn kbbtn--orange'>Learn More</a></div>
                                     </div>
                                 </div>
                             </Slider>
