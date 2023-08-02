@@ -150,7 +150,7 @@ fbq('track', 'PageView');
                            <h2 className='pbb-50'>Trending Insights</h2>
                         </div>
                         <div className='col-sm-6 viewall'>
-                           <a href='#'>View All Trending Insights <i class="bx bx-right-arrow-alt"></i></a>
+                           <a href='/resources/research-insights/amping-up-your-learning-investment'>View All Trending Insights <i class="bx bx-right-arrow-alt"></i></a>
                         </div>
                      </div>
                   </div>
@@ -159,8 +159,8 @@ fbq('track', 'PageView');
                      <div className='innerbox'>
                         <h3>01</h3>
                         <div className='innerp'>
-                           <p>2023 Trends Report: Enhancing the Employee Experience in a Hybrid World</p>
-                           <a href='#'>Read Now</a>
+                           <p>Amping Up the Value and Return of Your Learning Investment</p>
+                           <a href='/resources/research-insights/amping-up-your-learning-investment'>Read Now</a>
                         </div>
                      </div>
                   </div>
@@ -169,8 +169,8 @@ fbq('track', 'PageView');
                      <div className='innerbox'>
                         <h3>02</h3>
                         <div className='innerp'>
-                           <p>SLII®. Why a Situational Approach to Leadership Makes All the Difference</p>
-                           <a href='#'>Read Now</a>
+                           <p>An Unvarnished Look at Asking Employees to Return to the Office</p>
+                           <a href='/resources/research-insights/hybrid-work-pov'>Read Now</a>
                         </div>
                      </div>
                   </div>
@@ -179,8 +179,8 @@ fbq('track', 'PageView');
                      <div className='innerbox'>
                         <h3>03</h3>
                         <div className='innerp'>
-                           <p>Amid Constant Change, 3 Fundamentals of Leadership Remain the Same</p>
-                           <a href='#'>Read Now</a>
+                           <p>Six Ways to Supercharge Your Next One-on-One with Your Boss</p>
+                           <a href='/resources/research-insights/supercharge-your-one-on-one'>Read Now</a>
                         </div>
                      </div>
                   </div>
@@ -189,8 +189,8 @@ fbq('track', 'PageView');
                      <div className='innerbox'>
                         <h3>04</h3>
                         <div className='innerp'>
-                           <p>Are You a Directive or Supportive Leader?</p>
-                           <a href='#'>Read Now</a>
+                           <p>Transformational Leadership: Inspiring Change and Driving Innovation</p>
+                           <a href='/blog/transformational-leadership-inspiring-change-and-driving-innovation'>Read Now</a>
                         </div>
                      </div>
                   </div>
