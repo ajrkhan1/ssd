@@ -27,16 +27,16 @@ export default function ThanYouLP() {
             {
                 breakpoint: 600,
                 settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 2,
-                    initialSlide: 2
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    initialSlide: 1
                 }
             },
             {
                 breakpoint: 480,
                 settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 2
+                    slidesToShow: 1,
+                    slidesToScroll: 1
                 }
             }
         ]
@@ -45,7 +45,7 @@ export default function ThanYouLP() {
     return (
         <>
             <Head>
-                <title>Developing Leadership Capability | Blanchard International</title>
+                <title>Change & Agility| Blanchard International</title>
                 <meta name="description" content="Learn the core capabilities today’s leaders need to be successful and how Blanchard’s programs can develop your organization’s leadership capability." />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
@@ -58,7 +58,7 @@ export default function ThanYouLP() {
                                 <li className="brdlifirst"><a href="/">HOME</a></li>
                                 <li className="brdlifirst"><a href="/our-content">OUR CONTENT</a></li>
                                 <li className="brdlifirst"><a href="/our-content/challenges">CHALLENGES</a></li>
-                                <li><a><span>LEADERSHIP CAPABILITIES</span></a></li>
+                                <li><a><span>CHANGE & AGILITY</span></a></li>
                             </ul>
                         </div>
                         <div className="col-sm-12">
@@ -166,10 +166,10 @@ export default function ThanYouLP() {
                                         <div className='slboxbottom'>
                                             <div className="slboxheight">
                                                 <span className='sltype'>Program</span>
-                                                <h3>SLII® Powering Inspired Leaders™</h3>
-                                                <p>Only situational leaders can motivate their workers to rise to the challenge.</p>
+                                                <h3>Leading People Through Change®</h3>
+                                                <p>A proven solution for leading organizational change</p>
                                             </div>
-                                            <a href='#' className='kbbtn kbbtn--orange'>Learn More</a></div>
+                                            <a href='/our-content/programs/leading-people-through-change' className='kbbtn kbbtn--orange'>Learn More</a></div>
                                     </div>
                                 </div>
 
