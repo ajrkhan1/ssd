@@ -127,7 +127,7 @@ fbq('track', 'PageView');
                <div className='row align-items-center'>
                   <div className='col-sm-7'>
                      <div className='left-ba'>
-                        <h1>Phe Heart of Human <br></br>Achievement™</h1>
+                        <h1>The Heart of Human <br></br>Achievement™</h1>
                         <p>Developing Inspired Leaders through Engaging, Human-powered Learning Experiences</p>
                         <a href='/what-we-do' className='kbbtn kbbtn--orange'>Learn More</a>
                      </div>
