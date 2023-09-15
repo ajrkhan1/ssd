@@ -66,7 +66,7 @@ export default function ThanYouLP() {
                             </div>
                             <div className="col-sm-6">
                                 <div className="innerbedkms">
-                                    <h1>To TransforM Potential into Performance, Blanchard Starts at the Core of Leadership</h1>
+                                    <h1>To Transform Potential into Performance, Blanchard Starts at the Core of Leadership</h1>
                                     <p>
                                     To help leaders see every interaction as a chance to build relationships and promote trust, Blanchard starts at the core of leadership. We provide engaging, human-powered learning opportunities that help executives operate at their highest potential. These motivated leaders become the most effective catalysts for development and change within their teams, businesses, and organizations.
                                     </p>
