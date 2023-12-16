@@ -147,9 +147,15 @@ export default function Home() {
 
          <div className='fixxx'>
            <div>
-            <a href='#'>Join Now सिर्फ 555/- में</a>
+            <a className='blink' href='https://exly.co/SLjPXJ'>Join Now सिर्फ 555/- में</a>
            </div>
-         </div>       
+         </div>
+         <div className='bbbv'>
+            .
+            <br></br>
+            .
+            <br></br>
+         </div>
 
       </>
    )
