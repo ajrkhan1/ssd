@@ -143,7 +143,13 @@ export default function Home() {
          </section>
          <section className='bannehome'>
             <img src="/assets/img/im18.png" alt="Images" />
-         </section>        
+         </section> 
+
+         <div className='fixxx'>
+           <div>
+            <a href='#'>Join Now सिर्फ 555/- में</a>
+           </div>
+         </div>       
 
       </>
    )
