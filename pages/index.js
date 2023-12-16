@@ -84,7 +84,7 @@ export default function Home() {
    return (
       <>
          <Head>
-            <title>Leadership Training in India | Leadership Training Programs - Blanchard</title>
+            <title>इंग्लिश सीखो सिर्फ 45 दिनों  में 100% गारंटी के साथ</title>
 
          </Head>
 
