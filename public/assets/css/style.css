@@ -5,7 +5,7 @@ img{
 .fixxx{
     text-align: center;
     position: fixed;
-    bottom: 0px;
+    bottom: 10px;
     width: 100%;
 }
 
@@ -19,4 +19,41 @@ img{
     background-color: #008815;
     border-radius: 10px 10px 10px 10px;
     padding: 15px 20px 15px 20px;
+}
+
+.blink {
+    background-color: yellow;
+    -webkit-animation: blink 800ms step-end infinite;
+            animation: blink 800ms step-end infinite;
+}
+@-webkit-keyframes blink { 50% { background-color: red; }}
+        @keyframes blink { 50% { background-color: red; }}
+
+/*=============*/
+
+.pulse {
+    background-color: yellow;
+    -webkit-animation: blink 200ms infinite;
+            animation: blink 200ms infinite;
+}
+@-webkit-keyframes blink { 50% { background-color: red; }}
+        @keyframes blink { 50% { background-color: red; }}
+
+/*=============*/
+
+.pulse2 {
+	-webkit-animation: pulse 400ms infinite alternate;
+	        animation: pulse 400ms infinite alternate;
+}
+@-webkit-keyframes pulse {
+	0% { background-color: red; }
+	100% { background-color: yellow; }
+}
+@keyframes pulse {
+	0% { background-color: red; }
+	100% { background-color: yellow; }
+}
+
+.bbbv{
+    background-color: #08103c;
 }
